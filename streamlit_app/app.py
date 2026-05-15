@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="IPL Auction Intelligence",
+    page_title="BA Project",
     page_icon="🏏",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -113,7 +113,7 @@ st.markdown("""
 
 # ─── SIDEBAR ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.title("🏏 IPL Auction Dashboard")
+    st.title("🏏 BA Project Dashboard")
     st.markdown("📊 *Real-time Analytics & ML Insights*")
     st.divider()
     

@@ -1,4 +1,4 @@
-# Power BI Setup Guide — IPL Auction Analysis
+# Power BI Setup Guide — BA Project
 # ================================================
 # Follow these steps exactly after running the Python pipeline
 

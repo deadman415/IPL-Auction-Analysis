@@ -1,7 +1,7 @@
-# IPL Auction Intelligence — Business Intelligence Project Report
+# BA Project — Business Intelligence Project Report
 
 **Course:** Business Intelligence  
-**Project:** IPL Player Auction Price Analysis & Prediction  
+**Project:** BA Project - Auction Price Analysis & Prediction  
 **Tools:** Python · scikit-learn · SHAP · Streamlit · Power BI  
 **Dataset:** IPL Auction Records 2015–2024 (678 entries, 83 players, 10 franchises)
 

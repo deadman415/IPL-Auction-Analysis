@@ -1,5 +1,5 @@
 """
-IPL Auction Analysis — Full Pipeline
+BA Project Analysis — Full Pipeline
 EDA + Feature Engineering + ML Models + SHAP
 Run this file to train and save all models.
 """
@@ -41,7 +41,7 @@ COLORS = {
 
 # ─── 1. LOAD & INSPECT ────────────────────────────────────────────────────────
 print("=" * 60)
-print("  IPL AUCTION ANALYSIS — FULL PIPELINE")
+print("  BA PROJECT ANALYSIS — FULL PIPELINE")
 print("=" * 60)
 
 df = pd.read_csv(DATA_PATH)
@@ -57,7 +57,7 @@ sold = df[df['issold'] == 1].copy()
 
 # Plot 1 — Avg auction price by year
 fig, axes = plt.subplots(2, 2, figsize=(14, 10), facecolor='white')
-fig.suptitle("IPL Auction — Exploratory Data Analysis", fontsize=16, fontweight='bold', y=0.98)
+fig.suptitle("BA Project — Exploratory Data Analysis", fontsize=16, fontweight='bold', y=0.98)
 
 ax = axes[0, 0]
 yearly = sold.groupby('year')['soldpricecr'].agg(['mean','median']).reset_index()

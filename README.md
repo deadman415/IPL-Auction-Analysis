@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🏏 IPL Auction Intelligence — BA Project
+=======
+# BA Project
+>>>>>>> 2e26eec (Data Editing)
 
 > Predict player auction prices · Identify undervalued talent · Optimize franchise budgets
 
@@ -93,8 +97,8 @@ ipl_auction_analysis/
 ## Resume Bullet Points
 
 ```
-IPL Player Auction Price Predictor | Python, scikit-learn, SHAP, Streamlit, Power BI
-• Built end-to-end ML pipeline predicting IPL auction prices from 16 player features 
+BA Project | Python, scikit-learn, SHAP, Streamlit, Power BI
+• Built end-to-end ML pipeline predicting auction prices from 16 player features 
   using Random Forest Regression (R² = 0.6427, RMSE = ₹1.7249 Cr)
 • Implemented SHAP explainability to surface per-player auction price drivers, 
   enabling franchise budget recommendations backed by model evidence
