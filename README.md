@@ -1,4 +1,4 @@
-# 🏏 IPL Auction Intelligence — BI Project
+# 🏏 IPL Auction Intelligence — BA Project
 
 > Predict player auction prices · Identify undervalued talent · Optimize franchise budgets
 
