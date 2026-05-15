@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # 🏏 IPL Auction Intelligence — BA Project
-=======
-# BA Project
->>>>>>> 2e26eec (Data Editing)
 
 > Predict player auction prices · Identify undervalued talent · Optimize franchise budgets
 
