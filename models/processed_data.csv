@@ -1,0 +1,1380 @@
+year,playername,role,nationality,age,iplexperienceyears,battingavg,battingsr,runsscored,fifties,hundreds,wickets,economyrate,bowlingavg,bowlingsr,basepricecr,soldpricecr,issold,franchise,performancescore,valueindex
+2013,Glenn Maxwell,All-Rounder,Overseas,20,0,34.45,138.99,279,0,0,14,7.36,23.25,14.88,2.0,7.5,1,Mumbai Indians,58.49,7.8
+2013,Ajantha Mendis,Bowler,Overseas,20,0,11.08,111.63,68,0,0,15,8.96,26.21,21.11,2.0,5.44,1,Pune Warriors India,26.3,4.83
+2013,Kane Richardson,Bowler,Overseas,20,0,15.51,101.27,68,0,0,15,8.94,27.93,20.58,2.0,5.25,1,Pune Warriors India,26.36,5.02
+2013,Abhishek Nayar,All-Rounder,Indian,20,0,24.12,112.67,165,2,0,6,8.66,27.33,19.7,2.0,5.06,1,Pune Warriors India,38.44,7.6
+2013,Thisara Perera,All-Rounder,Overseas,20,0,28.4,112.11,168,1,0,6,8.43,30.56,20.78,2.0,5.06,1,Sunrisers Hyderabad,39.86,7.88
+2013,Christopher Morris,All-Rounder,Overseas,20,0,32.98,136.96,295,2,0,18,8.04,21.39,16.33,2.0,4.69,1,Chennai Super Kings,61.16,13.04
+2013,Sachithra Senanayaka,All-Rounder,Overseas,20,0,22.21,115.88,145,1,0,7,8.5,28.49,22.51,2.0,4.69,1,Kolkata Knight Riders,40.13,8.56
+2013,Dirk Nannes,Bowler,Overseas,20,0,11.48,106.55,62,0,0,13,8.56,28.15,20.4,2.0,4.5,1,Chennai Super Kings,24.44,5.43
+2013,Jaydev Unadkat,Bowler,Indian,20,0,12.09,107.36,67,0,0,18,8.31,22.16,15.62,2.0,3.94,1,Royal Challengers Bengaluru,32.74,8.31
+2013,Manpreet Gony,Bowler,Indian,20,0,9.89,114.91,75,0,0,10,9.61,27.19,19.97,2.0,3.75,1,Punjab Kings,16.92,4.51
+2013,Johan Botha,All-Rounder,Overseas,20,0,21.65,112.57,166,1,0,5,8.14,27.04,19.01,2.0,3.38,1,Delhi Capitals,37.65,11.14
+2013,Nathan Coulter-Nile,Bowler,Overseas,20,0,12.51,114.42,75,0,0,16,8.13,25.31,19.76,2.0,3.38,1,Mumbai Indians,30.36,8.98
+2013,Darren Sammy,All-Rounder,Overseas,20,0,21.7,116.81,113,0,0,4,8.97,29.18,21.52,2.0,3.19,1,Sunrisers Hyderabad,35.65,11.18
+2013,James Faulkner,All-Rounder,Overseas,20,0,18.66,113.47,118,0,0,6,8.5,29.67,20.49,2.0,3.0,1,Rajasthan Royals,37.56,12.52
+2013,Michael Clarke,Batsman,Overseas,19,0,27.51,110.7,163,1,0,2,9.35,39.29,24.92,2.0,3.0,1,Pune Warriors India,47.47,15.82
+2013,Ricky Ponting,Batsman,Overseas,19,0,25.51,113.52,141,1,0,1,9.48,38.11,28.0,2.0,3.0,1,Mumbai Indians,47.08,15.69
+2013,Rudra Pratap Singh,Bowler,Indian,20,0,10.67,106.3,45,0,0,13,9.75,31.15,20.51,2.0,3.0,1,Royal Challengers Bengaluru,20.7,6.9
+2013,Luke Pomersbach,Batsman,Overseas,19,0,25.49,114.97,155,1,0,0,10.07,38.37,26.16,2.0,2.25,1,Punjab Kings,47.79,21.24
+2013,Moises Henriques,All-Rounder,Overseas,20,0,22.6,106.86,90,0,0,9,8.0,28.54,19.16,2.0,2.25,1,Royal Challengers Bengaluru,41.82,18.59
+2013,Ravi Rampaul,Bowler,Overseas,20,0,11.17,108.4,50,0,0,7,9.08,28.02,21.67,2.0,2.17,1,Royal Challengers Bengaluru,13.76,6.34
+2013,Jesse Ryder,All-Rounder,Overseas,20,0,19.1,105.0,78,0,0,5,8.76,27.76,17.8,1.5,1.95,1,Delhi Capitals,34.25,17.56
+2013,Fidel Edwards,Bowler,Overseas,20,0,9.6,106.18,34,0,0,7,9.43,32.57,23.29,1.5,1.57,1,Rajasthan Royals,12.55,7.99
+2013,Pankaj Singh,Bowler,Indian,20,0,10.85,94.12,30,0,0,7,9.81,30.39,21.51,1.0,1.12,1,Royal Challengers Bengaluru,11.37,10.15
+2013,Clinton McKay,Bowler,Overseas,20,0,12.13,93.86,33,0,0,5,9.02,31.72,24.9,0.75,0.75,1,Sunrisers Hyderabad,10.77,14.36
+2013,Daniel Christian,All-Rounder,Overseas,20,0,18.06,108.23,40,0,0,5,9.24,31.69,20.35,0.75,0.75,1,Royal Challengers Bengaluru,33.68,44.91
+2013,Nathan McCullum,Bowler,Overseas,20,0,11.45,96.09,39,0,0,6,10.44,36.45,21.38,0.75,0.75,1,Sunrisers Hyderabad,9.39,12.52
+2013,Philip Hughes,Batsman,Overseas,19,0,17.75,101.73,71,0,0,0,8.42,35.07,31.19,0.75,0.75,1,Mumbai Indians,39.04,52.05
+2013,Sudeep Tyagi,Bowler,Indian,20,0,7.34,101.18,40,0,0,6,9.14,28.46,23.15,0.75,0.75,1,Sunrisers Hyderabad,11.98,15.97
+2013,Christopher Barnwell,All-Rounder,Overseas,20,0,17.11,104.0,104,0,0,1,9.29,32.26,22.34,0.3,0.38,1,Royal Challengers Bengaluru,27.7,72.89
+2013,Jacob Oram,All-Rounder,Overseas,20,0,17.99,107.41,63,1,0,3,8.49,30.09,22.88,0.3,0.38,1,Mumbai Indians,32.6,85.79
+2013,Jeevan Mendis,All-Rounder,Overseas,20,0,16.71,102.48,96,2,0,4,8.47,26.51,21.85,0.3,0.38,1,Delhi Capitals,32.53,85.61
+2013,Ryan McLaren,Bowler,Overseas,20,0,9.43,109.45,40,0,0,6,8.57,34.7,23.51,0.3,0.38,1,Kolkata Knight Riders,13.69,36.03
+2013,Akila Dananjaya,All-Rounder,Overseas,20,0,16.54,104.42,68,0,0,5,8.91,30.05,20.81,0.3,0.15,1,Chennai Super Kings,33.2,221.33
+2013,Ben Laughlin,Bowler,Overseas,20,0,11.92,104.59,43,0,0,6,10.3,31.66,22.01,0.2,0.15,1,Chennai Super Kings,9.43,62.87
+2013,Jason Holder,All-Rounder,Overseas,20,0,28.27,110.57,144,1,0,12,8.72,26.46,21.07,0.2,0.15,1,Chennai Super Kings,46.14,307.6
+2013,Kusal Janith Perera,Batsman,Indian,19,0,18.46,99.4,83,0,0,0,10.09,38.32,27.82,0.2,0.15,1,Rajasthan Royals,38.86,259.07
+2013,Quinton de Kock,Batsman,Overseas,19,0,25.23,106.88,294,5,0,0,9.47,41.46,26.52,0.2,0.15,1,Sunrisers Hyderabad,48.04,320.27
+2014,Yuvraj Singh,All-Rounder,Indian,20,0,39.8,164.99,304,2,0,21,7.71,18.49,13.63,2.0,14.0,1,Royal Challengers Bengaluru,72.73,5.2
+2014,Dinesh Karthik,Batsman,Indian,19,0,43.16,160.03,443,2,1,0,9.42,35.15,28.67,2.0,12.5,1,Delhi Capitals,74.13,5.93
+2014,Kevin Pietersen,Batsman,Overseas,19,0,37.0,142.95,336,1,1,1,8.58,37.88,28.13,2.0,9.0,1,Delhi Capitals,64.41,7.16
+2014,Mitchell Johnson,Bowler,Overseas,20,0,13.93,116.08,87,0,0,15,8.78,28.84,20.26,2.0,6.5,1,Punjab Kings,27.03,4.16
+2014,Glenn Maxwell,All-Rounder,Overseas,21,1,39.47,144.85,348,2,0,18,7.43,22.8,18.7,2.0,6.0,1,Punjab Kings,65.58,10.93
+2014,David Warner,Batsman,Overseas,19,0,31.1,126.87,204,2,0,2,9.92,37.49,28.55,2.0,5.5,1,Sunrisers Hyderabad,54.58,9.92
+2014,Jacques Kallis,All-Rounder,Overseas,20,0,26.95,119.88,123,0,0,4,7.81,25.85,22.21,2.0,5.5,1,Kolkata Knight Riders,39.89,7.25
+2014,Michael Hussey,Batsman,Overseas,19,0,30.01,124.55,172,0,0,0,8.59,38.89,28.7,2.0,5.0,1,Mumbai Indians,52.81,10.56
+2014,Mitchell Starc,Bowler,Overseas,20,0,17.38,126.74,133,0,0,32,6.89,20.01,15.51,2.0,5.0,1,Royal Challengers Bengaluru,58.66,11.73
+2014,Murali Vijay,Batsman,Indian,19,0,30.91,119.68,228,2,0,0,10.03,37.09,29.7,2.0,5.0,1,Delhi Capitals,52.83,10.57
+2014,Robin Uthappa,Batsman,Indian,19,0,27.47,123.2,211,1,0,0,10.17,37.04,29.5,2.0,5.0,1,Kolkata Knight Riders,52.17,10.43
+2014,Amit Mishra,Bowler,Indian,20,0,11.33,110.68,70,0,0,12,8.95,26.83,20.64,2.0,4.75,1,Sunrisers Hyderabad,21.85,4.6
+2014,Faf du Plessis,Batsman,Overseas,19,0,30.67,116.41,238,2,0,0,9.59,39.05,25.76,2.0,4.75,1,Chennai Super Kings,51.95,10.94
+2014,Corey Anderson,All-Rounder,Overseas,20,0,28.23,117.01,126,0,0,5,8.2,28.16,20.53,2.0,4.5,1,Mumbai Indians,40.06,8.9
+2014,Dwayne Smith,All-Rounder,Overseas,20,0,22.92,119.8,120,0,0,5,7.43,31.52,24.51,2.0,4.5,1,Chennai Super Kings,40.83,9.07
+2014,Bhuvneshwar Kumar,Bowler,Indian,20,0,14.56,110.26,75,0,0,21,7.73,24.79,19.79,2.0,4.25,1,Sunrisers Hyderabad,39.06,9.19
+2014,Mohammed Shami,Bowler,Indian,20,0,11.97,110.31,70,0,0,20,8.35,24.7,19.11,2.0,4.25,1,Delhi Capitals,35.65,8.39
+2014,Nathan Coulter-Nile,Bowler,Overseas,21,1,13.37,107.49,75,0,0,18,8.23,22.57,16.98,2.0,4.25,1,Delhi Capitals,33.06,7.78
+2014,Piyush Chawla,Bowler,Indian,20,0,12.11,113.51,77,0,0,16,8.71,25.69,21.01,2.0,4.25,1,Kolkata Knight Riders,28.64,6.74
+2014,Aaron Finch,Batsman,Overseas,19,0,33.97,126.74,248,4,0,1,9.15,38.13,26.95,2.0,4.0,1,Sunrisers Hyderabad,56.57,14.14
+2014,Steven Smith,All-Rounder,Overseas,20,0,23.98,118.64,126,1,0,11,7.9,31.12,22.56,2.0,4.0,1,Rajasthan Royals,47.12,11.78
+2014,Karn Sharma,Bowler,Indian,20,0,12.84,115.37,38,0,0,12,8.46,26.53,20.26,2.0,3.75,1,Sunrisers Hyderabad,23.0,6.13
+2014,Darren Sammy,All-Rounder,Overseas,21,1,24.4,117.02,162,1,0,5,8.99,29.28,17.67,2.0,3.5,1,Sunrisers Hyderabad,37.52,10.72
+2014,Quinton de Kock,Batsman,Overseas,20,1,32.79,130.99,290,1,1,0,9.62,37.98,25.94,2.0,3.5,1,Delhi Capitals,58.21,16.63
+2014,Brendon McCullum,Batsman,Overseas,19,0,27.91,107.28,164,1,0,1,9.47,39.34,26.97,2.0,3.25,1,Chennai Super Kings,46.63,14.35
+2014,George Bailey,Batsman,Overseas,19,0,28.05,122.86,176,1,0,1,8.43,38.33,27.41,2.0,3.25,1,Punjab Kings,51.6,15.88
+2014,Pragyan Ojha,Bowler,Indian,20,0,11.98,104.61,70,0,0,7,8.48,29.28,21.16,2.0,3.25,1,Mumbai Indians,15.76,4.85
+2014,Yusuf Pathan,All-Rounder,Indian,20,0,22.69,109.74,104,0,0,4,8.27,27.78,18.27,2.0,3.25,1,Kolkata Knight Riders,35.88,11.04
+2014,Virender Sehwag,Batsman,Indian,19,0,24.24,108.83,211,3,0,0,9.61,39.11,28.46,2.0,3.2,1,Punjab Kings,46.56,14.55
+2014,Rishi Dhawan,All-Rounder,Indian,20,0,19.68,114.69,113,0,0,6,7.98,31.13,23.18,2.0,3.0,1,Punjab Kings,39.1,13.03
+2014,Jaydev Unadkat,Bowler,Indian,21,1,16.47,119.36,86,0,0,22,8.08,20.09,18.32,2.0,2.8,1,Delhi Capitals,39.62,14.15
+2014,Manoj Tiwary,Batsman,Indian,19,0,22.1,109.47,136,1,1,0,9.51,37.54,28.11,2.0,2.8,1,Delhi Capitals,44.4,15.86
+2014,Morne Morkel,Bowler,Overseas,20,0,10.27,110.08,56,0,0,7,8.68,29.3,22.55,2.0,2.8,1,Kolkata Knight Riders,15.02,5.36
+2014,Ranganath Vinay Kumar,Bowler,Indian,20,0,13.69,103.97,65,0,0,10,8.66,31.63,22.83,2.0,2.8,1,Kolkata Knight Riders,19.67,7.03
+2014,Shakib Al Hasan,All-Rounder,Overseas,20,0,23.3,104.61,123,2,0,5,8.49,28.26,19.92,2.0,2.8,1,Kolkata Knight Riders,35.77,12.78
+2014,Ishant Sharma,Bowler,Indian,20,0,10.4,104.7,65,0,0,9,9.2,29.09,22.26,2.0,2.6,1,Sunrisers Hyderabad,16.55,6.37
+2014,Umesh Yadav,Bowler,Indian,20,0,15.13,108.78,72,0,0,11,8.91,29.95,20.45,2.0,2.6,1,Kolkata Knight Riders,20.49,7.88
+2014,Zaheer Khan,Bowler,Indian,20,0,10.95,104.48,26,0,0,6,9.34,27.23,20.52,2.0,2.6,1,Mumbai Indians,11.24,4.32
+2014,Albie Morkel,All-Rounder,Overseas,20,0,22.15,116.96,44,0,0,2,9.55,30.3,22.18,2.0,2.4,1,Royal Challengers Bengaluru,32.23,13.43
+2014,Brad Hodge,Batsman,Overseas,19,0,25.91,108.47,168,1,0,0,9.13,34.02,25.76,2.0,2.4,1,Rajasthan Royals,46.27,19.28
+2014,Irfan Pathan,All-Rounder,Indian,20,0,15.46,102.94,80,0,0,3,8.71,31.79,20.22,2.0,2.4,1,Sunrisers Hyderabad,30.63,12.76
+2014,Jean-Paul Duminy,All-Rounder,Overseas,20,0,21.18,101.56,97,0,0,7,8.83,30.18,20.81,2.0,2.2,1,Delhi Capitals,36.35,16.52
+2014,Shaun Marsh,Batsman,Overseas,19,0,27.7,114.47,184,0,0,0,8.5,37.95,28.55,2.0,2.2,1,Punjab Kings,49.1,22.32
+2014,Wriddhiman Saha,Batsman,Indian,19,0,25.38,115.38,208,2,1,0,8.41,36.39,28.83,2.0,2.2,1,Punjab Kings,48.93,22.24
+2014,Ashish Nehra,Bowler,Indian,20,0,10.15,92.4,46,0,0,13,8.61,28.49,22.16,2.0,2.0,1,Chennai Super Kings,24.13,12.06
+2014,Kedar Jadhav,All-Rounder,Indian,20,0,30.47,118.03,149,2,0,8,8.83,26.38,19.27,2.0,2.0,1,Delhi Capitals,43.16,21.58
+2014,Mohit Sharma,Bowler,Indian,20,0,13.55,94.55,55,0,0,14,8.62,29.45,21.86,2.0,2.0,1,Chennai Super Kings,25.69,12.85
+2014,Ross Taylor,Batsman,Overseas,19,0,25.88,110.64,202,3,0,0,8.99,38.05,27.1,2.0,2.0,1,Delhi Capitals,47.58,23.79
+2014,Varun Aaron,Bowler,Indian,20,0,11.46,116.82,24,0,0,8,9.83,31.47,22.58,2.0,2.0,1,Royal Challengers Bengaluru,12.75,6.38
+2014,Cheteshwar Pujara,Batsman,Indian,19,0,23.98,102.52,184,0,0,0,8.89,38.5,27.73,1.5,1.9,1,Punjab Kings,44.03,23.17
+2014,Rahul Sharma,Bowler,Indian,20,0,11.0,105.71,51,0,0,7,9.86,33.51,21.76,1.5,1.9,1,Delhi Capitals,11.43,6.02
+2014,Beuran Hendricks,Bowler,Overseas,20,0,13.05,96.59,42,0,0,13,9.28,34.53,22.33,1.5,1.8,1,Punjab Kings,22.08,12.27
+2014,Lakshmipathy Balaji,Bowler,Indian,20,0,10.8,88.43,16,0,0,6,8.93,30.48,22.25,1.5,1.8,1,Punjab Kings,12.37,6.87
+2014,Manish Pandey,Batsman,Indian,19,0,33.02,118.76,348,4,1,2,9.98,34.24,27.52,1.5,1.7,1,Kolkata Knight Riders,55.8,32.82
+2014,Rajat Bhatia,All-Rounder,Indian,20,0,20.85,101.87,86,0,0,2,7.96,25.48,18.75,1.5,1.7,1,Rajasthan Royals,32.07,18.86
+2014,Aditya Tare,Batsman,Indian,19,0,22.18,98.16,105,1,0,0,8.15,38.61,28.11,1.5,1.6,1,Mumbai Indians,40.42,25.26
+2014,Mayank Agarwal,Batsman,Indian,19,0,28.67,115.95,202,1,0,2,9.32,37.43,27.84,1.5,1.6,1,Delhi Capitals,50.29,31.43
+2014,Thisara Perera,All-Rounder,Overseas,21,1,21.78,125.12,148,1,0,11,8.44,26.78,19.14,1.5,1.6,1,Punjab Kings,46.79,29.24
+2014,Ashok Dinda,Bowler,Indian,20,0,10.84,108.02,66,0,0,7,8.75,32.69,22.13,1.5,1.5,1,Royal Challengers Bengaluru,14.91,9.94
+2014,Ishwar Chandra Pandey,Bowler,Indian,20,0,11.35,107.41,25,0,0,7,9.13,28.98,19.98,1.5,1.5,1,Chennai Super Kings,13.36,8.91
+2014,Laxmi Ratan Shukla,All-Rounder,Indian,20,0,18.2,108.78,70,0,0,1,9.07,30.31,20.71,1.5,1.5,1,Delhi Capitals,29.37,19.58
+2014,Parthiv Patel,Batsman,Indian,19,0,23.19,107.7,183,3,0,0,9.56,35.81,29.05,1.0,1.4,1,Royal Challengers Bengaluru,45.25,32.32
+2014,Chris Lynn,Batsman,Overseas,19,0,31.21,119.61,288,2,0,2,9.49,39.11,28.44,1.0,1.3,1,Kolkata Knight Riders,54.13,41.64
+2014,Gurkeerat Singh Mann,All-Rounder,Indian,20,0,17.93,94.29,85,0,0,4,8.04,26.99,21.91,1.0,1.3,1,Punjab Kings,32.06,24.66
+2014,Jasprit Bumrah,Bowler,Indian,20,0,14.37,113.67,56,0,0,8,9.54,32.89,24.33,1.0,1.2,1,Mumbai Indians,13.94,11.62
+2014,Tim Southee,Bowler,Overseas,20,0,12.39,103.37,39,0,0,11,9.05,35.81,22.01,1.0,1.2,1,Rajasthan Royals,19.74,16.45
+2014,Dhawal Kulkarni,Bowler,Indian,20,0,11.86,92.95,50,0,0,6,9.73,29.82,21.15,1.0,1.1,1,Rajasthan Royals,10.31,9.37
+2014,Abhishek Nayar,All-Rounder,Indian,21,1,24.79,108.47,172,1,0,10,9.51,29.43,16.9,1.0,1.0,1,Rajasthan Royals,40.87,40.87
+2014,Ben Hilfenhaus,Bowler,Overseas,20,0,9.81,104.89,32,0,0,6,9.36,33.46,22.04,1.0,1.0,1,Chennai Super Kings,11.24,11.24
+2014,James Neesham,All-Rounder,Overseas,20,0,20.22,107.92,110,0,0,6,9.47,28.06,17.63,1.0,1.0,1,Delhi Capitals,34.9,34.9
+2014,KL Rahul,Batsman,Indian,21,0,39.63,139.17,380,2,0,3,9.2,36.84,28.38,1.0,1.0,1,Sunrisers Hyderabad,65.2,65.2
+2014,Kane Richardson,Bowler,Overseas,21,1,11.56,102.43,62,0,0,13,8.86,25.62,19.82,1.0,1.0,1,Rajasthan Royals,23.54,23.54
+2014,Moises Henriques,All-Rounder,Overseas,21,1,23.89,112.44,152,0,0,9,8.39,30.09,21.25,1.0,1.0,1,Sunrisers Hyderabad,42.48,42.48
+2014,Murali Kartik,Bowler,Indian,20,0,9.82,105.43,20,0,0,6,9.33,37.48,20.48,1.0,1.0,1,Punjab Kings,11.21,11.21
+2014,Muttiah Muralitharan,Bowler,Overseas,20,0,10.28,102.44,22,0,0,7,9.93,31.93,22.25,1.0,1.0,1,Royal Challengers Bengaluru,10.93,10.93
+2014,Pat Cummins,All-Rounder,Overseas,20,0,33.31,129.33,314,2,0,18,7.24,16.81,12.89,1.0,1.0,1,Kolkata Knight Riders,61.31,61.31
+2014,Ryan Ten Doeschate,All-Rounder,Overseas,20,0,22.76,105.15,75,1,0,0,9.32,30.52,21.6,1.0,1.0,1,Kolkata Knight Riders,28.08,28.08
+2014,Wayne Parnell,Bowler,Overseas,20,0,12.72,95.81,69,0,0,8,8.52,30.05,24.82,1.0,1.0,1,Delhi Capitals,17.13,17.13
+2014,Parveez Rasool,All-Rounder,Indian,20,0,15.44,97.42,117,1,0,3,8.35,29.95,21.35,0.75,0.95,1,Sunrisers Hyderabad,30.24,31.83
+2014,Jalaj Saxena,All-Rounder,Indian,20,0,18.65,105.04,48,0,0,4,9.2,30.08,21.69,0.75,0.9,1,Mumbai Indians,32.07,35.63
+2014,Ravi Rampaul,Bowler,Overseas,21,1,10.68,107.09,54,0,0,7,8.6,28.29,22.05,0.75,0.9,1,Royal Challengers Bengaluru,15.24,16.93
+2014,Sandeep Sharma,Bowler,Indian,20,0,8.62,108.09,58,0,0,3,8.59,33.01,17.48,0.75,0.85,1,Punjab Kings,9.31,10.95
+2014,Shahbaz Nadeem,Bowler,Indian,20,0,11.01,98.37,82,1,0,8,9.43,29.88,21.18,0.75,0.85,1,Delhi Capitals,14.53,17.09
+2014,Ben Cutting,All-Rounder,Overseas,20,0,21.05,114.25,154,1,0,7,8.4,30.35,20.68,0.75,0.8,1,Rajasthan Royals,39.71,49.64
+2014,Mandeep Hardev Singh,All-Rounder,Indian,20,0,21.14,97.7,136,0,0,4,8.4,29.02,21.93,0.75,0.8,1,Punjab Kings,32.83,41.04
+2014,Axar Patel,All-Rounder,Indian,20,0,17.55,111.15,112,0,0,5,8.81,27.62,20.34,0.75,0.75,1,Punjab Kings,35.0,46.67
+2014,Jason Holder,All-Rounder,Overseas,21,1,27.32,125.62,247,2,0,9,8.31,25.15,16.61,0.75,0.75,1,Sunrisers Hyderabad,46.13,61.51
+2014,Karun Nair,Batsman,Indian,19,0,28.8,117.13,189,3,0,2,9.25,38.26,28.55,0.75,0.75,1,Rajasthan Royals,50.44,67.25
+2014,Saurabh Tiwary,Batsman,Indian,19,0,20.38,101.61,55,1,0,0,9.29,34.87,28.34,0.5,0.7,1,Delhi Capitals,39.73,56.76
+2014,Suryakumar Yadav,Batsman,Indian,21,0,23.05,121.99,210,3,0,0,9.2,38.78,30.1,0.5,0.7,1,Kolkata Knight Riders,50.02,71.46
+2014,Iqbal Abdullah,All-Rounder,Indian,20,0,16.91,97.84,99,2,0,3,9.11,30.12,22.99,0.5,0.65,1,Rajasthan Royals,29.18,44.89
+2014,Parvinder Awana,Bowler,Indian,20,0,11.28,109.32,32,0,0,6,8.88,33.41,22.71,0.5,0.65,1,Punjab Kings,12.68,19.51
+2014,Unmukt Chand,Batsman,Indian,19,0,17.82,93.4,54,0,0,1,9.29,33.48,27.71,0.5,0.65,1,Rajasthan Royals,36.23,55.74
+2014,Andre Russell,All-Rounder,Overseas,20,0,20.7,101.83,113,1,0,5,10.12,30.23,17.68,0.5,0.6,1,Kolkata Knight Riders,31.54,52.57
+2014,Manvinder Bisla,Batsman,Indian,19,0,22.48,100.26,146,2,0,0,9.12,38.67,23.6,0.5,0.6,1,Kolkata Knight Riders,41.99,69.98
+2014,Venugopal Rao,Batsman,Indian,19,0,20.89,96.32,108,0,0,0,8.75,38.65,26.27,0.5,0.55,1,Sunrisers Hyderabad,39.41,71.65
+2014,John Hastings,All-Rounder,Overseas,20,0,19.1,97.07,80,0,0,5,9.09,26.65,20.82,0.5,0.5,1,Chennai Super Kings,32.01,64.02
+2014,Josh Hazlewood,Bowler,Overseas,20,0,15.62,118.36,100,0,0,19,7.41,22.51,17.94,0.5,0.5,1,Mumbai Indians,37.27,74.54
+2014,Naman Ojha,Batsman,Indian,19,0,18.87,99.49,61,0,0,1,10.7,36.83,30.15,0.5,0.5,1,Sunrisers Hyderabad,38.61,77.22
+2014,Nic Maddinson,Batsman,Overseas,19,0,23.52,100.13,84,0,0,0,8.97,40.45,30.37,0.5,0.5,1,Royal Challengers Bengaluru,41.13,82.26
+2014,Siddarth Kaul,Bowler,Indian,20,0,10.94,113.9,42,0,0,11,8.1,33.68,22.19,0.3,0.45,1,Delhi Capitals,22.62,50.27
+2014,Deepak Hooda,All-Rounder,Indian,20,0,24.83,100.51,144,2,0,5,8.33,26.51,20.95,0.3,0.4,1,Rajasthan Royals,35.65,89.12
+2014,Harshal Patel,All-Rounder,Indian,20,0,26.95,126.78,221,2,0,14,8.37,26.45,16.45,0.3,0.4,1,Royal Challengers Bengaluru,52.15,130.38
+2014,Kuldeep Yadav,Bowler,Indian,20,0,12.79,112.33,41,0,0,10,8.21,28.42,22.26,0.3,0.4,1,Kolkata Knight Riders,20.78,51.95
+2014,Rahul Shukla,Bowler,Indian,20,0,12.23,113.92,66,0,0,4,10.02,30.31,20.84,0.3,0.4,1,Delhi Capitals,6.66,16.65
+2014,Veer Pratap Singh,Bowler,Indian,20,0,11.27,104.3,48,0,0,4,9.75,29.62,23.31,0.3,0.4,1,Kolkata Knight Riders,7.23,18.07
+2014,Abu Nechim Ahmed,Bowler,Indian,20,0,10.97,95.21,28,0,0,8,9.65,31.19,21.34,0.3,0.3,1,Royal Challengers Bengaluru,13.33,44.43
+2014,Brendan Taylor,Batsman,Overseas,19,0,24.78,104.54,75,0,0,0,10.51,38.87,27.16,0.3,0.3,1,Sunrisers Hyderabad,42.77,142.57
+2014,Dishant Yagnik,Batsman,Indian,19,0,18.35,92.26,133,1,0,1,9.08,38.06,28.4,0.3,0.3,1,Rajasthan Royals,37.68,125.6
+2014,Kevon Cooper,All-Rounder,Overseas,20,0,17.26,104.76,34,0,0,3,9.12,28.8,22.7,0.3,0.3,1,Rajasthan Royals,30.63,102.1
+2014,Krismar Santokie,Bowler,Overseas,20,0,11.17,90.89,6,0,0,5,9.26,32.5,22.82,0.3,0.3,1,Mumbai Indians,9.78,32.6
+2014,Marchant De Lange,Bowler,Overseas,20,0,11.65,80.35,10,0,0,6,9.58,30.17,21.8,0.3,0.3,1,Mumbai Indians,10.36,34.53
+2014,Matt Henry,Bowler,Overseas,20,0,13.56,100.7,76,0,0,8,9.89,31.49,20.6,0.3,0.3,1,Chennai Super Kings,13.09,43.63
+2014,Mithun Manhas,All-Rounder,Indian,20,0,18.7,97.02,93,1,0,6,8.73,27.51,19.51,0.3,0.3,1,Chennai Super Kings,33.82,112.73
+2014,Prasanth Parameswaran,Bowler,Indian,20,0,8.81,96.33,23,0,0,10,10.17,31.82,22.32,0.3,0.3,1,Sunrisers Hyderabad,15.23,50.77
+2014,Samuel Badree,Bowler,Overseas,20,0,11.51,107.47,13,0,0,4,8.82,30.43,22.86,0.3,0.3,1,Chennai Super Kings,9.67,32.23
+2014,Vijay Zol,Batsman,Indian,19,0,20.03,107.02,109,1,0,0,8.3,34.64,28.32,0.3,0.3,1,Royal Challengers Bengaluru,42.3,141.0
+2014,Amit Paunikar,Batsman,Indian,19,0,19.64,99.33,142,0,0,1,8.93,36.36,28.3,0.2,0.2,1,Sunrisers Hyderabad,40.5,202.5
+2014,Anureet Singh,Bowler,Indian,20,0,12.13,103.07,47,0,0,5,9.6,31.18,22.6,0.2,0.2,1,Punjab Kings,9.17,45.85
+2014,Ashish Reddy,Bowler,Indian,20,0,13.04,101.75,56,0,0,3,9.11,29.56,21.58,0.2,0.2,1,Sunrisers Hyderabad,7.73,38.65
+2014,Ben Dunk,Batsman,Overseas,19,0,22.31,96.33,38,0,0,0,9.15,41.87,29.66,0.2,0.2,1,Mumbai Indians,38.58,192.9
+2014,C.M. Gautam,Batsman,Indian,19,0,21.95,104.94,63,0,0,0,10.0,37.11,30.18,0.2,0.2,1,Mumbai Indians,41.52,207.6
+2014,Debabrata Das,Batsman,Indian,19,0,14.67,92.4,90,0,0,1,8.71,36.33,28.35,0.2,0.2,1,Kolkata Knight Riders,35.39,176.95
+2014,Sachin Rana,Bowler,Indian,20,0,9.06,102.02,65,0,0,5,9.18,31.95,19.72,0.2,0.2,1,Royal Challengers Bengaluru,10.61,53.05
+2014,Shadab Jakati,All-Rounder,Indian,20,0,18.06,107.81,83,1,0,2,8.59,31.74,22.22,0.2,0.2,1,Royal Challengers Bengaluru,31.3,156.5
+2014,Shardul Thakur,Bowler,Indian,20,0,13.12,116.1,52,0,0,20,7.94,24.15,16.47,0.2,0.2,1,Punjab Kings,36.7,183.5
+2014,Srikkanth Anirudha,Batsman,Indian,19,0,19.57,100.2,46,1,0,0,9.05,36.84,29.04,0.2,0.2,1,Sunrisers Hyderabad,38.81,194.05
+2014,Vikramjeet Malik,Bowler,Indian,20,0,9.98,110.03,31,0,0,1,8.81,26.77,22.56,0.2,0.2,1,Rajasthan Royals,5.38,26.9
+2014,Ankit Nagendra Sharma,Bowler,Indian,20,0,13.43,99.33,37,0,0,7,8.67,30.16,20.55,0.2,0.1,1,Rajasthan Royals,14.86,148.6
+2014,Ankush Bains,Batsman,Indian,19,0,18.18,99.34,123,1,0,0,9.33,37.06,28.69,0.2,0.1,1,Rajasthan Royals,39.53,395.3
+2014,Apoorv Vijay Wankhade,Batsman,Indian,19,0,20.36,101.06,86,1,0,0,9.71,34.01,26.06,0.2,0.1,1,Mumbai Indians,40.18,401.8
+2014,Baba Aparajith,All-Rounder,Indian,20,0,17.84,104.73,59,0,0,2,9.55,31.71,21.23,0.2,0.1,1,Chennai Super Kings,28.71,287.1
+2014,Chama Milind,Bowler,Indian,20,0,11.26,103.75,59,0,0,3,9.17,33.77,20.54,0.2,0.1,1,Sunrisers Hyderabad,7.58,75.8
+2014,HS Sharath,Bowler,Indian,20,0,10.24,86.69,47,0,0,5,9.07,30.01,24.21,0.2,0.1,1,Delhi Capitals,10.76,107.6
+2014,Jayant Yadav,All-Rounder,Indian,20,0,19.62,104.01,106,1,0,5,8.59,27.42,23.93,0.3,0.1,1,Delhi Capitals,34.53,345.3
+2014,Karanveer Singh,All-Rounder,Indian,20,0,19.99,92.32,10,0,0,3,8.93,33.37,16.65,0.3,0.1,1,Punjab Kings,29.2,292.0
+2014,Manprit Juneja,Batsman,Indian,19,0,19.84,99.2,147,3,0,0,8.72,37.82,29.41,0.2,0.1,1,Sunrisers Hyderabad,40.64,406.4
+2014,Milind Kumar,All-Rounder,Indian,20,0,14.13,99.41,91,1,0,0,9.15,30.27,20.56,0.2,0.1,1,Delhi Capitals,25.11,251.1
+2014,Pawan Negi,All-Rounder,Indian,20,0,23.04,106.15,208,1,0,10,8.34,25.72,18.53,0.2,0.1,1,Chennai Super Kings,42.31,423.1
+2014,Pawan Suyal,Bowler,Indian,20,0,13.6,88.16,5,0,0,4,9.39,34.43,23.66,0.2,0.1,1,Mumbai Indians,7.88,78.8
+2014,Pravin Tambe,Bowler,Indian,20,0,9.33,90.71,34,0,0,3,9.34,29.3,21.77,0.2,0.1,1,Rajasthan Royals,6.82,68.2
+2014,Rahul Tewatia,All-Rounder,Indian,20,0,22.97,112.37,172,0,0,8,7.84,30.16,18.89,0.3,0.1,1,Rajasthan Royals,42.14,421.4
+2014,Ricky Bhui,Batsman,Overseas,19,0,22.29,96.26,103,1,0,1,9.94,36.0,30.53,0.2,0.1,1,Sunrisers Hyderabad,39.85,398.5
+2014,Ronit More,Bowler,Indian,20,0,11.17,106.85,28,0,0,5,9.34,31.07,23.95,0.2,0.1,1,Chennai Super Kings,9.76,97.6
+2014,Sandeep Warrier,Bowler,Indian,20,0,10.5,95.0,47,0,0,3,9.57,34.15,25.71,0.2,0.1,1,Royal Challengers Bengaluru,6.26,62.6
+2014,Sayan Sekhar Mandal,All-Rounder,Indian,20,0,19.05,99.6,24,0,0,0,8.45,32.69,21.95,0.3,0.1,1,Kolkata Knight Riders,27.78,277.8
+2014,Shivam Sharma,Bowler,Indian,20,0,11.86,103.14,39,0,0,8,9.94,26.6,22.48,0.2,0.1,1,Punjab Kings,12.57,125.7
+2014,Shreyas Gopal,Bowler,Indian,20,0,10.94,92.09,39,0,0,8,8.82,33.07,21.29,0.2,0.1,1,Mumbai Indians,15.93,159.3
+2014,Sushant Marathe,Batsman,Indian,19,0,20.23,93.08,133,2,0,0,9.16,36.14,26.7,0.2,0.1,1,Mumbai Indians,38.68,386.8
+2014,Tanmay Mishra,Batsman,Indian,19,0,16.23,98.25,97,0,0,0,9.86,36.67,28.54,0.2,0.1,1,Royal Challengers Bengaluru,37.91,379.1
+2014,Vijay Shankar,All-Rounder,Indian,20,0,20.92,96.45,90,0,0,6,8.64,30.08,16.59,0.3,0.1,1,Chennai Super Kings,34.44,344.4
+2014,Yogesh Takawale,Batsman,Indian,19,0,20.7,90.13,71,0,0,0,8.99,36.54,29.16,0.2,0.1,1,Royal Challengers Bengaluru,36.74,367.4
+2014,Yuzvendra Singh Chahal,Bowler,Indian,20,0,12.54,112.97,25,0,0,13,9.22,27.26,21.13,0.2,0.1,1,Royal Challengers Bengaluru,22.09,220.9
+2015,Yuvraj Singh,All-Rounder,Indian,21,1,43.79,173.64,417,3,0,24,7.92,19.96,14.65,2.0,16.0,1,Delhi Capitals,78.64,4.92
+2015,Dinesh Karthik,Batsman,Indian,20,1,42.91,160.69,446,3,0,2,8.62,37.62,26.77,2.0,10.5,1,Royal Challengers Bengaluru,74.29,7.08
+2015,Angelo Mathews,All-Rounder,Overseas,20,0,28.31,139.2,220,1,0,11,8.54,25.1,18.71,2.0,7.5,1,Delhi Capitals,51.04,6.81
+2015,Zaheer Khan,Bowler,Indian,21,1,10.59,110.82,47,0,0,12,8.86,30.86,19.83,2.0,4.0,1,Delhi Capitals,21.89,5.47
+2015,Trent Boult,Bowler,Overseas,20,0,14.87,117.47,87,0,0,22,7.93,21.99,17.7,2.0,3.8,1,Sunrisers Hyderabad,40.08,10.55
+2015,Amit Mishra,Bowler,Indian,21,1,13.94,104.73,45,0,0,12,9.37,29.75,20.18,2.0,3.5,1,Delhi Capitals,20.34,5.81
+2015,Aaron Finch,Batsman,Overseas,20,1,28.57,120.96,253,1,0,1,9.46,38.48,30.37,2.0,3.2,1,Mumbai Indians,52.78,16.49
+2015,Murali Vijay,Batsman,Indian,20,1,24.45,119.59,199,3,0,2,9.28,35.68,26.98,2.0,3.0,1,Punjab Kings,49.64,16.55
+2015,Darren Sammy,All-Rounder,Overseas,22,2,26.72,125.97,124,1,0,6,9.02,26.22,22.16,2.0,2.8,1,Royal Challengers Bengaluru,41.03,14.65
+2015,David Wiese,All-Rounder,Overseas,20,0,19.05,107.17,162,2,0,4,8.51,29.47,20.59,2.0,2.8,1,Royal Challengers Bengaluru,33.98,12.14
+2015,Shreyas Iyer,Batsman,Indian,21,0,50.17,159.23,732,7,1,4,9.21,39.93,27.95,2.0,2.6,1,Delhi Capitals,82.48,31.72
+2015,KC Cariappa,Bowler,Indian,20,0,12.31,99.77,42,0,0,11,9.29,27.77,22.9,2.0,2.4,1,Kolkata Knight Riders,19.05,7.94
+2015,Praveen Kumar,Bowler,Indian,20,0,12.69,106.19,63,0,0,10,9.12,29.65,20.63,2.0,2.2,1,Sunrisers Hyderabad,18.27,8.3
+2015,Kevin Pietersen,Batsman,Overseas,20,1,35.75,126.91,285,1,0,0,9.66,41.62,30.14,2.0,2.0,1,Sunrisers Hyderabad,58.07,29.04
+2015,Gurinder Sandhu,Bowler,Indian,20,0,13.98,110.08,46,0,0,5,9.29,29.0,24.43,1.5,1.7,1,Delhi Capitals,10.09,5.94
+2015,Eoin Morgan,Batsman,Overseas,19,0,25.17,112.12,151,2,0,3,9.07,38.14,26.06,1.5,1.5,1,Sunrisers Hyderabad,46.72,31.15
+2015,Irfan Pathan,All-Rounder,Indian,21,1,19.71,109.54,115,1,0,5,8.85,25.72,21.52,1.5,1.5,1,Chennai Super Kings,35.14,23.43
+2015,Michael Hussey,Batsman,Overseas,20,1,31.69,106.19,202,3,0,0,8.75,40.05,25.12,1.5,1.5,1,Chennai Super Kings,48.57,32.38
+2015,Christopher Morris,All-Rounder,Overseas,22,2,31.42,143.95,380,2,0,21,7.62,20.09,11.72,1.0,1.4,1,Rajasthan Royals,66.61,47.58
+2015,Jaydev Unadkat,Bowler,Indian,22,2,12.2,113.69,93,0,0,23,7.84,25.6,16.27,1.0,1.1,1,Delhi Capitals,41.91,38.1
+2015,Ravi Bopara,All-Rounder,Indian,20,0,18.02,96.03,115,1,0,7,9.25,30.38,24.01,1.0,1.0,1,Sunrisers Hyderabad,33.61,33.61
+2015,Sean Abbott,Bowler,Overseas,20,0,11.0,104.6,55,0,0,10,8.66,31.49,23.3,1.0,1.0,1,Royal Challengers Bengaluru,19.57,19.57
+2015,Domnic Joseph Muthuswamy,Bowler,Overseas,20,0,10.45,107.96,26,0,0,4,9.01,31.08,24.31,0.75,0.75,1,Delhi Capitals,9.23,12.31
+2015,Adam Milne,Bowler,Overseas,20,0,12.56,105.73,44,0,0,8,9.15,29.56,21.5,0.5,0.7,1,Royal Challengers Bengaluru,14.99,21.41
+2015,Kane Williamson,All-Rounder,Overseas,20,0,18.71,112.15,133,1,0,5,9.1,28.46,20.87,0.5,0.6,1,Sunrisers Hyderabad,34.91,58.18
+2015,Brad Hogg,Bowler,Overseas,20,0,11.5,101.55,50,0,0,4,8.63,29.51,21.98,0.5,0.5,1,Kolkata Knight Riders,10.61,21.22
+2015,James Neesham,All-Rounder,Overseas,21,1,22.26,105.18,121,1,0,3,8.77,31.59,21.08,0.5,0.5,1,Kolkata Knight Riders,32.66,65.32
+2015,Pragyan Ojha,Bowler,Indian,21,1,12.17,104.07,43,0,0,11,8.87,29.25,21.59,0.5,0.5,1,Mumbai Indians,20.32,40.64
+2015,Sarfaraz Naushad Khan,All-Rounder,Indian,20,0,14.93,92.3,90,0,0,2,9.61,29.71,22.51,0.5,0.5,1,Royal Challengers Bengaluru,25.37,50.74
+2015,Abhimanyu Mithun,Bowler,Indian,20,0,9.47,101.91,53,0,0,7,8.72,32.04,24.9,0.3,0.3,1,Mumbai Indians,14.87,49.57
+2015,Aiden Blizzard,Batsman,Overseas,19,0,23.45,105.8,112,2,0,1,9.49,40.16,26.17,0.3,0.3,1,Mumbai Indians,43.36,144.53
+2015,Albie Morkel,All-Rounder,Overseas,21,1,21.62,109.33,72,1,0,6,8.06,29.67,20.45,0.3,0.3,1,Delhi Capitals,38.35,127.83
+2015,Juan Theron,Bowler,Overseas,20,0,10.19,102.31,49,0,0,2,8.77,28.25,22.91,0.3,0.3,1,Rajasthan Royals,7.18,23.93
+2015,Kyle Abbott,Bowler,Overseas,20,0,9.18,106.94,58,0,0,5,8.18,30.52,21.18,0.3,0.3,1,Chennai Super Kings,13.54,45.13
+2015,Laxmi Ratan Shukla,All-Rounder,Indian,21,1,16.39,109.47,89,0,0,6,9.18,29.84,22.09,0.3,0.3,1,Sunrisers Hyderabad,34.83,116.1
+2015,Mitchell McClenaghan,Bowler,Overseas,20,0,12.77,101.91,18,0,0,3,8.91,34.64,23.96,0.3,0.3,1,Mumbai Indians,7.95,26.5
+2015,Nikhil Shankar Naik,Batsman,Indian,19,0,18.36,92.3,108,0,0,0,8.4,36.5,26.64,0.3,0.3,1,Punjab Kings,37.19,123.97
+2015,Rahul Sharma,Bowler,Indian,21,1,14.8,100.81,34,0,0,9,9.26,28.05,23.73,0.3,0.3,1,Chennai Super Kings,16.06,53.53
+2015,Subramaniam Badrinath,Batsman,Indian,19,0,22.37,101.53,100,0,0,0,9.4,39.26,28.2,0.3,0.3,1,Royal Challengers Bengaluru,41.41,138.03
+2015,Travis Head,Batsman,Overseas,19,0,26.65,115.8,211,1,1,0,8.9,38.42,28.59,0.3,0.3,1,Delhi Capitals,49.62,165.4
+2015,Aditya Garhwal,All-Rounder,Indian,20,0,17.46,95.31,86,3,0,4,8.6,32.0,21.5,0.3,0.25,1,Kolkata Knight Riders,31.03,124.12
+2015,Marcus Stoinis,All-Rounder,Overseas,20,0,24.53,115.29,204,1,0,10,8.37,25.5,12.4,0.3,0.25,1,Delhi Capitals,44.45,177.8
+2015,Andrew Tye,Bowler,Overseas,20,0,12.45,98.36,69,0,0,16,8.59,31.77,18.11,0.2,0.2,1,Chennai Super Kings,28.92,144.6
+2015,C.M. Gautam,Batsman,Indian,20,1,18.58,106.06,108,3,0,0,8.74,37.01,28.21,0.2,0.2,1,Delhi Capitals,41.41,207.05
+2015,Sheldon Jackson,Batsman,Indian,19,0,21.8,106.83,79,0,0,0,9.55,38.2,26.32,0.2,0.15,1,Kolkata Knight Riders,42.35,282.33
+2015,Akshay Wakhare,Bowler,Indian,20,0,9.78,102.96,35,0,0,5,9.88,29.03,24.42,0.2,0.1,1,Mumbai Indians,8.21,82.1
+2015,Ankush Bains,Batsman,Indian,20,1,17.76,104.56,145,1,0,0,9.48,36.55,27.58,0.2,0.1,1,Chennai Super Kings,41.37,413.7
+2015,Barinder Singh Saran,Bowler,Indian,20,0,8.77,95.93,27,0,0,7,9.1,34.32,22.15,0.2,0.1,1,Rajasthan Royals,13.47,134.7
+2015,Dinesh Salunkhe,All-Rounder,Indian,20,0,17.34,96.19,110,1,0,4,8.6,29.79,22.03,0.3,0.1,1,Rajasthan Royals,31.17,311.7
+2015,Eklavya Dwivedi,Batsman,Indian,19,0,22.1,106.51,207,1,0,0,8.91,36.74,26.41,0.2,0.1,1,Chennai Super Kings,44.93,449.3
+2015,Hanuma Vihari,Batsman,Indian,19,0,23.48,101.05,37,0,0,1,9.85,34.82,28.45,0.2,0.1,1,Sunrisers Hyderabad,40.45,404.5
+2015,Hardik Pandya,All-Rounder,Indian,20,0,19.15,89.84,69,0,0,0,8.83,30.29,21.2,0.3,0.1,1,Mumbai Indians,25.1,251.0
+2015,Jagadeesha Suchith,Bowler,Indian,20,0,11.07,102.48,50,0,0,1,8.48,33.33,22.85,0.3,0.1,1,Mumbai Indians,6.56,65.6
+2015,Jalaj Saxena,All-Rounder,Indian,21,1,19.25,103.49,112,1,0,4,7.87,32.0,23.38,0.3,0.1,1,Royal Challengers Bengaluru,34.57,345.7
+2015,K.K. Jiyaz,Bowler,Indian,20,0,9.35,99.77,45,0,0,3,9.49,32.25,23.96,0.2,0.1,1,Delhi Capitals,6.48,64.8
+2015,Kona Srikar Bharat,Batsman,Indian,19,0,16.35,100.63,159,1,0,0,9.43,35.87,28.3,0.2,0.1,1,Delhi Capitals,39.91,399.1
+2015,Nitish Rana,All-Rounder,Indian,20,0,21.44,118.91,165,1,0,8,8.47,24.15,20.33,0.3,0.1,1,Mumbai Indians,41.8,418.0
+2015,Pardeep Sahu,All-Rounder,Indian,20,0,14.79,96.84,54,0,0,2,8.87,29.41,22.3,0.3,0.1,1,Rajasthan Royals,27.73,277.3
+2015,Prasanth Padmanabhan,All-Rounder,Indian,20,0,20.51,91.43,90,0,0,6,9.24,31.28,20.46,0.3,0.1,1,Sunrisers Hyderabad,32.13,321.3
+2015,Pratyush Singh,All-Rounder,Indian,20,0,17.18,96.87,47,0,0,1,8.59,28.22,22.17,0.3,0.1,1,Chennai Super Kings,27.69,276.9
+2015,Sagar Trivedi,All-Rounder,Indian,20,0,17.44,97.99,50,0,0,3,8.6,31.2,21.34,0.3,0.1,1,Rajasthan Royals,30.36,303.6
+2015,Shishir Bhavane,Batsman,Indian,19,0,21.51,91.67,146,4,0,0,9.05,34.38,27.1,0.2,0.1,1,Royal Challengers Bengaluru,39.03,390.3
+2015,Siddarth Kaul,Bowler,Indian,21,1,12.75,103.86,47,0,0,8,8.02,28.85,21.27,0.2,0.1,1,Sunrisers Hyderabad,18.41,184.1
+2015,Siddhesh Dinesh Lad,All-Rounder,Indian,20,0,14.62,98.09,72,0,0,4,9.18,28.57,21.72,0.3,0.1,1,Mumbai Indians,29.71,297.1
+2015,Sumit Narwal,All-Rounder,Indian,20,0,18.76,98.6,91,1,0,0,9.76,31.45,18.38,0.3,0.1,1,Kolkata Knight Riders,24.89,248.9
+2015,Vaibhav Rawal,All-Rounder,Indian,20,0,18.66,100.91,70,0,0,3,9.09,35.35,20.52,0.3,0.1,1,Kolkata Knight Riders,30.27,302.7
+2015,Yogesh Gowalkar,All-Rounder,Indian,20,0,17.96,103.47,72,2,0,4,8.59,30.24,21.91,0.3,0.1,1,Punjab Kings,32.8,328.0
+2016,Shane Watson,All-Rounder,Overseas,20,0,32.6,138.52,239,2,0,13,8.16,27.49,19.22,2.0,9.5,1,Royal Challengers Bengaluru,55.13,5.8
+2016,Pawan Negi,All-Rounder,Indian,22,2,35.47,152.95,203,2,0,13,8.82,24.52,15.85,2.0,8.5,1,Delhi Capitals,57.42,6.76
+2016,Christopher Morris,All-Rounder,Overseas,23,3,45.0,170.81,411,4,1,23,6.51,22.28,11.82,2.0,7.0,1,Delhi Capitals,79.99,11.43
+2016,Yuvraj Singh,All-Rounder,Indian,22,2,37.48,145.66,315,3,0,19,8.54,23.93,15.94,2.0,7.0,1,Sunrisers Hyderabad,64.22,9.17
+2016,Mohit Sharma,Bowler,Indian,22,2,14.44,105.22,61,0,0,17,8.82,26.66,18.42,2.0,6.5,1,Punjab Kings,29.65,4.56
+2016,Ashish Nehra,Bowler,Indian,22,2,8.81,101.69,63,0,0,16,9.04,29.09,20.0,2.0,5.5,1,Sunrisers Hyderabad,27.51,5.0
+2016,Mitchell Marsh,All-Rounder,Overseas,20,0,28.74,128.62,139,1,0,7,8.45,27.11,21.28,2.0,4.8,1,Rising Pune Supergiant,44.41,9.25
+2016,M. Ashwin,Bowler,Indian,20,0,15.36,108.42,63,0,0,10,9.42,29.58,18.1,2.0,4.5,1,Rising Pune Supergiant,17.37,3.86
+2016,Carlos Brathwaite,All-Rounder,Overseas,20,0,22.64,103.59,128,1,0,11,8.61,30.58,20.22,2.0,4.2,1,Delhi Capitals,42.36,10.09
+2016,Deepak Hooda,All-Rounder,Indian,22,2,27.23,126.46,129,1,0,12,9.33,30.69,17.69,2.0,4.2,1,Sunrisers Hyderabad,47.84,11.39
+2016,Sanju Samson,Batsman,Indian,19,0,32.37,118.45,233,2,1,0,9.44,35.25,27.05,2.0,4.2,1,Delhi Capitals,53.14,12.65
+2016,Karun Nair,Batsman,Indian,21,2,32.91,135.88,301,2,1,0,9.06,37.38,31.03,2.0,4.0,1,Delhi Capitals,59.95,14.99
+2016,Ishant Sharma,Bowler,Indian,22,2,10.49,109.48,66,0,0,12,8.68,30.97,22.32,2.0,3.8,1,Rising Pune Supergiant,22.62,5.95
+2016,Jos Buttler,Batsman,Overseas,21,0,41.98,150.03,506,5,0,2,10.19,37.57,25.3,2.0,3.8,1,Mumbai Indians,71.92,18.93
+2016,Kevin Pietersen,Batsman,Overseas,21,2,33.51,145.08,291,2,0,0,9.49,37.24,24.85,2.0,3.5,1,Rising Pune Supergiant,62.75,17.93
+2016,Praveen Kumar,Bowler,Indian,21,1,14.64,97.21,33,0,0,8,9.73,28.68,21.29,2.0,3.5,1,Gujarat Lions,13.14,3.75
+2016,Nathu Singh,Bowler,Indian,20,0,8.95,112.28,35,0,0,10,8.75,30.71,20.13,2.0,3.2,1,Mumbai Indians,19.1,5.97
+2016,Tim Southee,Bowler,Overseas,22,2,10.82,99.01,54,0,0,11,9.44,32.11,23.39,2.0,2.5,1,Mumbai Indians,18.72,7.49
+2016,Dale Steyn,Bowler,Overseas,20,0,15.73,108.85,59,1,0,11,9.04,26.41,21.68,2.0,2.3,1,Gujarat Lions,19.97,8.68
+2016,Dinesh Karthik,Batsman,Indian,21,2,38.28,142.29,457,3,0,2,8.99,34.78,29.0,2.0,2.3,1,Gujarat Lions,67.14,29.19
+2016,Dwayne Smith,All-Rounder,Overseas,22,2,28.31,126.47,110,1,0,9,8.2,25.98,19.13,2.0,2.3,1,Gujarat Lions,46.77,20.33
+2016,Kyle Abbott,Bowler,Overseas,21,1,12.03,106.44,60,0,0,11,9.26,32.33,20.71,2.0,2.1,1,Punjab Kings,19.32,9.2
+2016,Dhawal Kulkarni,Bowler,Indian,22,2,11.14,102.91,70,0,0,4,9.33,29.36,21.96,2.0,2.0,1,Gujarat Lions,8.71,4.36
+2016,Kane Richardson,Bowler,Overseas,23,3,13.13,107.67,64,0,0,18,8.29,24.26,21.26,2.0,2.0,1,Royal Challengers Bengaluru,32.77,16.39
+2016,Krunal Pandya,All-Rounder,Indian,20,0,24.77,117.11,158,0,0,13,7.8,27.66,18.26,2.0,2.0,1,Mumbai Indians,49.61,24.8
+2016,Stuart Binny,All-Rounder,Indian,20,0,19.15,112.65,134,1,0,8,8.81,30.05,20.19,2.0,2.0,1,Royal Challengers Bengaluru,39.3,19.65
+2016,Rishabh Pant,Batsman,Indian,21,0,50.46,156.25,636,7,1,4,8.39,41.51,29.24,1.5,1.9,1,Delhi Capitals,79.78,41.99
+2016,Jaydev Unadkat,Bowler,Indian,23,3,14.2,110.99,85,0,0,25,8.31,25.23,17.52,1.5,1.6,1,Kolkata Knight Riders,43.42,27.14
+2016,Ankit Singh Rajpoot,Bowler,Indian,20,0,10.18,104.17,45,0,0,7,8.9,33.0,20.44,1.5,1.5,1,Kolkata Knight Riders,14.25,9.5
+2016,Kishore Pramod Kamath,All-Rounder,Indian,20,0,16.82,104.15,99,0,0,8,9.21,33.11,21.34,1.0,1.4,1,Mumbai Indians,36.22,25.87
+2016,Mustafizur Rahman,Bowler,Overseas,20,0,11.86,118.04,69,0,0,16,8.43,29.98,17.27,1.0,1.4,1,Sunrisers Hyderabad,29.4,21.0
+2016,John Hastings,All-Rounder,Overseas,22,2,25.62,120.39,143,0,0,8,9.0,31.83,21.27,1.0,1.3,1,Kolkata Knight Riders,42.08,32.37
+2016,Aditya Tare,Batsman,Indian,21,2,25.96,119.04,209,1,1,0,8.37,36.0,25.39,1.0,1.2,1,Sunrisers Hyderabad,50.28,41.9
+2016,Barinder Singh Sran,Bowler,Indian,20,0,12.54,106.9,59,0,0,11,8.28,30.92,23.18,1.0,1.2,1,Sunrisers Hyderabad,22.25,18.54
+2016,Aaron Finch,Batsman,Overseas,21,2,29.61,129.74,305,3,0,1,8.93,36.96,26.58,1.0,1.0,1,Gujarat Lions,56.87,56.87
+2016,Eklavya Dwivedi,Batsman,Indian,20,1,22.21,104.97,168,1,0,0,8.95,36.27,25.53,1.0,1.0,1,Gujarat Lions,43.73,43.73
+2016,Irfan Pathan,All-Rounder,Indian,22,2,22.11,123.17,191,1,0,9,8.05,31.62,18.83,1.0,1.0,1,Rising Pune Supergiant,44.86,44.86
+2016,Thisara Perera,All-Rounder,Overseas,23,3,27.49,134.24,136,0,0,6,8.65,23.48,17.35,1.0,1.0,1,Rising Pune Supergiant,43.62,43.62
+2016,KC Cariappa,Bowler,Indian,21,1,14.44,108.01,45,0,0,8,9.57,29.5,23.54,0.75,0.8,1,Punjab Kings,13.74,17.18
+2016,Jason Holder,All-Rounder,Overseas,23,3,29.22,132.7,228,2,0,13,8.07,24.88,19.03,0.5,0.7,1,Kolkata Knight Riders,53.3,76.14
+2016,Rajat Bhatia,All-Rounder,Indian,22,2,20.29,107.16,124,1,0,7,9.03,31.48,22.47,0.5,0.6,1,Rising Pune Supergiant,36.84,61.4
+2016,Marcus Stoinis,All-Rounder,Overseas,21,1,30.71,119.82,271,1,0,16,8.23,23.3,17.37,0.5,0.55,1,Punjab Kings,54.38,98.87
+2016,Andrew Tye,Bowler,Overseas,21,1,10.57,108.32,54,0,0,16,8.15,23.95,20.01,0.5,0.5,1,Gujarat Lions,30.09,60.18
+2016,Ashok Dinda,Bowler,Indian,22,2,8.61,100.47,51,0,0,6,9.44,33.35,22.32,0.5,0.5,1,Rising Pune Supergiant,11.19,22.38
+2016,Ben Cutting,All-Rounder,Overseas,22,2,25.34,115.57,160,2,0,4,8.57,29.07,19.85,0.5,0.5,1,Sunrisers Hyderabad,37.11,74.22
+2016,Samuel Badree,Bowler,Overseas,22,2,12.14,105.76,37,0,0,8,8.99,31.68,24.03,0.5,0.5,1,Royal Challengers Bengaluru,15.4,30.8
+2016,Scott Boland,Bowler,Overseas,20,0,12.25,107.46,13,0,0,6,9.64,30.28,22.79,0.5,0.5,1,Rising Pune Supergiant,10.21,20.42
+2016,Travis Head,Batsman,Overseas,20,1,28.82,117.54,208,3,0,0,9.7,36.88,25.89,0.5,0.5,1,Royal Challengers Bengaluru,50.95,101.9
+2016,Ishan Kishan,Batsman,Indian,19,0,35.21,124.27,338,2,0,3,9.24,38.14,28.86,0.3,0.35,1,Gujarat Lions,58.12,166.06
+2016,Praveen Dubey,All-Rounder,Indian,20,0,15.25,99.96,108,0,0,2,8.79,28.98,21.07,0.3,0.35,1,Royal Challengers Bengaluru,28.62,81.77
+2016,Vijay Shankar,All-Rounder,Indian,22,2,26.04,116.88,78,0,0,10,9.66,27.04,22.02,0.3,0.35,1,Sunrisers Hyderabad,42.57,121.63
+2016,Abhimanyu Mithun,Bowler,Indian,21,1,13.03,106.04,47,0,0,8,10.6,28.82,21.66,0.3,0.3,1,Sunrisers Hyderabad,12.47,41.57
+2016,Adam Zampa,Bowler,Overseas,20,0,10.68,98.82,28,0,0,7,8.56,31.58,22.0,0.3,0.3,1,Rising Pune Supergiant,15.1,50.33
+2016,Colin Munro,All-Rounder,Overseas,20,0,22.82,103.65,119,0,0,5,8.83,28.88,20.99,0.3,0.3,1,Kolkata Knight Riders,34.78,115.93
+2016,Farhaan Behardien,All-Rounder,Overseas,20,0,19.22,98.83,5,0,0,6,8.12,27.94,23.39,0.3,0.3,1,Punjab Kings,35.53,118.43
+2016,Joel Paris,Bowler,Overseas,20,0,12.92,105.56,39,0,0,7,9.58,35.41,24.24,0.3,0.3,1,Delhi Capitals,12.15,40.5
+2016,Peter Handscomb,Batsman,Overseas,19,0,21.64,98.86,160,2,0,0,9.5,36.28,29.29,0.3,0.3,1,Rising Pune Supergiant,41.51,138.37
+2016,Rudra Pratap Singh,Bowler,Indian,23,3,12.9,110.21,61,0,0,10,8.76,35.65,22.18,0.3,0.3,1,Rising Pune Supergiant,19.33,64.43
+2016,Sam Billings,Batsman,Overseas,19,0,23.49,103.35,112,0,0,0,8.91,36.97,29.65,0.3,0.3,1,Delhi Capitals,42.64,142.13
+2016,Ishwar Chandra Pandey,Bowler,Indian,22,2,10.57,100.78,53,0,0,6,8.98,31.55,23.62,0.2,0.2,1,Rising Pune Supergiant,12.59,62.95
+2016,Jaydev Shah,All-Rounder,Indian,20,0,18.41,93.97,71,0,0,4,8.84,34.51,19.84,0.3,0.2,1,Gujarat Lions,30.52,152.6
+2016,Pradeep Sangwan,All-Rounder,Indian,20,0,16.01,104.47,119,1,0,5,7.45,30.7,20.77,0.3,0.2,1,Gujarat Lions,36.0,180.0
+2016,Pravin Tambe,Bowler,Indian,22,2,10.45,96.49,36,0,0,11,9.94,30.64,23.68,0.2,0.2,1,Gujarat Lions,17.04,85.2
+2016,Rajagopal Sathish,All-Rounder,Indian,20,0,15.58,89.63,99,1,0,2,8.9,32.38,22.13,0.3,0.2,1,Kolkata Knight Riders,26.42,132.1
+2016,Shadab Jakati,All-Rounder,Indian,22,2,19.33,121.0,154,0,0,2,9.47,32.82,19.64,0.3,0.2,1,Gujarat Lions,32.49,162.45
+2016,Vikramjeet Malik,Bowler,Indian,22,2,11.47,94.06,35,0,0,4,9.71,35.11,24.29,0.2,0.2,1,Royal Challengers Bengaluru,7.22,36.1
+2016,Akhil Arvind Herwadkar,All-Rounder,Indian,20,0,17.15,97.52,56,2,0,4,8.53,28.94,21.53,0.3,0.1,1,Delhi Capitals,31.53,315.3
+2016,Akshay Karnewar,All-Rounder,Indian,20,0,17.47,88.85,64,0,0,1,8.72,30.59,21.63,0.3,0.1,1,Royal Challengers Bengaluru,25.9,259.0
+2016,Akshdeep Nath,All-Rounder,Indian,20,0,21.01,108.31,102,0,0,7,8.49,30.42,22.0,0.3,0.1,1,Gujarat Lions,38.33,383.3
+2016,Amit Mishra,Bowler,Indian,22,2,14.13,116.47,45,0,0,13,8.78,28.21,19.69,0.2,0.1,1,Gujarat Lions,23.61,236.1
+2016,Ankit Sharma,All-Rounder,Indian,20,0,17.5,101.16,131,1,0,1,8.34,34.05,19.77,0.3,0.1,1,Rising Pune Supergiant,29.13,291.3
+2016,Ankush Bains,Batsman,Indian,21,2,19.6,115.0,172,1,0,0,9.27,40.33,26.45,0.2,0.1,1,Rising Pune Supergiant,45.78,457.8
+2016,Armaan Jaffer,Batsman,Indian,19,0,19.64,100.22,5,1,0,0,9.42,40.17,28.83,0.2,0.1,1,Punjab Kings,38.02,380.2
+2016,Baba Aparajith,All-Rounder,Indian,22,2,13.3,104.97,151,0,0,6,9.0,33.15,21.96,0.3,0.1,1,Rising Pune Supergiant,33.52,335.2
+2016,Chama Milind,Bowler,Indian,22,2,12.3,103.88,60,0,0,7,9.47,31.84,23.29,0.2,0.1,1,Delhi Capitals,12.69,126.9
+2016,Deepak Chahar,All-Rounder,Indian,20,0,29.4,112.23,230,1,0,15,8.21,23.84,16.53,0.3,0.1,1,Rising Pune Supergiant,51.38,513.8
+2016,Deepak Punia,All-Rounder,Indian,20,0,16.41,100.53,140,2,0,2,8.55,32.52,19.48,0.3,0.1,1,Mumbai Indians,29.51,295.1
+2016,Iqbal Abdullah,All-Rounder,Indian,22,2,22.62,108.49,88,1,0,1,8.81,33.71,20.49,0.3,0.1,1,Royal Challengers Bengaluru,30.93,309.3
+2016,Jaskaran Singh,Bowler,Indian,20,0,10.12,91.03,6,0,0,2,8.8,32.57,21.17,0.2,0.1,1,Rising Pune Supergiant,6.66,66.6
+2016,Jitesh Sharma,Batsman,Indian,19,0,32.37,113.74,328,2,1,4,9.24,33.61,27.18,0.2,0.1,1,Mumbai Indians,53.63,536.3
+2016,Khaleel Ahmed,Bowler,Indian,20,0,13.57,114.81,78,0,0,12,9.37,31.98,22.34,0.3,0.1,1,Delhi Capitals,20.67,206.7
+2016,Mahipal Lomror,All-Rounder,Indian,20,0,20.42,97.59,127,0,0,7,8.42,27.99,20.55,0.3,0.1,1,Delhi Capitals,36.18,361.8
+2016,Manan Ajay Sharma,All-Rounder,Indian,20,0,18.77,91.48,22,0,0,2,8.06,29.58,21.45,0.3,0.1,1,Kolkata Knight Riders,29.27,292.7
+2016,Paras Dogra,Batsman,Indian,19,0,19.43,99.21,60,0,0,0,9.09,38.24,27.4,0.2,0.1,1,Gujarat Lions,38.73,387.3
+2016,Pardeep Sahu,All-Rounder,Indian,21,1,17.79,104.69,66,1,0,2,9.23,30.4,22.09,0.3,0.1,1,Punjab Kings,29.33,293.3
+2016,Pawan Suyal,Bowler,Indian,22,2,11.24,91.54,35,0,0,8,8.47,29.8,21.21,0.2,0.1,1,Delhi Capitals,16.94,169.4
+2016,Pratyush Singh,All-Rounder,Indian,21,1,18.15,108.17,81,0,0,3,9.05,31.26,23.34,0.3,0.1,1,Delhi Capitals,31.67,316.7
+2016,Sachin Baby,Batsman,Indian,19,0,19.0,99.64,63,2,0,0,9.83,38.77,28.14,0.2,0.1,1,Royal Challengers Bengaluru,38.75,387.5
+2016,Sarabjit Ladda,Bowler,Indian,20,0,10.48,99.56,27,0,0,5,9.15,29.69,24.12,0.2,0.1,1,Gujarat Lions,10.32,103.2
+2016,Shivil Kaushik,Bowler,Indian,20,0,12.12,98.09,19,0,0,3,9.11,34.64,24.42,0.2,0.1,1,Gujarat Lions,7.36,73.6
+2016,Swapnil Singh,All-Rounder,Indian,20,0,15.65,91.33,91,0,0,1,8.33,31.72,24.08,0.3,0.1,1,Punjab Kings,26.72,267.2
+2016,Tirumalasetti Suman,Batsman,Indian,19,0,19.82,98.55,120,1,0,0,8.89,38.84,27.86,0.2,0.1,1,Sunrisers Hyderabad,39.89,398.9
+2016,Umang Sharma,Batsman,Indian,19,0,22.07,94.77,84,0,0,0,8.7,39.09,27.27,0.2,0.1,1,Gujarat Lions,38.94,389.4
+2016,Vikas Tokas,Bowler,Indian,20,0,9.94,103.43,16,0,0,3,9.08,34.89,24.16,0.2,0.1,1,Royal Challengers Bengaluru,7.42,74.2
+2017,Benjamin Stokes,All-Rounder,Overseas,20,0,44.37,159.11,312,2,0,18,7.52,24.41,17.11,2.0,14.5,1,Rising Pune Supergiant,69.47,4.79
+2017,Tymal Mills,Bowler,Overseas,20,0,15.46,119.46,96,0,0,27,8.08,22.4,17.24,2.0,12.0,1,Royal Challengers Bengaluru,47.22,3.94
+2017,Kagiso Rabada,Bowler,Overseas,20,0,12.0,118.19,93,0,0,24,8.02,29.99,17.82,2.0,5.0,1,Delhi Capitals,42.87,8.57
+2017,Trent Boult,Bowler,Overseas,22,2,12.16,115.66,56,0,0,30,7.85,20.35,18.51,2.0,5.0,1,Kolkata Knight Riders,52.01,10.4
+2017,Pat Cummins,All-Rounder,Overseas,23,3,45.0,168.72,419,3,0,24,7.64,19.83,15.62,2.0,4.5,1,Delhi Capitals,78.51,17.45
+2017,Chris Woakes,All-Rounder,Overseas,20,0,27.42,123.63,197,2,0,8,7.96,26.41,18.1,2.0,4.2,1,Kolkata Knight Riders,45.26,10.78
+2017,Rashid Khan Arman,Bowler,Overseas,20,0,11.33,109.38,66,0,0,18,8.21,21.52,16.73,2.0,4.0,1,Sunrisers Hyderabad,33.03,8.26
+2017,Nathan Coulter-Nile,Bowler,Overseas,24,4,13.51,104.52,99,0,0,21,8.37,22.8,19.5,2.0,3.5,1,Kolkata Knight Riders,37.38,10.68
+2017,Karn Sharma,Bowler,Indian,23,3,12.63,103.61,66,0,0,16,9.51,28.58,20.86,2.0,3.2,1,Mumbai Indians,26.13,8.17
+2017,T. Natarajan,Bowler,Indian,20,0,11.32,114.83,107,0,0,23,7.73,23.84,16.75,2.0,3.0,1,Punjab Kings,42.38,14.13
+2017,Varun Aaron,Bowler,Indian,23,3,9.88,98.51,47,0,0,12,9.62,29.94,22.95,2.0,2.8,1,Punjab Kings,19.61,7.0
+2017,Mohammed Siraj,Bowler,Indian,20,0,15.73,106.68,87,1,0,22,8.08,20.12,15.46,2.0,2.6,1,Sunrisers Hyderabad,39.63,15.24
+2017,Angelo Mathews,All-Rounder,Overseas,22,2,28.56,132.18,186,1,0,14,8.06,30.56,18.82,2.0,2.0,1,Delhi Capitals,54.26,27.13
+2017,Aniket Choudhary,Bowler,Indian,20,0,13.04,103.28,42,0,0,6,9.21,31.9,20.92,2.0,2.0,1,Royal Challengers Bengaluru,11.79,5.89
+2017,Eoin Morgan,Batsman,Overseas,21,2,29.4,127.47,297,4,0,1,9.68,38.26,26.06,2.0,2.0,1,Punjab Kings,55.94,27.97
+2017,Krishnappa Gowtham,All-Rounder,Indian,20,0,23.46,117.94,183,1,0,16,8.13,22.54,17.01,2.0,2.0,1,Mumbai Indians,52.39,26.2
+2017,Mitchell Johnson,Bowler,Overseas,23,3,11.74,101.71,66,0,0,15,8.81,23.5,19.1,2.0,2.0,1,Mumbai Indians,26.73,13.37
+2017,Corey Anderson,All-Rounder,Overseas,23,3,24.56,128.23,166,0,0,11,8.74,33.24,20.23,1.0,1.0,1,Delhi Capitals,47.51,47.51
+2017,Daniel Christian,All-Rounder,Overseas,24,4,24.86,132.98,159,1,0,4,9.31,30.52,18.15,1.0,1.0,1,Rising Pune Supergiant,38.99,38.99
+2017,Jason Roy,Batsman,Overseas,19,0,22.06,99.78,151,1,0,0,9.42,39.11,27.94,1.0,1.0,1,Gujarat Lions,41.78,41.78
+2017,M. Ashwin,Bowler,Indian,21,1,9.48,110.78,57,0,0,13,8.39,25.5,19.81,1.0,1.0,1,Delhi Capitals,24.9,24.9
+2017,Pawan Negi,All-Rounder,Indian,23,3,29.92,134.75,226,2,0,17,8.79,27.85,24.08,1.0,1.0,1,Royal Challengers Bengaluru,57.25,57.25
+2017,Basil Thampi,Bowler,Indian,20,0,10.09,95.5,73,0,0,5,9.85,33.66,25.52,0.75,0.85,1,Gujarat Lions,8.68,10.21
+2017,Eklavya Dwivedi,Batsman,Indian,21,2,22.48,118.44,139,3,0,1,8.97,42.03,28.89,0.75,0.75,1,Sunrisers Hyderabad,47.3,63.07
+2017,Manpreet Gony,Bowler,Indian,24,4,12.07,97.92,56,0,0,11,8.74,31.28,20.29,0.5,0.6,1,Gujarat Lions,20.84,34.73
+2017,Rishi Dhawan,All-Rounder,Indian,23,3,27.33,121.09,154,1,0,6,7.99,28.18,18.52,0.5,0.55,1,Kolkata Knight Riders,42.27,76.85
+2017,Chris Jordan,All-Rounder,Overseas,20,0,21.1,101.48,110,1,0,4,8.47,29.24,19.57,0.5,0.5,1,Sunrisers Hyderabad,33.43,66.86
+2017,Darren Bravo,Batsman,Overseas,19,0,23.78,107.08,74,0,0,0,9.82,37.07,26.34,0.5,0.5,1,Kolkata Knight Riders,43.12,86.24
+2017,Lockie Ferguson,Bowler,Overseas,20,0,12.57,104.49,57,0,0,19,8.64,24.09,19.67,0.5,0.5,1,Rising Pune Supergiant,33.15,66.3
+2017,Manoj Tiwary,Batsman,Indian,22,3,28.72,127.8,181,0,0,0,8.62,35.16,26.77,0.5,0.5,1,Rising Pune Supergiant,53.45,106.9
+2017,Martin Guptill,Batsman,Overseas,19,0,21.32,107.52,105,2,0,0,9.54,38.64,29.53,0.5,0.5,1,Punjab Kings,42.88,85.76
+2017,Matt Henry,Bowler,Overseas,23,3,10.68,103.85,48,0,0,11,8.61,32.99,22.5,0.5,0.5,1,Punjab Kings,21.15,42.3
+2017,Nathu Singh,Bowler,Indian,21,1,14.22,101.62,55,0,0,10,8.85,28.17,23.08,0.5,0.5,1,Gujarat Lions,19.0,38.0
+2017,Asela Gunarathna,Batsman,Overseas,19,0,22.24,107.65,113,2,0,1,9.27,42.78,27.27,0.3,0.3,1,Mumbai Indians,43.45,144.83
+2017,Ben Laughlin,Bowler,Overseas,24,4,8.8,100.81,38,0,0,4,9.7,31.36,23.48,0.3,0.3,1,Sunrisers Hyderabad,7.28,24.27
+2017,Billy Stanlake,Batsman,Overseas,19,0,17.48,95.36,168,2,0,0,9.31,39.47,25.96,0.3,0.3,1,Royal Challengers Bengaluru,38.96,129.87
+2017,Darren Sammy,All-Rounder,Overseas,24,4,27.44,131.58,168,1,0,6,8.8,30.84,22.5,0.3,0.3,1,Punjab Kings,42.78,142.6
+2017,Jaydev Unadkat,Bowler,Indian,24,4,14.49,106.84,94,0,0,25,7.92,20.68,16.64,0.3,0.3,1,Rising Pune Supergiant,44.68,148.93
+2017,Mohammad Nabi,All-Rounder,Overseas,20,0,22.59,96.87,110,0,0,6,9.25,31.92,18.9,0.3,0.3,1,Sunrisers Hyderabad,33.72,112.4
+2017,Munaf Patel,Bowler,Indian,20,0,12.38,103.36,53,0,0,5,8.73,34.86,22.31,0.3,0.3,1,Gujarat Lions,11.84,39.47
+2017,Nicolas Pooran,Batsman,Overseas,19,0,23.96,105.8,245,3,0,2,8.93,40.02,25.96,0.3,0.3,1,Mumbai Indians,46.22,154.07
+2017,Rovman Powell,All-Rounder,Overseas,20,0,20.66,106.36,127,1,0,7,8.28,22.84,18.02,0.3,0.3,1,Kolkata Knight Riders,38.28,127.6
+2017,Saurabh Tiwary,Batsman,Indian,22,3,24.85,109.8,110,1,0,0,9.33,38.23,29.42,0.3,0.3,1,Mumbai Indians,45.08,150.27
+2017,Aditya Tare,Batsman,Indian,22,3,25.23,120.69,217,3,0,0,9.88,35.66,29.13,0.2,0.25,1,Delhi Capitals,50.64,202.56
+2017,Rahul Tewatia,All-Rounder,Indian,23,3,27.73,130.79,213,1,0,8,8.39,23.74,19.22,0.3,0.25,1,Punjab Kings,45.91,183.64
+2017,Akshdeep Nath,All-Rounder,Indian,21,1,20.53,97.15,68,0,0,6,8.8,32.74,17.96,0.3,0.1,1,Gujarat Lions,34.16,341.6
+2017,Ankeet Bawane,Batsman,Indian,19,0,19.55,94.44,192,1,1,0,9.43,35.36,27.33,0.2,0.1,1,Delhi Capitals,39.99,399.9
+2017,Chirag Suri,Batsman,Indian,19,0,17.98,98.41,96,1,0,0,9.85,38.97,28.21,0.2,0.1,1,Gujarat Lions,38.63,386.3
+2017,Ishank Jaggi,Batsman,Indian,19,0,18.14,98.42,150,3,0,0,9.67,36.67,27.77,0.2,0.1,1,Kolkata Knight Riders,39.78,397.8
+2017,Kulwant Khejroliya,Bowler,Indian,20,0,11.14,105.96,46,0,0,7,9.01,32.98,21.3,0.2,0.1,1,Mumbai Indians,13.93,139.3
+2017,Milind Tandon,All-Rounder,Indian,20,0,14.49,104.17,131,1,0,3,8.16,27.25,21.92,0.3,0.1,1,Rising Pune Supergiant,31.74,317.4
+2017,Navdeep Saini,Bowler,Indian,20,0,11.26,103.34,41,0,0,4,8.53,32.41,18.49,0.2,0.1,1,Delhi Capitals,10.82,108.2
+2017,Pratham Singh,All-Rounder,Indian,20,0,18.23,100.69,90,0,0,2,9.31,30.53,21.68,0.3,0.1,1,Gujarat Lions,28.48,284.8
+2017,Praveen Dubey,All-Rounder,Indian,21,1,20.63,109.32,82,0,0,5,8.17,30.16,21.68,0.3,0.1,1,Royal Challengers Bengaluru,36.68,366.8
+2017,Pravin Tambe,Bowler,Indian,23,3,12.22,107.62,46,0,0,8,9.31,30.89,22.22,0.2,0.1,1,Sunrisers Hyderabad,14.53,145.3
+2017,R. Sanjay Yadav,All-Rounder,Indian,20,0,17.16,97.96,16,0,0,2,8.87,31.92,19.52,0.3,0.1,1,Kolkata Knight Riders,28.54,285.4
+2017,Rahul Ajay Tripathi,All-Rounder,Indian,20,0,13.86,96.39,90,2,0,0,8.88,31.45,21.78,0.3,0.1,1,Rising Pune Supergiant,24.98,249.8
+2017,Rahul Chahar,Bowler,Indian,20,0,13.12,100.7,56,0,0,13,8.41,27.52,16.58,0.2,0.1,1,Rising Pune Supergiant,24.83,248.3
+2017,Rinku Singh,Batsman,Indian,19,0,19.23,98.41,88,1,0,0,9.16,38.45,28.49,0.2,0.1,1,Punjab Kings,38.97,389.7
+2017,Saurabh Kumar,All-Rounder,Indian,20,0,17.99,102.39,50,1,0,0,9.34,34.22,22.32,0.2,0.1,1,Rising Pune Supergiant,26.3,263.0
+2017,Sayan Ghosh,Bowler,Indian,20,0,11.25,109.53,35,0,0,4,9.85,30.67,27.13,0.2,0.1,1,Kolkata Knight Riders,6.8,68.0
+2017,Shashank Singh,All-Rounder,Indian,20,0,18.02,100.31,86,2,0,0,9.68,30.14,21.59,0.3,0.1,1,Delhi Capitals,25.21,252.1
+2017,Shelley Shaurya,Bowler,Indian,20,0,9.11,105.24,25,0,0,5,9.26,37.15,25.93,0.2,0.1,1,Gujarat Lions,9.97,99.7
+2017,Shubam Agrawal,All-Rounder,Indian,20,0,17.21,98.45,58,1,0,2,9.48,29.86,21.4,0.3,0.1,1,Gujarat Lions,27.43,274.3
+2017,Tanmay Agarwal,Batsman,Indian,19,0,19.43,100.84,106,0,0,0,9.55,42.13,30.04,0.2,0.1,1,Sunrisers Hyderabad,40.14,401.4
+2017,Tejas Singh Baroka,Bowler,Indian,20,0,8.18,110.61,49,0,0,2,9.25,35.32,23.78,0.2,0.1,1,Gujarat Lions,5.74,57.4
+2018,Benjamin Stokes,All-Rounder,Overseas,21,1,39.52,163.29,342,2,0,20,7.39,20.82,15.02,2.0,12.5,1,Rajasthan Royals,71.76,5.74
+2018,Jaydev Unadkat,Bowler,Indian,25,5,12.04,108.43,99,0,0,32,7.94,26.74,17.3,2.0,11.5,1,Rajasthan Royals,55.17,4.8
+2018,KL Rahul,Batsman,Indian,25,4,59.18,205.0,680,7,0,2,9.22,37.68,30.12,2.0,11.0,1,Punjab Kings,98.77,8.98
+2018,Manish Pandey,Batsman,Indian,23,4,51.25,191.8,566,5,1,2,8.88,35.9,26.87,2.0,11.0,1,Sunrisers Hyderabad,89.36,8.12
+2018,Chris Lynn,Batsman,Overseas,23,4,49.96,189.71,534,5,0,2,9.57,40.18,26.6,2.0,9.6,1,Kolkata Knight Riders,87.58,9.12
+2018,Mitchell Starc,Bowler,Overseas,24,4,16.81,109.57,158,0,0,32,6.23,20.19,13.26,2.0,9.4,1,Kolkata Knight Riders,60.89,6.48
+2018,Glenn Maxwell,All-Rounder,Overseas,25,5,45.0,189.83,403,2,0,24,8.04,24.65,17.23,2.0,9.0,1,Delhi Capitals,81.94,9.1
+2018,Rashid Khan Arman,Bowler,Overseas,21,1,15.02,120.54,84,0,0,22,8.54,24.5,19.13,2.0,9.0,1,Sunrisers Hyderabad,38.22,4.25
+2018,Krunal Pandya,All-Rounder,Indian,22,2,30.19,145.26,274,1,0,15,7.73,23.67,18.25,2.0,8.8,1,Mumbai Indians,59.14,6.72
+2018,Sanju Samson,Batsman,Indian,21,2,38.22,157.73,382,4,0,0,10.11,38.2,27.07,2.0,8.0,1,Rajasthan Royals,70.25,8.78
+2018,Kedar Jadhav,All-Rounder,Indian,24,4,34.9,170.55,277,2,0,17,7.99,27.02,18.64,2.0,7.8,1,Chennai Super Kings,67.26,8.62
+2018,Ravichandran Ashwin,All-Rounder,Overseas,20,0,26.55,137.13,156,0,0,15,8.18,25.11,17.85,2.0,7.6,1,Punjab Kings,55.7,7.33
+2018,Chris Woakes,All-Rounder,Overseas,21,1,28.43,140.68,205,0,0,8,7.94,29.26,22.19,2.0,7.4,1,Royal Challengers Bengaluru,48.96,6.62
+2018,Dinesh Karthik,Batsman,Indian,23,4,45.84,183.33,519,5,0,2,9.06,40.81,28.49,2.0,7.4,1,Kolkata Knight Riders,83.72,11.31
+2018,Andrew Tye,Bowler,Overseas,23,3,13.88,100.62,77,0,0,22,8.8,26.87,19.35,2.0,7.2,1,Punjab Kings,37.37,5.19
+2018,Jofra Archer,All-Rounder,Overseas,20,0,31.72,136.53,257,2,0,15,7.73,24.64,17.8,2.0,7.2,1,Rajasthan Royals,57.78,8.03
+2018,Dwayne Bravo,All-Rounder,Overseas,20,0,24.45,118.39,101,0,0,6,7.8,30.74,18.11,2.0,6.4,1,Chennai Super Kings,41.39,6.47
+2018,Robin Uthappa,Batsman,Indian,23,4,36.1,162.71,342,0,0,0,9.0,41.04,27.08,2.0,6.4,1,Kolkata Knight Riders,70.09,10.95
+2018,Aaron Finch,Batsman,Overseas,23,4,43.04,162.68,407,4,1,1,8.7,38.32,30.47,2.0,6.2,1,Punjab Kings,74.16,11.96
+2018,Ishan Kishan,Batsman,Indian,21,2,44.21,158.62,464,5,1,4,8.97,38.59,28.47,2.0,6.2,1,Mumbai Indians,74.55,12.02
+2018,Krishnappa Gowtham,All-Rounder,Indian,21,1,32.56,137.77,205,1,0,13,8.93,27.55,19.08,2.0,6.2,1,Rajasthan Royals,53.43,8.62
+2018,Marcus Stoinis,All-Rounder,Overseas,23,3,34.99,161.26,358,3,0,18,8.0,23.64,15.92,2.0,6.2,1,Punjab Kings,66.6,10.74
+2018,Yuzvendra Singh Chahal,Bowler,Indian,24,4,11.99,111.77,69,0,0,17,9.07,29.63,20.38,2.0,6.0,1,Royal Challengers Bengaluru,28.98,4.83
+2018,Kuldeep Yadav,Bowler,Indian,24,4,9.3,101.93,84,1,0,17,9.64,27.12,20.57,2.0,5.8,1,Kolkata Knight Riders,27.42,4.73
+2018,Karun Nair,Batsman,Indian,23,4,39.35,160.79,335,2,0,1,8.8,38.71,29.12,2.0,5.6,1,Punjab Kings,70.68,12.62
+2018,Kieron Pollard,All-Rounder,Overseas,20,0,26.0,119.31,189,0,0,12,8.51,24.29,18.9,2.0,5.4,1,Mumbai Indians,47.74,8.84
+2018,Pat Cummins,All-Rounder,Overseas,24,4,45.0,177.85,479,2,1,24,6.62,23.17,12.15,2.0,5.4,1,Mumbai Indians,82.38,15.26
+2018,Shikhar Dhawan,Batsman,Indian,19,0,31.17,125.69,276,2,0,2,8.68,35.9,25.38,2.0,5.2,1,Sunrisers Hyderabad,55.7,10.71
+2018,Karn Sharma,Bowler,Indian,24,4,14.45,106.18,71,1,0,17,8.93,26.12,19.44,2.0,5.0,1,Chennai Super Kings,29.42,5.88
+2018,Wriddhiman Saha,Batsman,Indian,23,4,33.7,148.94,340,4,1,1,9.08,33.84,28.11,2.0,5.0,1,Sunrisers Hyderabad,64.96,12.99
+2018,Jos Buttler,Batsman,Overseas,23,2,51.56,175.36,575,5,1,4,8.97,36.74,28.27,2.0,4.4,1,Rajasthan Royals,84.73,19.26
+2018,Kagiso Rabada,Bowler,Overseas,21,1,11.86,105.65,40,0,0,21,7.9,22.05,19.72,2.0,4.2,1,Delhi Capitals,38.2,9.1
+2018,Piyush Chawla,Bowler,Indian,24,4,13.17,106.57,71,0,0,18,8.36,26.74,18.51,2.0,4.2,1,Kolkata Knight Riders,32.63,7.77
+2018,Umesh Yadav,Bowler,Indian,24,4,11.95,119.56,67,0,0,19,7.98,24.54,18.43,2.0,4.2,1,Royal Challengers Bengaluru,35.23,8.39
+2018,Ajinkya Rahane,Batsman,Indian,19,0,23.95,121.43,203,0,0,0,10.08,37.63,29.96,2.0,4.0,1,Rajasthan Royals,50.07,12.52
+2018,Amit Mishra,Bowler,Indian,24,4,13.06,100.84,72,0,0,14,8.63,31.16,22.98,2.0,4.0,1,Delhi Capitals,25.83,6.46
+2018,Darcy Short,All-Rounder,Overseas,20,0,25.93,115.06,121,0,0,9,8.8,29.07,18.07,2.0,4.0,1,Rajasthan Royals,42.69,10.67
+2018,Mujeeb Zadran,Bowler,Overseas,20,0,10.97,114.48,49,0,0,13,8.68,29.94,21.12,2.0,4.0,1,Punjab Kings,23.95,5.99
+2018,Shane Watson,All-Rounder,Overseas,22,2,35.16,144.62,235,2,0,8,7.79,25.2,17.53,2.0,4.0,1,Chennai Super Kings,51.73,12.93
+2018,Evin Lewis,Batsman,Overseas,19,0,28.15,119.04,209,0,0,0,10.52,34.81,26.43,2.0,3.8,1,Mumbai Indians,51.15,13.46
+2018,Siddarth Kaul,Bowler,Indian,24,4,12.05,95.7,38,0,0,15,9.72,30.25,18.3,2.0,3.8,1,Sunrisers Hyderabad,23.72,6.24
+2018,Brendon McCullum,Batsman,Overseas,23,4,36.85,152.04,296,4,0,1,9.44,38.49,26.9,2.0,3.6,1,Royal Challengers Bengaluru,66.27,18.41
+2018,Deepak Hooda,All-Rounder,Indian,24,4,31.54,143.02,246,1,0,10,8.59,23.81,17.42,2.0,3.6,1,Sunrisers Hyderabad,51.31,14.25
+2018,Nitish Rana,All-Rounder,Indian,23,3,29.61,154.21,220,2,0,16,8.8,24.84,19.62,2.0,3.4,1,Kolkata Knight Riders,59.84,17.6
+2018,Rahul Tripathi,Batsman,Indian,19,0,30.75,127.42,261,3,0,3,8.45,37.08,29.27,2.0,3.4,1,Rajasthan Royals,55.75,16.4
+2018,Kamlesh Nagarkoti,All-Rounder,Indian,20,0,22.73,110.66,104,1,0,4,7.89,28.2,21.74,2.0,3.2,1,Kolkata Knight Riders,36.83,11.51
+2018,Shahbaz Nadeem,Bowler,Indian,24,4,11.81,109.32,48,0,0,10,9.02,31.12,22.02,2.0,3.2,1,Delhi Capitals,18.42,5.76
+2018,Suryakumar Yadav,Batsman,Indian,25,4,33.53,151.55,286,2,0,1,8.12,41.76,27.78,2.0,3.2,1,Mumbai Indians,64.6,20.19
+2018,Vijay Shankar,All-Rounder,Indian,24,4,25.96,145.62,202,2,0,7,8.88,27.82,19.88,2.0,3.2,1,Delhi Capitals,46.25,14.45
+2018,Washington Sundar,All-Rounder,Indian,20,0,26.47,116.68,192,2,0,13,8.58,22.82,16.45,2.0,3.2,1,Royal Challengers Bengaluru,48.39,15.12
+2018,Ankit Singh Rajpoot,Bowler,Indian,22,2,13.84,110.21,87,0,0,13,9.01,31.77,18.98,2.0,3.0,1,Punjab Kings,23.34,7.78
+2018,David Miller,Batsman,Overseas,19,0,28.72,130.85,244,1,1,2,9.59,37.72,27.52,2.0,3.0,1,Punjab Kings,55.62,18.54
+2018,Kane Williamson,All-Rounder,Overseas,23,3,31.21,134.46,142,0,0,4,9.04,30.84,21.24,2.0,3.0,1,Sunrisers Hyderabad,41.41,13.8
+2018,Khaleel Ahmed,Bowler,Indian,22,2,10.73,102.55,80,0,0,13,8.85,27.65,25.62,2.0,3.0,1,Sunrisers Hyderabad,23.75,7.92
+2018,Mohammed Shami,Bowler,Indian,24,4,14.95,112.69,80,0,0,27,7.38,22.1,16.4,2.0,3.0,1,Delhi Capitals,49.16,16.39
+2018,Navdeep Saini,Bowler,Indian,21,1,9.73,106.84,57,0,0,8,8.89,28.88,21.87,2.0,3.0,1,Royal Challengers Bengaluru,15.9,5.3
+2018,Rahul Tewatia,All-Rounder,Indian,24,4,33.69,156.35,290,1,0,13,8.66,24.89,19.79,2.0,3.0,1,Delhi Capitals,57.97,19.32
+2018,Sandeep Sharma,Bowler,Indian,24,4,12.94,115.52,43,0,0,7,8.72,30.93,21.48,2.0,3.0,1,Sunrisers Hyderabad,14.77,4.92
+2018,Shivam Mavi,All-Rounder,Indian,20,0,25.97,116.93,179,0,0,8,8.5,28.36,17.19,2.0,3.0,1,Kolkata Knight Riders,42.48,14.16
+2018,Gautam Gambhir,Batsman,Indian,19,0,22.57,109.93,175,2,0,0,9.63,38.03,29.33,2.0,2.8,1,Delhi Capitals,45.51,16.25
+2018,Quinton de Kock,Batsman,Overseas,24,5,41.49,164.23,442,3,1,0,9.46,37.55,28.75,2.0,2.8,1,Royal Challengers Bengaluru,74.7,26.68
+2018,Mohammed Siraj,Bowler,Indian,21,1,16.72,117.05,52,0,0,20,7.84,20.79,15.4,2.0,2.6,1,Royal Challengers Bengaluru,37.0,14.23
+2018,Shardul Thakur,Bowler,Indian,24,4,10.33,108.27,85,0,0,28,8.36,22.62,17.36,2.0,2.6,1,Chennai Super Kings,47.77,18.37
+2018,Mohit Sharma,Bowler,Indian,24,4,15.54,109.08,76,0,0,21,8.33,25.93,20.59,2.0,2.4,1,Punjab Kings,37.27,15.53
+2018,Ambati Rayudu,Batsman,Indian,19,0,29.02,111.59,184,2,0,1,9.17,37.58,28.61,2.0,2.2,1,Chennai Super Kings,48.76,22.16
+2018,Barinder Singh Sran,Bowler,Indian,22,2,11.5,116.21,38,0,0,11,8.94,30.53,20.63,2.0,2.2,1,Punjab Kings,20.06,9.12
+2018,Ben Cutting,All-Rounder,Overseas,24,4,27.89,140.77,182,0,0,11,8.3,30.9,19.49,2.0,2.2,1,Mumbai Indians,51.73,23.51
+2018,Colin De Grandhomme,All-Rounder,Overseas,20,0,18.1,107.22,52,0,0,5,8.66,28.18,20.33,2.0,2.2,1,Royal Challengers Bengaluru,34.65,15.75
+2018,M. Ashwin,Bowler,Indian,22,2,10.91,93.66,65,0,0,16,8.68,28.67,22.11,2.0,2.2,1,Royal Challengers Bengaluru,28.61,13.0
+2018,Mustafizur Rahman,Bowler,Overseas,22,2,13.85,117.51,93,0,0,18,7.92,22.21,19.75,2.0,2.2,1,Mumbai Indians,34.17,15.53
+2018,Nathan Coulter-Nile,Bowler,Overseas,25,5,13.15,101.93,83,1,0,26,8.29,23.36,18.53,2.0,2.2,1,Royal Challengers Bengaluru,44.96,20.44
+2018,Trent Boult,Bowler,Overseas,23,3,13.79,102.42,99,0,0,28,7.42,21.49,15.73,2.0,2.2,1,Delhi Capitals,50.73,23.06
+2018,Carlos Brathwaite,All-Rounder,Overseas,22,2,23.16,122.82,124,1,0,7,7.77,29.8,18.44,2.0,2.0,1,Sunrisers Hyderabad,43.21,21.61
+2018,Christopher Gayle,Batsman,Overseas,19,0,21.78,106.49,142,3,0,0,10.07,37.25,29.08,2.0,2.0,1,Punjab Kings,43.5,21.75
+2018,Harbhajan Singh,Bowler,Indian,20,0,13.36,103.3,62,0,0,7,9.14,29.6,25.68,2.0,2.0,1,Chennai Super Kings,13.7,6.85
+2018,Mitchell Johnson,Bowler,Overseas,24,4,10.38,107.9,55,1,0,21,8.71,27.8,17.02,2.0,2.0,1,Kolkata Knight Riders,35.92,17.96
+2018,Murali Vijay,Batsman,Indian,23,4,29.43,149.03,320,4,0,0,8.87,40.47,28.47,2.0,2.0,1,Chennai Super Kings,62.88,31.44
+2018,Shakib Al Hasan,All-Rounder,Overseas,24,4,28.66,137.56,159,1,0,7,9.3,27.31,19.33,2.0,2.0,1,Sunrisers Hyderabad,44.48,22.24
+2018,Yuvraj Singh,All-Rounder,Indian,24,4,40.24,162.17,356,3,0,17,7.69,21.96,17.65,2.0,2.0,1,Punjab Kings,67.51,33.76
+2018,Colin Munro,All-Rounder,Overseas,22,2,24.05,126.21,54,0,0,6,9.05,30.4,20.29,1.5,1.9,1,Delhi Capitals,40.35,21.24
+2018,Rahul Chahar,Bowler,Indian,21,1,12.49,87.76,60,1,0,14,8.69,31.74,21.0,1.5,1.9,1,Mumbai Indians,25.53,13.44
+2018,Yusuf Pathan,All-Rounder,Indian,24,4,26.14,137.7,241,3,0,6,8.48,28.86,18.97,1.5,1.9,1,Sunrisers Hyderabad,44.32,23.33
+2018,Shubman Gill,Batsman,Indian,21,0,25.63,108.33,94,0,0,0,9.91,36.3,28.47,1.5,1.8,1,Kolkata Knight Riders,44.63,24.79
+2018,Moeen Ali,All-Rounder,Overseas,20,0,20.12,115.64,172,1,0,9,7.71,24.75,17.7,1.5,1.7,1,Royal Challengers Bengaluru,43.54,25.61
+2018,Parthiv Patel,Batsman,Indian,23,4,27.17,141.24,202,2,0,1,8.85,36.53,26.55,1.5,1.7,1,Royal Challengers Bengaluru,57.28,33.69
+2018,Faf du Plessis,Batsman,Overseas,23,4,35.38,142.61,426,6,0,0,8.18,37.51,27.53,1.5,1.6,1,Chennai Super Kings,65.45,40.91
+2018,Daniel Christian,All-Rounder,Overseas,25,5,26.21,141.23,202,1,0,7,9.66,29.5,22.7,1.5,1.5,1,Delhi Capitals,43.88,29.25
+2018,Jason Behrendorff,Bowler,Overseas,20,0,9.69,105.84,58,0,0,7,8.75,30.98,21.29,1.5,1.5,1,Mumbai Indians,14.83,9.89
+2018,Jason Roy,Batsman,Overseas,20,1,27.12,110.85,207,1,0,0,9.43,39.79,28.41,1.5,1.5,1,Delhi Capitals,48.24,32.16
+2018,Mark Wood,Bowler,Overseas,20,0,14.99,92.76,76,0,0,14,9.26,24.68,18.6,1.5,1.5,1,Chennai Super Kings,23.98,15.99
+2018,Pradeep Sangwan,All-Rounder,Indian,22,2,24.23,122.03,129,2,0,5,9.06,28.27,21.52,1.5,1.5,1,Mumbai Indians,38.34,25.56
+2018,Ben Dwarshuis,Bowler,Overseas,20,0,12.22,101.72,61,0,0,10,8.4,29.63,19.2,1.0,1.4,1,Punjab Kings,20.41,14.58
+2018,Mandeep Singh,All-Rounder,Indian,20,0,19.5,112.89,68,1,0,5,8.41,32.98,23.22,1.0,1.4,1,Royal Challengers Bengaluru,36.63,26.16
+2018,Naman Ojha,Batsman,Indian,23,4,29.85,130.03,269,1,0,0,8.22,37.93,26.47,1.0,1.4,1,Delhi Capitals,56.33,40.24
+2018,Prithvi Shaw,Batsman,Indian,19,0,24.22,102.51,90,1,0,0,9.48,41.56,30.44,1.0,1.2,1,Delhi Capitals,42.24,35.2
+2018,Manan Vohra,Batsman,Indian,19,0,22.38,109.2,106,2,0,3,8.7,36.62,28.63,1.0,1.1,1,Royal Challengers Bengaluru,43.83,39.85
+2018,Akshdeep Nath,All-Rounder,Indian,22,2,23.33,121.16,144,1,0,6,9.51,30.94,18.87,1.0,1.0,1,Punjab Kings,38.24,38.24
+2018,Chris Jordan,All-Rounder,Overseas,21,1,23.78,105.12,118,1,0,7,8.68,31.18,21.9,1.0,1.0,1,Sunrisers Hyderabad,38.01,38.01
+2018,Imran Tahir,Bowler,Overseas,20,0,13.26,105.9,32,0,0,6,8.92,29.91,20.98,1.0,1.0,1,Chennai Super Kings,12.56,12.56
+2018,Jean-Paul Duminy,All-Rounder,Overseas,24,4,24.76,133.34,165,1,0,4,8.34,29.38,20.43,1.0,1.0,1,Mumbai Indians,40.98,40.98
+2018,Manoj Tiwary,Batsman,Indian,23,4,25.48,130.43,307,1,1,2,9.12,38.58,29.68,1.0,1.0,1,Punjab Kings,55.46,55.46
+2018,Mayank Agarwal,Batsman,Indian,23,4,36.3,148.78,379,2,0,3,9.34,38.9,27.61,1.0,1.0,1,Punjab Kings,66.73,66.73
+2018,Mohammad Nabi,All-Rounder,Overseas,21,1,22.92,109.12,91,2,0,5,8.7,28.91,17.04,1.0,1.0,1,Sunrisers Hyderabad,36.15,36.15
+2018,Pawan Negi,All-Rounder,Indian,24,4,33.33,139.46,264,2,0,13,8.18,22.42,16.62,1.0,1.0,1,Royal Challengers Bengaluru,55.46,55.46
+2018,Ranganath Vinay Kumar,Bowler,Indian,24,4,14.02,105.68,49,0,0,13,9.33,29.09,21.84,1.0,1.0,1,Kolkata Knight Riders,22.0,22.0
+2018,Sam Billings,Batsman,Overseas,21,2,29.34,121.82,174,1,0,0,9.34,36.76,26.58,1.0,1.0,1,Chennai Super Kings,51.76,51.76
+2018,Shreevats Goswami,Batsman,Indian,19,0,19.98,101.83,233,2,1,1,9.48,36.02,29.59,1.0,1.0,1,Sunrisers Hyderabad,43.2,43.2
+2018,Tim Southee,Bowler,Overseas,24,4,14.68,93.43,49,0,0,14,8.32,28.73,20.68,1.0,1.0,1,Royal Challengers Bengaluru,26.53,26.53
+2018,Basil Thampi,Bowler,Indian,21,1,11.71,101.75,17,0,0,6,8.76,28.18,22.68,0.75,0.95,1,Sunrisers Hyderabad,12.89,13.57
+2018,Kulwant Khejroliya,Bowler,Indian,21,1,11.81,100.47,29,0,0,11,9.72,33.89,23.38,0.75,0.85,1,Royal Challengers Bengaluru,17.63,20.74
+2018,Deepak Chahar,All-Rounder,Indian,22,2,31.74,128.27,289,2,0,17,6.71,22.41,21.53,0.75,0.8,1,Chennai Super Kings,60.57,75.71
+2018,Rinku Singh,Batsman,Indian,20,1,26.34,108.7,119,2,0,0,8.42,34.87,26.66,0.75,0.8,1,Kolkata Knight Riders,45.53,56.91
+2018,Saurabh Tiwary,Batsman,Indian,23,4,25.44,125.68,191,0,0,0,9.0,40.21,28.44,0.75,0.8,1,Mumbai Indians,51.7,64.62
+2018,Dhawal Kulkarni,Bowler,Indian,24,4,11.52,101.15,56,0,0,12,8.51,34.21,19.13,0.75,0.75,1,Rajasthan Royals,23.03,30.71
+2018,Gurkeerat Singh Mann,All-Rounder,Indian,24,4,23.85,135.58,161,1,0,6,8.74,28.54,22.31,0.75,0.75,1,Delhi Capitals,42.8,57.07
+2018,Avesh Khan,Bowler,Indian,20,0,15.55,110.31,96,0,0,19,8.52,25.37,19.02,0.5,0.7,1,Delhi Capitals,33.9,48.43
+2018,Zahir Khan Pakteen,Bowler,Indian,20,0,13.39,108.82,47,0,0,4,10.11,33.64,22.15,0.5,0.6,1,Rajasthan Royals,6.47,10.78
+2018,Abhishek Sharma,All-Rounder,Indian,20,0,21.91,110.29,162,0,0,5,8.17,29.25,19.87,0.5,0.55,1,Delhi Capitals,37.2,67.64
+2018,Tajinder Dhillon,All-Rounder,Indian,20,0,14.43,96.18,19,0,0,4,9.05,28.66,18.54,0.5,0.55,1,Mumbai Indians,29.54,53.71
+2018,Akila Dhananjaya,Bowler,Overseas,20,0,11.65,105.23,16,0,0,7,9.19,34.45,21.55,0.5,0.5,1,Mumbai Indians,13.09,26.18
+2018,Ben Laughlin,Bowler,Overseas,25,5,11.77,118.16,67,1,0,9,8.32,28.89,24.2,0.5,0.5,1,Rajasthan Royals,19.21,38.42
+2018,Billy Stanlake,Batsman,Overseas,20,1,24.73,107.19,126,1,0,0,9.54,39.34,27.78,0.5,0.5,1,Sunrisers Hyderabad,44.57,89.14
+2018,Dushmantha Chameera,Bowler,Overseas,20,0,13.35,99.07,43,0,0,5,8.97,30.62,21.01,0.5,0.5,1,Rajasthan Royals,11.02,22.04
+2018,Jayant Yadav,All-Rounder,Indian,24,4,24.41,122.71,110,0,0,6,9.18,29.64,21.26,0.5,0.5,1,Delhi Capitals,39.48,78.96
+2018,Lungi Ngidi,Bowler,Overseas,20,0,10.0,111.27,30,0,0,8,8.42,26.71,22.58,0.5,0.5,1,Chennai Super Kings,17.04,34.08
+2018,Mitchell Santner,All-Rounder,Overseas,20,0,23.73,97.49,135,1,0,3,8.92,28.86,20.85,0.5,0.5,1,Chennai Super Kings,31.19,62.38
+2018,Stuart Binny,All-Rounder,Indian,22,2,21.34,118.15,125,1,0,3,9.83,28.59,19.78,0.5,0.5,1,Rajasthan Royals,32.91,65.82
+2018,Asif K M,Bowler,Indian,20,0,13.6,101.78,26,0,0,5,8.69,35.77,22.23,0.3,0.4,1,Chennai Super Kings,11.69,29.22
+2018,T. Natarajan,Bowler,Indian,21,1,13.32,118.3,51,0,0,17,7.2,20.78,16.85,0.3,0.4,1,Sunrisers Hyderabad,34.41,86.02
+2018,Aniket Choudhary,Bowler,Indian,21,1,10.59,92.21,50,0,0,8,9.38,28.11,22.97,0.3,0.3,1,Royal Challengers Bengaluru,14.36,47.87
+2018,Anureet Singh,Bowler,Indian,24,4,12.86,98.03,49,0,0,7,9.39,30.75,21.14,0.3,0.3,1,Rajasthan Royals,12.82,42.73
+2018,Aryaman Vikram Birla,All-Rounder,Indian,20,0,16.05,98.26,67,0,0,6,9.09,28.13,18.59,0.3,0.3,1,Rajasthan Royals,32.68,108.93
+2018,Cameron Delport,All-Rounder,Overseas,20,0,20.05,114.83,61,0,0,2,9.75,29.47,20.54,0.3,0.3,1,Kolkata Knight Riders,30.88,102.93
+2018,Javon Searless,All-Rounder,Indian,20,0,18.73,107.51,76,0,0,5,8.82,30.83,21.75,0.3,0.3,1,Kolkata Knight Riders,34.54,115.13
+2018,Aditya Tare,Batsman,Indian,23,4,26.76,130.59,233,2,0,0,9.32,37.38,25.62,0.2,0.2,1,Mumbai Indians,54.54,272.7
+2018,Anirudha Ashok Joshi,All-Rounder,Indian,20,0,21.35,98.9,69,0,0,1,9.09,29.28,20.45,0.3,0.2,1,Royal Challengers Bengaluru,28.14,140.7
+2018,Ankit Sharma,All-Rounder,Indian,22,2,19.46,118.53,150,1,0,9,8.77,29.74,18.24,0.3,0.2,1,Rajasthan Royals,41.83,209.15
+2018,Anukul Roy,All-Rounder,Indian,20,0,20.33,102.72,72,1,0,2,8.74,27.05,22.91,0.3,0.2,1,Mumbai Indians,30.55,152.75
+2018,Apoorv Vijay Wankhade,Batsman,Indian,23,4,27.96,125.03,284,3,0,1,9.62,39.45,29.79,0.2,0.2,1,Kolkata Knight Riders,54.37,271.85
+2018,Bipul Sharma,All-Rounder,Indian,20,0,17.4,94.6,46,0,0,4,9.12,30.97,22.68,0.3,0.2,1,Sunrisers Hyderabad,29.83,149.15
+2018,Chaitanya Bishnoi,All-Rounder,Indian,20,0,19.84,97.1,53,0,0,2,8.74,30.48,19.14,0.3,0.2,1,Chennai Super Kings,29.3,146.5
+2018,Dhruv Shorey,All-Rounder,Indian,20,0,15.05,100.6,117,1,0,3,8.47,29.9,19.25,0.3,0.2,1,Chennai Super Kings,30.54,152.7
+2018,Harshal Patel,All-Rounder,Indian,24,4,33.25,144.05,307,0,0,19,7.75,22.29,19.74,0.3,0.2,1,Delhi Capitals,64.42,322.1
+2018,Ishank Jaggi,Batsman,Indian,20,1,20.77,107.56,158,1,0,0,8.62,36.39,27.07,0.2,0.2,1,Kolkata Knight Riders,43.74,218.7
+2018,Jatin Saxena,All-Rounder,Indian,20,0,21.72,105.66,62,0,0,1,9.57,31.6,21.89,0.3,0.2,1,Rajasthan Royals,28.62,143.1
+2018,Kanishk Seth,All-Rounder,Indian,20,0,16.8,101.34,75,0,0,2,9.37,26.04,23.73,0.3,0.2,1,Chennai Super Kings,28.13,140.65
+2018,Kshitiz Sharma,All-Rounder,Indian,20,0,18.25,103.82,87,0,0,1,8.73,31.7,22.04,0.3,0.2,1,Chennai Super Kings,29.07,145.35
+2018,Mahipal Lomror,All-Rounder,Indian,22,2,23.12,112.4,121,1,0,5,8.8,32.74,23.08,0.3,0.2,1,Rajasthan Royals,36.66,183.3
+2018,Manjot Kalra,Batsman,Indian,19,0,20.46,97.49,111,1,0,1,9.17,37.13,28.72,0.2,0.2,1,Delhi Capitals,39.65,198.25
+2018,Manzoor Dar,All-Rounder,Indian,20,0,16.31,102.85,51,0,0,4,9.56,30.51,19.14,0.3,0.2,1,Punjab Kings,30.33,151.65
+2018,Mayank Dagar,All-Rounder,Indian,20,0,17.15,109.09,84,0,0,3,8.56,29.94,20.87,0.3,0.2,1,Punjab Kings,32.59,162.95
+2018,Mayank Markande,Bowler,Indian,20,0,11.55,115.07,42,0,0,1,9.47,32.5,22.77,0.2,0.2,1,Mumbai Indians,3.51,17.55
+2018,Midhun S,All-Rounder,Indian,20,0,17.73,98.37,69,1,0,1,10.5,29.45,21.61,0.3,0.2,1,Rajasthan Royals,25.31,126.55
+2018,Mohsin Khan,Bowler,Indian,20,0,8.61,111.74,38,0,0,7,8.89,30.79,21.17,0.2,0.2,1,Mumbai Indians,14.21,71.05
+2018,Monu Singh,Bowler,Indian,20,0,11.43,102.56,28,0,0,3,8.81,32.71,22.21,0.2,0.2,1,Chennai Super Kings,8.35,41.75
+2018,N Jagadeesan,Batsman,Indian,19,0,21.04,92.62,107,0,0,0,9.56,38.76,30.86,0.2,0.2,1,Chennai Super Kings,38.34,191.7
+2018,Nidheesh M D Dinesan,Bowler,Indian,20,0,11.62,101.84,52,0,0,3,9.82,34.0,22.89,0.2,0.2,1,Mumbai Indians,5.56,27.8
+2018,Pardeep Sahu,All-Rounder,Indian,23,3,21.3,116.16,136,1,0,4,9.2,31.34,21.54,0.2,0.2,1,Punjab Kings,34.96,174.8
+2018,Pavan Deshpande,All-Rounder,Indian,20,0,18.83,95.01,115,1,0,1,9.29,30.36,21.13,0.3,0.2,1,Royal Challengers Bengaluru,26.33,131.65
+2018,Prashant Chopra,Batsman,Indian,19,0,17.54,100.71,144,1,0,0,9.58,38.04,23.96,0.2,0.2,1,Rajasthan Royals,40.11,200.55
+2018,Ricky Bhui,Batsman,Overseas,23,4,31.41,115.84,163,4,0,0,9.28,38.13,29.27,0.2,0.2,1,Sunrisers Hyderabad,50.58,252.9
+2018,Sachin Baby,Batsman,Indian,21,2,24.77,111.15,152,0,0,0,9.39,37.53,26.58,0.2,0.2,1,Sunrisers Hyderabad,46.29,231.45
+2018,Sandeep Lamichhane,Bowler,Overseas,20,0,8.62,100.01,44,0,0,3,10.51,34.77,24.87,0.2,0.2,1,Delhi Capitals,4.94,24.7
+2018,Sayan Ghosh,Bowler,Indian,21,1,11.45,97.7,35,0,0,6,9.67,32.46,24.43,0.2,0.2,1,Delhi Capitals,10.34,51.7
+2018,Sharad Lumba,Batsman,Indian,19,0,20.52,102.69,89,0,0,0,9.22,37.42,31.36,0.2,0.2,1,Mumbai Indians,40.8,204.0
+2018,Shreyas Gopal,Bowler,Indian,24,4,8.94,112.21,49,0,0,3,9.04,33.16,21.91,0.3,0.2,1,Rajasthan Royals,7.87,39.35
+2018,Siddhesh Dinesh Lad,All-Rounder,Indian,23,3,14.56,122.41,112,1,0,5,9.41,29.99,20.66,0.2,0.2,1,Mumbai Indians,35.3,176.5
+2018,Syed Mehdi Hasan,All-Rounder,Indian,20,0,18.4,91.62,57,0,0,2,9.36,29.58,20.62,0.3,0.2,1,Sunrisers Hyderabad,26.6,133.0
+2018,Tanmay Agarwal,Batsman,Indian,20,1,18.82,104.02,162,2,0,0,9.31,37.36,27.7,0.2,0.2,1,Sunrisers Hyderabad,41.97,209.85
+2019,Jaydev Unadkat,Bowler,Indian,26,6,13.89,111.28,72,0,0,32,8.03,22.76,16.35,2.0,8.4,1,Rajasthan Royals,54.63,6.5
+2019,Varun Chakaravarthy,All-Rounder,Indian,20,0,28.27,135.68,185,0,0,14,9.47,22.95,19.13,2.0,8.4,1,Punjab Kings,52.06,6.2
+2019,Sam Curran,All-Rounder,Overseas,20,0,38.1,143.7,306,3,0,21,7.24,21.59,16.81,2.0,7.2,1,Punjab Kings,68.98,9.58
+2019,Colin Ingram,Batsman,Overseas,19,0,33.85,120.0,294,3,1,0,9.81,35.06,29.07,2.0,6.4,1,Delhi Capitals,55.42,8.66
+2019,Axar Patel,All-Rounder,Indian,25,5,33.85,157.41,265,2,0,10,8.45,26.61,20.52,2.0,5.0,1,Delhi Capitals,55.04,11.01
+2019,Carlos Brathwaite,All-Rounder,Overseas,23,3,31.74,140.2,233,1,0,8,7.29,27.76,19.44,2.0,5.0,1,Kolkata Knight Riders,51.0,10.2
+2019,Mohit Sharma,Bowler,Indian,25,5,11.69,105.77,57,0,0,20,8.39,28.27,18.53,2.0,5.0,1,Chennai Super Kings,35.4,7.08
+2019,Shivam Dube,All-Rounder,Indian,20,0,22.89,125.64,103,0,0,8,8.91,28.87,21.87,2.0,5.0,1,Royal Challengers Bengaluru,42.63,8.53
+2019,Mohammed Shami,Bowler,Indian,25,5,13.57,108.35,90,0,0,30,7.34,22.06,21.07,2.0,4.8,1,Punjab Kings,53.88,11.23
+2019,Prabhsimran Singh,Batsman,Indian,19,0,27.56,124.65,177,1,0,1,8.92,36.38,29.48,2.0,4.8,1,Punjab Kings,51.96,10.83
+2019,Nicolas Pooran,Batsman,Overseas,21,2,32.52,136.6,291,3,0,0,9.25,34.99,24.99,2.0,4.2,1,Punjab Kings,59.81,14.24
+2019,Shimron Hetmyer,Batsman,Overseas,19,0,35.5,123.58,251,3,1,3,8.67,37.47,26.6,2.0,4.2,1,Royal Challengers Bengaluru,56.29,13.4
+2019,Akshdeep Nath,All-Rounder,Indian,23,3,25.63,144.31,214,2,0,10,9.28,27.18,20.1,2.0,3.6,1,Royal Challengers Bengaluru,48.71,13.53
+2019,Barinder Singh Sran,Bowler,Indian,23,3,9.94,96.25,79,1,0,12,8.48,28.37,19.38,2.0,3.4,1,Mumbai Indians,23.35,6.87
+2019,Varun Aaron,Bowler,Indian,25,5,12.62,109.99,52,0,0,11,9.34,27.09,20.97,2.0,2.4,1,Rajasthan Royals,19.0,7.92
+2019,Jonny Bairstow,Batsman,Overseas,19,0,29.5,111.66,297,3,0,2,9.63,36.25,27.03,2.0,2.2,1,Sunrisers Hyderabad,51.24,23.29
+2019,Hanuma Vihari,Batsman,Indian,23,4,28.53,136.92,168,2,0,1,9.06,37.9,30.87,2.0,2.0,1,Delhi Capitals,55.85,27.93
+2019,Lasith Malinga,Bowler,Overseas,20,0,8.67,97.0,58,0,0,9,9.12,30.25,20.67,2.0,2.0,1,Mumbai Indians,16.72,8.36
+2019,Sherfane Rutherford,All-Rounder,Overseas,20,0,21.89,107.81,86,0,0,5,8.63,28.94,22.38,2.0,2.0,1,Delhi Capitals,35.77,17.89
+2019,Lockie Ferguson,Bowler,Overseas,22,2,17.99,103.54,82,0,0,21,8.19,21.4,18.46,1.5,1.6,1,Kolkata Knight Riders,37.75,23.59
+2019,Prayas Ray Barman,All-Rounder,Indian,20,0,21.21,111.09,139,1,0,7,9.24,28.14,19.11,1.5,1.5,1,Royal Challengers Bengaluru,37.44,24.96
+2019,Wriddhiman Saha,Batsman,Indian,24,5,32.08,152.8,316,2,0,0,9.46,38.97,27.99,1.0,1.2,1,Sunrisers Hyderabad,64.99,54.16
+2019,Ishant Sharma,Bowler,Indian,25,5,14.42,108.55,72,0,0,14,9.09,29.21,18.66,1.0,1.1,1,Delhi Capitals,24.45,22.23
+2019,Oshane Thomas,Bowler,Overseas,20,0,10.57,100.24,69,0,0,7,8.82,34.01,22.95,1.0,1.1,1,Rajasthan Royals,14.73,13.39
+2019,Joe Denly,Batsman,Overseas,19,0,23.89,102.73,4,0,0,0,9.36,41.17,26.86,1.0,1.0,1,Kolkata Knight Riders,40.45,40.45
+2019,Martin Guptill,Batsman,Overseas,21,2,25.14,111.78,186,2,0,0,9.57,36.57,26.83,1.0,1.0,1,Sunrisers Hyderabad,47.31,47.31
+2019,Moises Henriques,All-Rounder,Overseas,26,6,32.15,153.75,257,2,1,12,8.83,26.73,19.86,1.0,1.0,1,Punjab Kings,55.53,55.53
+2019,Yuvraj Singh,All-Rounder,Indian,25,5,37.89,169.37,406,4,0,19,7.7,23.99,16.19,1.0,1.0,1,Mumbai Indians,70.75,70.75
+2019,Anmolpreet Singh,Batsman,Indian,19,0,21.44,97.97,89,1,0,0,9.13,38.68,27.73,0.75,0.8,1,Mumbai Indians,39.75,49.69
+2019,Hardus Viljoen,Bowler,Overseas,20,0,10.77,110.03,38,0,0,6,9.34,34.19,21.63,0.75,0.75,1,Punjab Kings,11.36,15.15
+2019,Harry Gurney,Bowler,Overseas,20,0,14.23,104.43,45,0,0,3,9.31,33.45,22.28,0.75,0.75,1,Kolkata Knight Riders,7.02,9.36
+2019,Himmat Singh,Batsman,Indian,19,0,18.85,103.53,96,0,0,0,9.18,38.02,29.19,0.5,0.65,1,Royal Challengers Bengaluru,40.52,62.34
+2019,Ashton Turner,All-Rounder,Indian,20,0,18.77,101.73,67,1,0,4,8.64,29.05,21.92,0.5,0.5,1,Rajasthan Royals,32.56,65.12
+2019,Gurkeerat Singh Mann,All-Rounder,Indian,25,5,24.61,134.96,153,1,0,4,9.3,28.27,20.65,0.5,0.5,1,Royal Challengers Bengaluru,39.34,78.68
+2019,Heinrich Klaasen,Batsman,Overseas,21,0,31.15,128.51,171,0,0,2,9.82,37.73,28.05,0.5,0.5,1,Royal Challengers Bengaluru,54.43,108.86
+2019,Keemo Paul,All-Rounder,Overseas,20,0,19.88,98.26,15,0,0,6,9.05,28.89,20.07,0.5,0.5,1,Delhi Capitals,33.72,67.44
+2019,Liam Livingstone,All-Rounder,Overseas,20,0,32.69,117.65,284,3,0,12,7.63,23.04,16.84,0.5,0.5,1,Rajasthan Royals,50.84,101.68
+2019,Darshan Nalkande,All-Rounder,Indian,20,0,15.82,90.64,40,0,0,4,8.07,26.57,23.87,0.3,0.3,1,Punjab Kings,30.74,102.47
+2019,Shashank Singh,All-Rounder,Indian,22,2,23.55,110.61,109,2,0,7,8.98,34.38,22.75,0.3,0.3,1,Rajasthan Royals,38.45,128.17
+2019,Sarfaraz Naushad Khan,All-Rounder,Indian,24,4,20.7,126.57,159,0,0,4,8.89,29.7,21.57,0.3,0.25,1,Punjab Kings,37.51,150.04
+2019,Agnivesh Ayachi,All-Rounder,Indian,20,0,15.9,99.8,23,0,0,4,8.72,30.35,20.07,0.3,0.2,1,Punjab Kings,31.3,156.5
+2019,Ankush Bains,Batsman,Indian,24,5,23.17,137.83,312,3,0,0,8.85,36.67,28.94,0.2,0.2,1,Delhi Capitals,56.86,284.3
+2019,Anrich Nortje,Bowler,Overseas,20,0,10.5,113.13,19,0,0,12,8.34,27.48,20.92,0.2,0.2,1,Kolkata Knight Riders,23.17,115.85
+2019,Arshdeep Singh,Bowler,Indian,20,0,17.19,112.13,115,1,0,24,8.1,16.83,15.63,0.2,0.2,1,Punjab Kings,42.85,214.25
+2019,Bandaru Ayyappa,Bowler,Indian,20,0,11.4,92.62,11,0,0,5,9.01,33.48,24.08,0.2,0.2,1,Delhi Capitals,10.58,52.9
+2019,Devdutt Padikkal,Batsman,Indian,19,0,29.43,106.57,239,3,0,2,9.85,36.54,28.05,0.2,0.2,1,Royal Challengers Bengaluru,48.52,242.6
+2019,Harpreet Brar,All-Rounder,Indian,20,0,18.04,100.24,116,0,0,8,8.21,27.25,17.58,0.3,0.2,1,Punjab Kings,37.74,188.7
+2019,Jalaj Saxena,All-Rounder,Indian,25,5,23.4,134.16,142,2,0,9,9.06,30.62,19.5,0.3,0.2,1,Delhi Capitals,45.36,226.8
+2019,M. Ashwin,Bowler,Indian,23,3,12.89,107.57,67,0,0,16,8.8,25.92,19.77,0.2,0.2,1,Punjab Kings,28.27,141.35
+2019,Manan Vohra,Batsman,Indian,20,1,21.8,107.09,125,0,0,0,9.18,35.06,26.5,0.2,0.2,1,Rajasthan Royals,43.35,216.75
+2019,Milind Kumar,All-Rounder,Indian,25,5,25.72,137.7,162,2,0,8,9.18,32.9,22.13,0.3,0.2,1,Royal Challengers Bengaluru,45.21,226.05
+2019,Nathu Singh,Bowler,Indian,23,3,13.94,114.82,75,0,0,9,9.15,26.94,19.03,0.2,0.2,1,Delhi Capitals,16.8,84.0
+2019,Nikhil Shankar Naik,Batsman,Indian,23,4,27.4,122.16,240,3,0,0,8.97,34.31,28.18,0.2,0.2,1,Kolkata Knight Riders,52.41,262.05
+2019,Pankaj Jaswal,All-Rounder,Overseas,20,0,19.28,95.5,49,1,0,4,8.54,31.56,25.8,0.3,0.2,1,Mumbai Indians,31.64,158.2
+2019,Prithvi Raj Yarra,Bowler,Indian,20,0,11.79,101.1,35,0,0,7,9.72,35.75,20.01,0.2,0.2,1,Kolkata Knight Riders,11.69,58.45
+2019,Rasikh Dar,Bowler,Indian,20,0,12.88,110.97,36,0,0,11,8.3,27.65,22.74,0.2,0.2,1,Mumbai Indians,21.96,109.8
+2019,Riyan Parag,All-Rounder,Indian,20,0,24.05,99.36,128,1,0,6,8.85,32.1,22.15,0.3,0.2,1,Rajasthan Royals,35.38,176.9
+2019,Ruturaj Gaikwad,Batsman,Indian,21,0,19.11,108.33,145,1,0,0,9.4,38.24,24.97,0.2,0.2,1,Chennai Super Kings,43.04,215.2
+2019,Shrikant Mundhe,All-Rounder,Indian,20,0,13.71,104.45,61,1,0,3,9.1,33.19,18.58,0.3,0.2,1,Kolkata Knight Riders,29.72,148.6
+2019,Shubham Ranjane,All-Rounder,Indian,20,0,17.3,93.09,84,1,0,2,9.45,33.6,18.47,0.3,0.2,1,Rajasthan Royals,26.44,132.2
+2020,Pat Cummins,All-Rounder,Overseas,26,6,45.0,190.0,641,5,1,24,7.33,23.22,19.07,2.0,15.5,1,Kolkata Knight Riders,83.39,5.38
+2020,Glenn Maxwell,All-Rounder,Overseas,28,7,45.0,190.0,524,3,0,24,8.25,21.67,16.32,2.0,10.75,1,Punjab Kings,81.55,7.59
+2020,Christopher Morris,All-Rounder,Overseas,28,7,45.0,190.0,544,3,1,24,7.98,19.98,15.5,2.0,10.0,1,Royal Challengers Bengaluru,82.09,8.21
+2020,Sheldon Cottrell,Bowler,Unknown,20,0,12.77,109.12,56,0,0,22,9.11,25.8,20.04,2.0,8.5,1,Punjab Kings,36.23,4.26
+2020,Nathan Coulter-Nile,Bowler,Overseas,28,7,14.7,111.9,90,0,0,29,7.41,21.45,17.6,2.0,8.0,1,Mumbai Indians,52.17,6.52
+2020,Shimron Hetmyer,Batsman,Overseas,20,1,37.5,148.38,351,3,0,2,9.15,37.52,30.56,2.0,7.75,1,Delhi Capitals,66.53,8.58
+2020,Piyush Chawla,Bowler,Indian,26,6,12.6,118.01,82,0,0,22,9.03,28.5,19.4,2.0,6.75,1,Chennai Super Kings,36.73,5.44
+2020,Sam Curran,All-Rounder,Overseas,21,1,41.73,157.18,330,3,0,18,7.38,23.65,15.85,2.0,5.5,1,Chennai Super Kings,68.71,12.49
+2020,Eoin Morgan,Batsman,Overseas,24,5,40.9,168.03,424,4,1,1,9.21,36.57,28.43,2.0,5.25,1,Kolkata Knight Riders,75.25,14.33
+2020,Marcus Stoinis,All-Rounder,Overseas,25,5,40.78,169.38,375,0,0,24,7.37,23.92,17.64,2.0,4.8,1,Delhi Capitals,78.13,16.28
+2020,Aaron Finch,Batsman,Overseas,25,6,43.36,172.43,514,4,0,1,8.37,40.55,28.94,2.0,4.4,1,Royal Challengers Bengaluru,79.35,18.03
+2020,Kane Richardson,Bowler,Overseas,28,7,9.84,108.5,73,0,0,19,9.41,26.39,18.62,2.0,4.0,1,Royal Challengers Bengaluru,31.0,7.75
+2020,Varun Chakaravarthy,All-Rounder,Indian,21,1,25.66,131.96,166,2,0,9,9.13,25.83,21.99,2.0,4.0,1,Kolkata Knight Riders,45.35,11.34
+2020,Chris Jordan,All-Rounder,Overseas,23,3,25.27,138.61,191,0,0,7,8.01,29.75,20.63,2.0,3.0,1,Punjab Kings,46.42,15.47
+2020,Jaydev Unadkat,Bowler,Indian,28,7,11.73,115.86,104,0,0,31,6.93,20.87,17.14,2.0,3.0,1,Rajasthan Royals,56.75,18.92
+2020,Robin Uthappa,Batsman,Indian,25,6,43.35,170.84,477,6,1,0,9.8,40.15,28.97,2.0,3.0,1,Rajasthan Royals,78.13,26.04
+2020,Alex Carey,Batsman,Unknown,19,0,21.03,103.19,175,2,0,0,9.03,38.03,30.13,2.0,2.4,1,Delhi Capitals,42.87,17.86
+2020,Yashasvi Jaiswal,All-Rounder,Unknown,20,0,22.58,107.09,91,0,0,2,8.43,32.56,20.29,2.0,2.4,1,Rajasthan Royals,32.6,13.58
+2020,Chris Lynn,Batsman,Overseas,25,6,45.99,175.92,489,5,1,2,9.48,35.69,26.66,2.0,2.0,1,Mumbai Indians,80.95,40.48
+2020,Dale Steyn,Bowler,Overseas,24,4,11.82,105.32,59,0,0,8,9.74,35.81,22.24,2.0,2.0,1,Royal Challengers Bengaluru,13.37,6.68
+2020,Josh Hazlewood,Bowler,Overseas,26,6,14.38,114.27,100,0,0,32,8.17,20.64,17.25,2.0,2.0,1,Chennai Super Kings,54.49,27.25
+2020,Mitchell Marsh,All-Rounder,Overseas,24,4,30.27,150.51,248,2,0,12,10.07,27.4,19.58,2.0,2.0,1,Sunrisers Hyderabad,52.07,26.04
+2020,Ravi Bishnoi,Bowler,Indian,20,0,14.19,103.14,63,0,0,14,8.41,26.5,20.48,2.0,2.0,1,Punjab Kings,26.4,13.2
+2020,Priyam Garg,Batsman,Indian,19,0,23.54,106.48,123,0,0,0,8.35,39.02,29.45,1.5,1.9,1,Sunrisers Hyderabad,43.82,23.06
+2020,Virat Singh,Batsman,Unknown,19,0,25.26,101.35,135,1,0,0,9.39,37.6,27.92,1.5,1.9,1,Sunrisers Hyderabad,43.21,22.74
+2020,Chris Woakes,All-Rounder,Overseas,23,3,25.51,139.78,191,1,0,13,7.81,26.43,21.92,1.5,1.5,1,Delhi Capitals,54.31,36.21
+2020,Jason Roy,Batsman,Overseas,22,3,30.75,136.92,267,0,0,0,8.5,38.09,28.59,1.5,1.5,1,Delhi Capitals,58.72,39.15
+2020,Kartik Tyagi,Bowler,Indian,20,0,10.51,94.8,73,0,0,11,8.52,33.38,20.67,1.0,1.3,1,Rajasthan Royals,21.67,16.67
+2020,Andrew Tye,Bowler,Overseas,25,5,14.01,112.54,102,1,0,19,8.06,25.21,15.73,1.0,1.0,1,Rajasthan Royals,35.34,35.34
+2020,Tom Banton,Batsman,Overseas,19,0,22.35,104.3,137,0,0,0,9.68,38.49,28.92,1.0,1.0,1,Kolkata Knight Riders,42.97,42.97
+2020,Tom Curran,All-Rounder,Unknown,20,0,17.86,100.09,152,0,0,4,9.0,26.07,21.55,1.0,1.0,1,Rajasthan Royals,31.28,31.28
+2020,Anuj Rawat,Batsman,Indian,19,0,18.59,100.04,133,1,0,0,8.69,38.34,28.64,0.75,0.8,1,Rajasthan Royals,40.11,50.14
+2020,David Miller,Batsman,Overseas,21,2,30.35,127.19,327,4,0,1,9.4,39.73,27.48,0.75,0.75,1,Rajasthan Royals,56.84,75.79
+2020,Rahul Tripathi,Batsman,Indian,21,2,37.94,127.67,305,2,0,2,8.89,37.65,25.03,0.5,0.6,1,Kolkata Knight Riders,59.58,99.3
+2020,Prabhsimran Singh,Batsman,Indian,20,1,25.44,119.16,178,2,1,1,8.91,38.82,27.29,0.5,0.55,1,Punjab Kings,49.48,89.96
+2020,Deepak Hooda,All-Rounder,Indian,26,6,26.95,151.49,283,2,0,11,8.12,29.6,20.18,0.5,0.5,1,Punjab Kings,54.0,108.0
+2020,Fabian Allen,All-Rounder,Unknown,20,0,17.13,108.45,115,1,0,4,8.31,30.12,21.42,0.5,0.5,1,Sunrisers Hyderabad,34.15,68.3
+2020,Isuru Udana,All-Rounder,Unknown,20,0,16.63,105.8,86,0,0,7,7.96,33.74,16.34,0.5,0.5,1,Royal Challengers Bengaluru,37.8,75.6
+2020,James Neesham,All-Rounder,Overseas,26,6,29.18,142.61,114,1,0,7,9.17,29.28,17.62,0.5,0.5,1,Punjab Kings,45.88,91.76
+2020,Mohit Sharma,Bowler,Indian,26,6,10.06,103.94,90,0,0,16,8.45,29.27,19.54,0.5,0.5,1,Delhi Capitals,29.55,59.1
+2020,Oshane Thomas,Bowler,Overseas,21,1,11.76,82.43,77,0,0,6,10.11,31.1,22.6,0.5,0.5,1,Rajasthan Royals,9.77,19.54
+2020,Saurabh Tiwary,Batsman,Indian,25,6,34.17,147.12,263,3,1,1,9.89,38.05,27.67,0.5,0.5,1,Mumbai Indians,63.06,126.12
+2020,Abdul Samad,All-Rounder,Indian,20,0,22.11,106.77,114,0,0,4,8.91,30.09,22.69,0.3,0.2,1,Sunrisers Hyderabad,33.86,169.3
+2020,Akash Singh,Bowler,Indian,20,0,11.63,107.79,31,0,0,4,9.58,31.88,23.27,0.2,0.2,1,Rajasthan Royals,7.57,37.85
+2020,Anirudha Ashok Joshi,All-Rounder,Indian,22,2,19.15,109.07,122,1,0,5,9.35,29.34,20.54,0.3,0.2,1,Rajasthan Royals,33.9,169.5
+2020,Chris Green,All-Rounder,Unknown,20,0,18.04,98.57,27,0,0,2,9.02,33.73,22.89,0.3,0.2,1,Kolkata Knight Riders,28.58,142.9
+2020,Digvijay Deshmukh,All-Rounder,Unknown,20,0,18.22,106.02,41,0,0,2,9.38,30.51,19.64,0.3,0.2,1,Mumbai Indians,29.4,147.0
+2020,Ishan Porel,Bowler,Indian,20,0,10.91,102.39,43,0,0,10,9.46,34.23,20.36,0.2,0.2,1,Punjab Kings,17.05,85.25
+2020,Joshua Philippe,Batsman,Unknown,19,0,19.57,94.7,123,0,0,0,9.15,37.34,27.24,0.2,0.2,1,Royal Challengers Bengaluru,38.7,193.5
+2020,Lalit Yadav,All-Rounder,Indian,20,0,17.05,106.31,94,2,0,3,8.64,26.92,20.77,0.3,0.2,1,Delhi Capitals,31.84,159.2
+2020,M Siddharth,Bowler,Indian,20,0,13.32,107.51,44,0,0,6,9.21,33.07,22.57,0.2,0.2,1,Kolkata Knight Riders,11.81,59.05
+2020,Mohsin Khan,Bowler,Indian,22,2,10.55,91.01,46,0,0,7,8.51,35.02,23.86,0.2,0.2,1,Mumbai Indians,15.43,77.15
+2020,Nikhil Shankar Naik,Batsman,Indian,24,5,27.02,134.77,244,3,1,0,9.42,36.3,27.72,0.2,0.2,1,Kolkata Knight Riders,56.12,280.6
+2020,Pavan Deshpande,All-Rounder,Indian,22,2,20.2,112.38,105,1,0,3,8.22,28.51,20.5,0.3,0.2,1,Royal Challengers Bengaluru,34.69,173.45
+2020,Pravin Tambe,Bowler,Indian,26,6,8.96,106.37,64,0,0,8,8.76,31.59,21.47,0.2,0.2,1,Kolkata Knight Riders,16.36,81.8
+2020,Prince Balwant Rai Singh,All-Rounder,Unknown,20,0,15.22,107.97,83,1,0,4,8.78,31.43,20.95,0.3,0.2,1,Mumbai Indians,32.64,163.2
+2020,Sai Kishore,Bowler,Indian,20,0,9.57,99.35,42,0,0,10,9.03,32.8,23.62,0.2,0.2,1,Chennai Super Kings,18.33,91.65
+2020,Sandeep Bavanaka,All-Rounder,Unknown,20,0,21.27,99.4,139,1,0,0,9.54,29.88,20.27,0.3,0.2,1,Sunrisers Hyderabad,26.12,130.6
+2020,Sanjay Yadav,All-Rounder,Indian,20,0,20.03,104.71,106,0,0,3,9.35,33.81,21.99,0.3,0.2,1,Sunrisers Hyderabad,30.85,154.25
+2020,Shahbaz Ahamad,All-Rounder,Indian,20,0,20.08,109.89,109,1,0,4,8.73,29.83,23.75,0.3,0.2,1,Royal Challengers Bengaluru,34.34,171.7
+2020,Tajinder Dhillon,All-Rounder,Indian,22,2,25.29,106.31,69,0,0,6,9.25,31.01,22.26,0.3,0.2,1,Punjab Kings,36.28,181.4
+2020,Tushar Deshpande,Bowler,Indian,20,0,17.44,93.56,71,0,0,12,8.81,26.7,20.27,0.2,0.2,1,Delhi Capitals,22.28,111.4
+2021,Christopher Morris,All-Rounder,Overseas,29,8,45.0,190.0,561,6,1,24,7.43,19.15,15.39,2.0,16.25,1,Rajasthan Royals,83.19,5.12
+2021,Kyle Jamieson,All-Rounder,Overseas,20,0,40.62,162.13,380,2,0,22,7.14,21.56,15.43,2.0,15.0,1,Royal Challengers Bengaluru,74.7,4.98
+2021,Glenn Maxwell,All-Rounder,Overseas,29,8,45.0,190.0,598,4,1,24,7.69,21.41,17.35,2.0,14.25,1,Royal Challengers Bengaluru,82.67,5.8
+2021,Jhye Richardson,Bowler,Overseas,20,0,15.24,120.92,87,0,0,31,8.12,17.17,17.8,2.0,14.0,1,Punjab Kings,53.01,3.79
+2021,Krishnappa Gowtham,All-Rounder,Indian,24,4,42.05,180.26,268,1,0,20,8.38,23.91,18.32,2.0,9.25,1,Chennai Super Kings,73.8,7.98
+2021,Riley Meredith,Bowler,Overseas,20,0,13.12,111.7,93,0,0,18,8.2,23.78,20.87,2.0,8.0,1,Punjab Kings,33.33,4.17
+2021,Moeen Ali,All-Rounder,Overseas,23,3,33.13,147.76,215,1,0,12,8.2,29.25,21.84,2.0,7.0,1,Chennai Super Kings,55.83,7.98
+2021,Shahrukh Khan,All-Rounder,Indian,20,0,28.63,128.1,230,1,0,15,8.15,25.67,17.41,2.0,5.25,1,Punjab Kings,54.48,10.38
+2021,Tom Curran,All-Rounder,Unknown,21,1,28.87,126.89,139,0,0,7,9.26,27.57,23.07,2.0,5.25,1,Delhi Capitals,42.48,8.09
+2021,Nathan Coulter-Nile,Bowler,Overseas,29,8,14.46,95.47,91,0,0,28,7.68,25.22,16.68,2.0,5.0,1,Mumbai Indians,49.87,9.97
+2021,Dan Christian,All-Rounder,Unknown,20,0,25.36,114.19,115,1,0,10,8.79,29.41,21.11,2.0,4.8,1,Royal Challengers Bengaluru,43.6,9.08
+2021,Shivam Dube,All-Rounder,Indian,22,2,23.89,134.26,238,3,0,7,8.81,27.86,17.23,2.0,4.4,1,Rajasthan Royals,43.6,9.91
+2021,Moises Henriques,All-Rounder,Overseas,29,8,35.08,174.15,237,1,0,10,8.38,29.43,19.45,2.0,4.2,1,Punjab Kings,58.84,14.01
+2021,Adam Milne,Bowler,Overseas,26,6,12.86,89.69,68,0,0,14,8.92,28.13,17.77,2.0,3.2,1,Mumbai Indians,24.92,7.79
+2021,Shakib Al Hasan,All-Rounder,Overseas,28,7,31.17,168.14,204,0,0,11,9.8,28.18,20.61,2.0,3.2,1,Kolkata Knight Riders,55.02,17.19
+2021,Piyush Chawla,Bowler,Indian,28,7,9.88,99.89,77,0,0,21,9.09,24.3,18.91,2.0,2.4,1,Mumbai Indians,35.0,14.58
+2021,Steven Smith,All-Rounder,Overseas,28,7,32.81,157.48,297,2,0,9,8.17,30.04,22.05,2.0,2.2,1,Delhi Capitals,54.16,24.62
+2021,Harbhajan Singh,Bowler,Indian,23,3,13.03,109.55,36,0,0,12,9.05,30.04,20.74,2.0,2.0,1,Kolkata Knight Riders,21.21,10.61
+2021,Kedar Jadhav,All-Rounder,Indian,28,7,32.73,156.06,304,3,1,12,8.2,24.25,20.55,2.0,2.0,1,Sunrisers Hyderabad,57.39,28.7
+2021,Sam Billings,Batsman,Overseas,24,5,36.03,147.01,272,2,0,0,8.81,40.38,28.53,2.0,2.0,1,Delhi Capitals,63.95,31.98
+2021,Dawid Malan,All-Rounder,Unknown,20,0,16.52,98.72,58,0,0,4,8.92,24.91,24.67,1.5,1.5,1,Punjab Kings,30.83,20.55
+2021,Mujeeb Zadran,Bowler,Overseas,23,3,11.03,105.51,39,0,0,14,9.34,28.78,20.6,1.5,1.5,1,Sunrisers Hyderabad,23.37,15.58
+2021,Chetan Sakariya,Bowler,Indian,20,0,11.6,101.55,47,0,0,11,8.53,30.89,24.31,1.0,1.2,1,Rajasthan Royals,21.38,17.82
+2021,Mustafizur Rahman,Bowler,Overseas,25,5,13.86,97.19,89,0,0,24,8.09,25.61,20.83,1.0,1.0,1,Rajasthan Royals,42.62,42.62
+2021,Umesh Yadav,Bowler,Indian,28,7,12.31,106.42,81,0,0,21,8.47,30.0,21.14,1.0,1.0,1,Delhi Capitals,36.9,36.9
+2021,Ben Cutting,All-Rounder,Overseas,28,7,26.1,147.62,218,0,0,10,8.85,27.94,18.97,0.75,0.75,1,Kolkata Knight Riders,50.35,67.13
+2021,Fabian Allen,All-Rounder,Unknown,21,1,17.3,117.56,52,0,0,5,8.39,28.4,18.77,0.75,0.75,1,Punjab Kings,37.06,49.41
+2021,Liam Livingstone,All-Rounder,Overseas,22,2,32.35,139.66,292,1,0,19,7.54,23.49,16.6,0.75,0.75,1,Rajasthan Royals,63.74,84.99
+2021,Cheteshwar Pujara,Batsman,Indian,27,7,32.06,143.64,270,3,0,0,9.03,39.66,27.76,0.5,0.5,1,Chennai Super Kings,61.32,122.64
+2021,James Neesham,All-Rounder,Overseas,28,7,27.03,144.1,249,2,0,6,8.74,27.2,22.38,0.5,0.5,1,Mumbai Indians,45.3,90.6
+2021,Karun Nair,Batsman,Indian,27,7,41.95,159.47,462,4,0,0,8.27,40.57,27.04,0.5,0.5,1,Kolkata Knight Riders,73.86,147.72
+2021,Pawan Negi,All-Rounder,Indian,28,7,36.34,152.77,315,1,0,19,8.37,24.78,16.46,0.5,0.5,1,Kolkata Knight Riders,65.7,131.4
+2021,Jagadeesha Suchith,Bowler,Indian,26,6,10.24,112.69,52,0,0,9,9.07,37.21,24.22,0.3,0.3,1,Sunrisers Hyderabad,16.81,56.03
+2021,Jalaj Saxena,All-Rounder,Indian,28,7,23.93,140.58,176,1,0,8,9.65,27.83,19.15,0.3,0.3,1,Punjab Kings,44.4,148.0
+2021,Akash Singh,Bowler,Indian,21,1,12.46,103.7,33,0,0,3,8.67,33.07,25.19,0.2,0.2,1,Rajasthan Royals,8.82,44.1
+2021,Arjun Tendulkar,All-Rounder,Indian,20,0,17.72,91.73,78,0,0,4,7.48,31.91,19.59,0.3,0.2,1,Mumbai Indians,32.62,163.1
+2021,Bhagath Varma,All-Rounder,Indian,20,0,19.29,90.96,100,0,0,0,8.91,32.11,19.02,0.3,0.2,1,Chennai Super Kings,25.19,125.95
+2021,C Hari Nishaanth,Batsman,Indian,19,0,21.07,98.01,76,1,0,0,10.11,40.88,28.58,0.2,0.2,1,Chennai Super Kings,39.35,196.75
+2021,KC Cariappa,Bowler,Indian,26,6,11.57,97.57,25,0,0,13,9.58,33.62,21.85,0.2,0.2,1,Rajasthan Royals,21.01,105.05
+2021,Kona Srikar Bharat,Batsman,Indian,25,6,29.38,137.59,258,2,1,0,9.63,32.67,27.9,0.2,0.2,1,Royal Challengers Bengaluru,58.19,290.95
+2021,Kuldeep Yadav,Bowler,Indian,28,7,8.54,100.13,72,0,0,16,8.32,28.95,17.51,0.2,0.2,1,Rajasthan Royals,29.76,148.8
+2021,Lukman Hussain Meriwala,Bowler,Unknown,20,0,10.96,92.38,56,0,0,7,9.1,31.44,24.73,0.2,0.2,1,Delhi Capitals,13.76,68.8
+2021,M Siddharth,Bowler,Indian,21,1,13.09,105.17,58,0,0,9,8.78,32.68,20.78,0.2,0.2,1,Delhi Capitals,17.74,88.7
+2021,M. Harisankar Reddy,Bowler,Unknown,20,0,13.28,100.26,36,0,0,6,9.39,32.16,22.86,0.2,0.2,1,Chennai Super Kings,11.19,55.95
+2021,Marco Jansen,All-Rounder,Overseas,20,0,25.54,106.2,148,1,0,8,9.34,26.49,18.62,0.3,0.2,1,Mumbai Indians,38.55,192.75
+2021,Mohammed Azharudeen,Batsman,Unknown,19,0,22.74,93.77,82,2,0,0,9.66,40.01,27.14,0.2,0.2,1,Royal Challengers Bengaluru,38.87,194.35
+2021,Rajat Patidar,Batsman,Unknown,19,0,17.6,102.06,186,0,0,1,8.58,39.13,29.83,0.2,0.2,1,Royal Challengers Bengaluru,41.38,206.9
+2021,Ripal Patel,All-Rounder,Indian,20,0,14.5,97.25,73,0,0,8,8.92,30.01,23.26,0.3,0.2,1,Delhi Capitals,34.84,174.2
+2021,Sachin Baby,Batsman,Indian,24,5,27.84,139.5,238,2,0,0,8.38,38.76,25.96,0.2,0.2,1,Royal Challengers Bengaluru,57.75,288.75
+2021,Saurabh Kumar,All-Rounder,Indian,24,4,21.56,129.12,130,1,0,9,8.69,33.99,21.09,0.3,0.2,1,Punjab Kings,44.63,223.15
+2021,Sheldon Jackson,Batsman,Indian,25,6,27.86,142.15,194,2,0,0,9.1,36.21,29.09,0.2,0.2,1,Kolkata Knight Riders,57.67,288.35
+2021,Suyash Prabhudesai,All-Rounder,Unknown,20,0,15.32,98.63,32,0,0,2,8.86,28.62,20.26,0.3,0.2,1,Royal Challengers Bengaluru,28.24,141.2
+2021,Utkarsh Singh,All-Rounder,Unknown,20,0,14.97,104.72,63,0,0,3,9.75,31.56,21.8,0.3,0.2,1,Punjab Kings,28.79,143.95
+2021,Vaibhav Arora,Bowler,Indian,20,0,12.85,110.16,54,0,0,10,9.43,31.57,23.96,0.2,0.2,1,Kolkata Knight Riders,17.25,86.25
+2021,Venkatesh Iyer,All-Rounder,Indian,20,0,35.16,130.87,400,4,0,20,7.83,22.6,15.07,0.3,0.2,1,Kolkata Knight Riders,63.3,316.5
+2021,Vishnu Vinod,Batsman,Indian,19,0,20.01,100.46,115,0,0,0,9.11,39.81,29.93,0.2,0.2,1,Delhi Capitals,40.44,202.2
+2021,Yudhvir Charak,All-Rounder,Indian,20,0,19.29,97.34,93,0,0,4,9.05,35.98,24.0,0.3,0.2,1,Mumbai Indians,30.99,154.95
+2022,Ishan Kishan,Batsman,Indian,25,6,62.0,205.0,800,9,1,3,9.88,33.7,31.03,2.0,15.25,1,Mumbai Indians,102.3,6.71
+2022,Deepak Chahar,All-Rounder,Indian,26,6,45.0,190.0,552,4,0,24,7.89,20.59,19.57,2.0,14.0,1,Chennai Super Kings,82.27,5.88
+2022,Shreyas Iyer,Batsman,Indian,29,7,62.0,205.0,973,9,2,5,9.17,39.32,30.37,2.0,12.25,1,Kolkata Knight Riders,105.76,8.63
+2022,Liam Livingstone,All-Rounder,Overseas,23,3,42.32,187.54,349,2,0,21,7.18,24.29,16.24,2.0,11.5,1,Punjab Kings,78.93,6.86
+2022,Harshal Patel,All-Rounder,Indian,29,8,45.0,190.0,467,3,1,23,8.44,24.03,20.07,2.0,10.75,1,Royal Challengers Bengaluru,79.97,7.44
+2022,Nicholas Pooran,Batsman,Overseas,21,0,46.4,169.51,587,5,1,2,8.4,39.87,24.74,2.0,10.75,1,Sunrisers Hyderabad,81.15,7.55
+2022,Shardul Thakur,Bowler,Indian,29,8,11.61,114.33,93,0,0,32,7.6,25.76,16.26,2.0,10.75,1,Delhi Capitals,56.13,5.22
+2022,Wanindu Hasaranga,All-Rounder,Overseas,20,0,31.52,148.11,261,3,0,17,8.38,26.51,15.42,2.0,10.75,1,Royal Challengers Bengaluru,61.14,5.69
+2022,Avesh Khan,Bowler,Indian,24,4,16.16,113.48,60,0,0,28,7.96,19.61,19.33,2.0,10.0,1,Lucknow Super Giants,48.72,4.87
+2022,Lockie Ferguson,Bowler,Overseas,25,5,15.81,106.36,100,0,0,29,7.96,24.1,16.71,2.0,10.0,1,Gujarat Titans,50.62,5.06
+2022,Prasidh Krishna,Bowler,Indian,20,0,14.33,94.4,84,0,0,23,8.19,23.58,18.35,2.0,10.0,1,Rajasthan Royals,40.77,4.08
+2022,Kagiso Rabada,Bowler,Overseas,25,5,16.37,109.75,86,1,0,31,8.65,25.62,18.33,2.0,9.25,1,Punjab Kings,51.41,5.56
+2022,Rahul Tewatia,All-Rounder,Indian,29,8,40.47,190.0,393,3,0,21,7.97,23.86,17.37,2.0,9.0,1,Gujarat Titans,77.38,8.6
+2022,Shahrukh Khan,All-Rounder,Indian,21,1,32.72,140.78,262,2,0,11,7.54,24.37,15.86,2.0,9.0,1,Punjab Kings,54.46,6.05
+2022,Jason Holder,All-Rounder,Overseas,30,9,40.19,190.0,389,2,0,22,8.82,25.48,20.01,2.0,8.75,1,Lucknow Super Giants,76.81,8.78
+2022,Washington Sundar,All-Rounder,Indian,24,4,36.66,170.61,301,2,0,17,8.21,24.28,20.41,2.0,8.75,1,Sunrisers Hyderabad,67.27,7.69
+2022,Rahul Tripathi,Batsman,Indian,23,4,46.02,173.9,436,5,1,2,9.92,40.07,27.09,2.0,8.5,1,Sunrisers Hyderabad,79.3,9.33
+2022,Shimron Hetmyer,Batsman,Overseas,22,3,45.51,164.74,466,4,0,2,9.6,39.54,27.87,2.0,8.5,1,Rajasthan Royals,76.95,9.05
+2022,Krunal Pandya,All-Rounder,Indian,26,6,43.07,183.94,400,3,1,16,8.51,21.04,16.4,2.0,8.25,1,Lucknow Super Giants,69.74,8.45
+2022,Shikhar Dhawan,Batsman,Indian,23,4,39.37,171.32,390,4,0,0,10.17,36.92,25.54,2.0,8.25,1,Punjab Kings,74.94,9.08
+2022,Tim David,All-Rounder,Overseas,20,0,28.71,134.13,221,0,0,12,6.89,24.1,20.59,2.0,8.25,1,Mumbai Indians,54.62,6.62
+2022,Jofra Archer,All-Rounder,Overseas,24,4,39.88,181.64,377,1,0,20,8.26,22.72,15.68,2.0,8.0,1,Mumbai Indians,73.78,9.22
+2022,Nitish Rana,All-Rounder,Indian,28,7,38.38,185.29,355,2,0,15,7.99,24.65,20.45,2.0,8.0,1,Kolkata Knight Riders,68.67,8.58
+2022,Trent Boult,Bowler,Overseas,28,7,13.17,114.55,82,0,0,32,8.42,22.26,14.6,2.0,8.0,1,Rajasthan Royals,53.56,6.7
+2022,Devdutt Padikkal,Batsman,Indian,22,3,39.75,153.42,441,4,1,1,9.23,35.58,29.14,2.0,7.75,1,Rajasthan Royals,70.75,9.13
+2022,Josh Hazlewood,Bowler,Overseas,29,8,13.29,131.76,107,0,0,32,7.25,22.55,16.26,2.0,7.75,1,Royal Challengers Bengaluru,57.32,7.4
+2022,Romario Shepherd,All-Rounder,Overseas,20,0,29.59,132.64,185,1,0,8,9.46,25.91,19.86,2.0,7.75,1,Sunrisers Hyderabad,44.61,5.76
+2022,Mark Wood,Bowler,Overseas,24,4,12.81,108.47,66,0,0,25,8.67,27.16,20.13,2.0,7.5,1,Lucknow Super Giants,42.15,5.62
+2022,Pat Cummins,All-Rounder,Overseas,29,8,45.0,190.0,626,4,1,24,7.16,20.19,13.44,2.0,7.25,1,Kolkata Knight Riders,83.73,11.55
+2022,Shivam Mavi,All-Rounder,Indian,24,4,31.18,170.69,272,2,0,11,8.35,27.32,20.18,2.0,7.25,1,Kolkata Knight Riders,58.43,8.06
+2022,Faf du Plessis,Batsman,Overseas,28,8,50.78,205.0,493,7,1,1,10.01,35.66,27.57,2.0,7.0,1,Royal Challengers Bengaluru,91.67,13.1
+2022,Ambati Rayudu,Batsman,Indian,23,4,38.98,161.43,395,4,0,1,9.07,40.52,28.89,2.0,6.75,1,Chennai Super Kings,71.92,10.65
+2022,Jonny Bairstow,Batsman,Overseas,22,3,37.84,155.07,366,4,0,0,9.12,43.02,26.84,2.0,6.75,1,Punjab Kings,68.98,10.22
+2022,Quinton de Kock,Batsman,Overseas,29,9,48.66,191.52,527,6,1,0,9.99,39.5,27.6,2.0,6.75,1,Lucknow Super Giants,87.46,12.96
+2022,Abhishek Sharma,All-Rounder,Indian,24,4,31.11,154.53,284,2,0,13,8.54,23.15,19.15,2.0,6.5,1,Sunrisers Hyderabad,57.2,8.8
+2022,Mitchell Marsh,All-Rounder,Overseas,26,6,37.55,177.62,319,2,0,15,9.25,24.14,17.59,2.0,6.5,1,Delhi Capitals,64.41,9.91
+2022,Yuzvendra Chahal,Bowler,Indian,20,0,15.8,120.0,132,0,0,31,7.74,18.61,15.25,2.0,6.5,1,Rajasthan Royals,54.6,8.4
+2022,David Warner,Batsman,Overseas,28,8,48.48,197.34,467,5,1,1,9.04,40.77,27.84,2.0,6.25,1,Delhi Capitals,87.93,14.07
+2022,Mohammed Shami,Bowler,Indian,29,8,14.32,111.2,94,0,0,32,7.81,22.43,19.27,2.0,6.25,1,Gujarat Titans,55.51,8.88
+2022,Odean Smith,All-Rounder,Overseas,20,0,25.37,125.86,176,2,0,7,7.77,30.5,20.16,2.0,6.0,1,Punjab Kings,44.37,7.39
+2022,Deepak Hooda,All-Rounder,Indian,29,8,40.18,178.54,307,1,0,14,8.4,28.51,18.43,2.0,5.75,1,Lucknow Super Giants,65.75,11.43
+2022,Dinesh Karthik,Batsman,Indian,28,8,56.04,201.46,731,6,1,2,10.46,39.26,27.11,2.0,5.5,1,Royal Challengers Bengaluru,97.47,17.72
+2022,Khaleel Ahmed,Bowler,Indian,26,6,11.0,110.1,67,0,0,20,8.24,27.63,18.14,2.0,5.25,1,Delhi Capitals,35.95,6.85
+2022,Rahul Chahar,Bowler,Indian,25,5,9.49,88.19,43,0,0,19,8.59,28.92,19.31,2.0,5.25,1,Punjab Kings,33.16,6.32
+2022,R Ashwin,All-Rounder,Indian,20,0,27.18,126.53,183,1,0,9,8.13,24.54,19.94,2.0,5.0,1,Rajasthan Royals,46.64,9.33
+2022,Manish Pandey,Batsman,Indian,28,8,54.26,195.03,665,7,2,1,8.24,38.11,28.3,2.0,4.6,1,Lucknow Super Giants,93.51,20.33
+2022,Dwayne Bravo,All-Rounder,Overseas,24,4,33.28,146.43,267,2,0,15,8.27,25.71,18.27,2.0,4.4,1,Chennai Super Kings,59.07,13.42
+2022,Bhuvneshwar Kumar,Bowler,Indian,29,8,13.23,114.56,93,0,0,32,7.81,20.37,18.26,2.0,4.2,1,Sunrisers Hyderabad,55.5,13.21
+2022,Chetan Sakariya,Bowler,Indian,21,1,14.39,112.29,53,0,0,10,9.56,28.26,19.35,2.0,4.2,1,Delhi Capitals,16.85,4.01
+2022,Marco Jansen,All-Rounder,Overseas,21,1,25.78,129.14,178,0,0,9,8.24,25.87,21.27,2.0,4.2,1,Sunrisers Hyderabad,46.59,11.09
+2022,Kartik Tyagi,Bowler,Indian,22,2,12.11,102.05,42,0,0,15,9.2,27.57,21.06,2.0,4.0,1,Sunrisers Hyderabad,25.32,6.33
+2022,Shivam Dube,All-Rounder,Indian,23,3,28.67,142.36,204,1,0,10,8.62,27.17,22.05,2.0,4.0,1,Chennai Super Kings,50.4,12.6
+2022,T. Natarajan,Bowler,Indian,25,5,14.57,117.5,111,1,0,32,7.3,24.22,16.92,2.0,4.0,1,Sunrisers Hyderabad,57.21,14.3
+2022,Harpreet Brar,All-Rounder,Indian,23,3,25.61,134.97,138,0,0,7,8.77,27.4,22.83,2.0,3.8,1,Punjab Kings,44.26,11.65
+2022,Riyan Parag,All-Rounder,Indian,23,3,24.37,132.95,192,2,0,9,7.97,29.21,20.06,2.0,3.8,1,Rajasthan Royals,47.54,12.51
+2022,Chris Jordan,All-Rounder,Overseas,25,5,27.49,150.65,172,0,0,9,8.89,27.39,20.36,2.0,3.6,1,Chennai Super Kings,50.02,13.89
+2022,Anuj Rawat,Batsman,Indian,21,2,30.36,125.62,258,2,0,0,9.23,37.88,28.94,2.0,3.4,1,Royal Challengers Bengaluru,54.99,16.17
+2022,Yash Dayal,Bowler,Indian,20,0,11.76,105.39,62,0,0,11,8.73,28.07,23.5,2.0,3.2,1,Gujarat Titans,20.93,6.54
+2022,David Miller,Batsman,Overseas,23,4,44.77,160.38,405,5,0,0,9.1,35.24,27.65,2.0,3.0,1,Gujarat Titans,74.12,24.71
+2022,Dewald Brevis,Batsman,Overseas,19,0,26.45,111.91,122,1,0,0,9.11,35.24,29.41,2.0,3.0,1,Mumbai Indians,46.59,15.53
+2022,Sai Kishore,Bowler,Indian,22,2,10.4,113.06,37,0,0,12,9.42,29.68,19.38,2.0,3.0,1,Gujarat Titans,20.11,6.7
+2022,Rovman Powell,All-Rounder,Overseas,25,5,33.98,156.76,263,0,0,13,8.99,24.17,17.87,2.0,2.8,1,Delhi Capitals,57.47,20.53
+2022,Abhinav Sadarangani,Batsman,Indian,19,0,23.14,107.08,128,1,0,1,9.02,37.86,27.96,2.0,2.6,1,Gujarat Titans,43.94,16.9
+2022,Aiden Markram,Batsman,Overseas,19,0,27.57,108.15,159,1,0,0,8.96,38.83,27.79,2.0,2.6,1,Sunrisers Hyderabad,46.65,17.94
+2022,Daniel Sams,All-Rounder,Overseas,20,0,25.42,107.94,116,0,0,4,9.32,29.19,21.69,2.0,2.6,1,Mumbai Indians,34.1,13.12
+2022,Navdeep Saini,Bowler,Indian,25,5,12.45,110.17,53,0,0,13,8.29,29.1,19.26,2.0,2.6,1,Rajasthan Royals,25.16,9.68
+2022,Alzarri Joseph,Bowler,Overseas,20,0,11.54,115.1,91,0,0,19,8.0,22.58,20.36,2.0,2.4,1,Gujarat Titans,35.41,14.75
+2022,Matthew Wade,Batsman,Overseas,19,0,22.07,105.82,141,0,0,0,8.63,37.49,27.9,2.0,2.4,1,Gujarat Titans,43.39,18.08
+2022,Sean Abbott,Bowler,Overseas,28,7,11.02,99.47,61,0,0,14,9.36,27.37,19.66,2.0,2.4,1,Sunrisers Hyderabad,23.53,9.8
+2022,Shahbaz Ahamad,All-Rounder,Indian,22,2,20.61,119.71,101,0,0,4,9.24,29.44,22.57,2.0,2.4,1,Royal Challengers Bengaluru,35.41,14.75
+2022,David Willey,All-Rounder,Overseas,20,0,24.34,103.33,117,0,0,6,8.69,24.48,15.29,2.0,2.0,1,Royal Challengers Bengaluru,36.57,18.29
+2022,Dushmantha Chameera,Bowler,Overseas,24,4,9.37,102.4,66,0,0,9,8.43,30.09,20.56,2.0,2.0,1,Lucknow Super Giants,18.87,9.44
+2022,Evin Lewis,Batsman,Overseas,23,4,35.45,149.22,327,5,1,1,9.65,37.59,27.94,2.0,2.0,1,Lucknow Super Giants,65.49,32.74
+2022,Jason Roy,Batsman,Overseas,24,5,35.17,146.48,254,2,0,0,8.78,34.63,29.25,2.0,2.0,1,Gujarat Titans,63.09,31.55
+2022,K.S. Bharat,Batsman,Indian,19,0,21.76,112.63,163,2,0,0,9.61,40.42,28.2,2.0,2.0,1,Delhi Capitals,45.75,22.88
+2022,Kuldeep Yadav,Bowler,Indian,29,8,11.0,106.03,75,0,0,25,8.14,29.64,18.03,2.0,2.0,1,Delhi Capitals,43.83,21.91
+2022,Mustafizur Rahman,Bowler,Overseas,26,6,10.97,107.4,88,0,0,25,7.83,23.7,18.79,2.0,2.0,1,Delhi Capitals,44.89,22.45
+2022,Nathan Coulter-Nile,Bowler,Overseas,30,9,13.29,110.66,75,0,0,28,8.46,22.2,18.77,2.0,2.0,1,Rajasthan Royals,47.37,23.68
+2022,Raj Angad Bawa,All-Rounder,Indian,20,0,19.51,99.08,90,0,0,3,8.7,30.86,20.58,2.0,2.0,1,Punjab Kings,30.89,15.45
+2022,Robin Uthappa,Batsman,Indian,28,8,43.95,169.54,473,6,1,0,10.58,35.84,27.9,2.0,2.0,1,Chennai Super Kings,77.9,38.95
+2022,Sam Billings,Batsman,Overseas,25,6,36.76,152.54,201,2,0,0,10.0,38.03,29.49,2.0,2.0,1,Kolkata Knight Riders,64.49,32.24
+2022,Umesh Yadav,Bowler,Indian,29,8,13.14,104.23,92,0,0,23,8.77,28.1,19.74,2.0,2.0,1,Kolkata Knight Riders,39.11,19.55
+2022,Vaibhav Arora,Bowler,Indian,21,1,9.55,99.78,41,0,0,7,9.12,34.96,23.87,2.0,2.0,1,Punjab Kings,13.55,6.78
+2022,Adam Milne,Bowler,Overseas,28,7,13.1,107.27,95,0,0,18,10.07,30.74,21.1,1.5,1.9,1,Chennai Super Kings,27.95,14.71
+2022,Mitchell Santner,All-Rounder,Overseas,24,4,32.12,135.42,109,0,0,8,9.24,27.98,19.95,1.5,1.9,1,Chennai Super Kings,46.23,24.33
+2022,Wriddhiman Saha,Batsman,Indian,28,8,39.74,162.97,434,2,1,0,9.01,41.17,26.27,1.5,1.9,1,Gujarat Titans,73.47,38.67
+2022,Jayant Yadav,All-Rounder,Indian,29,8,26.74,153.83,248,1,0,9,9.05,32.46,18.51,1.5,1.7,1,Gujarat Titans,50.15,29.5
+2022,Tilak Varma,All-Rounder,Indian,20,0,19.69,107.02,97,1,0,5,8.17,30.53,23.86,1.5,1.7,1,Mumbai Indians,35.99,21.17
+2022,Murugan Ashwin,Bowler,Indian,20,0,13.03,104.55,60,0,0,7,8.16,29.13,23.43,1.5,1.6,1,Mumbai Indians,16.62,10.39
+2022,Alex Hales,Batsman,Overseas,19,0,22.98,110.94,193,0,1,0,8.73,37.53,27.52,1.5,1.5,1,Kolkata Knight Riders,46.33,30.89
+2022,Glenn Phillips,Batsman,Overseas,19,0,23.0,108.2,128,1,0,1,9.14,35.91,28.11,1.5,1.5,1,Sunrisers Hyderabad,44.22,29.48
+2022,James Neesham,All-Rounder,Overseas,29,8,29.45,158.91,190,2,0,11,9.1,31.97,17.08,1.5,1.5,1,Rajasthan Royals,54.14,36.09
+2022,Rajvardhan Hangargekar,All-Rounder,Indian,20,0,15.1,99.8,46,0,0,4,8.49,30.59,20.13,1.5,1.5,1,Chennai Super Kings,31.55,21.03
+2022,Tim Southee,Bowler,Overseas,29,8,13.91,112.28,54,0,0,13,9.43,30.75,21.57,1.5,1.5,1,Kolkata Knight Riders,21.75,14.5
+2022,Tymal Mills,Bowler,Overseas,25,5,12.9,105.66,111,0,0,29,7.78,23.73,18.02,1.5,1.5,1,Mumbai Indians,51.27,34.18
+2022,Karun Nair,Batsman,Indian,28,8,38.77,162.18,463,4,0,0,8.52,37.26,27.87,1.0,1.4,1,Rajasthan Royals,73.42,52.44
+2022,Vijay Shankar,All-Rounder,Indian,29,8,26.66,157.94,247,2,0,8,9.42,26.03,22.63,1.0,1.4,1,Gujarat Titans,49.01,35.01
+2022,Jaydev Unadkat,Bowler,Indian,30,9,14.73,117.39,96,0,0,32,7.91,22.58,17.77,1.0,1.3,1,Mumbai Indians,55.23,42.48
+2022,Prashant Solanki,Bowler,Indian,20,0,10.09,100.84,32,0,0,4,8.96,32.51,24.36,1.0,1.2,1,Chennai Super Kings,9.44,7.87
+2022,Dominic Drakes,All-Rounder,Overseas,20,0,21.01,114.41,37,0,0,3,8.75,27.73,23.64,1.0,1.1,1,Gujarat Titans,34.23,31.12
+2022,Kamlesh Nagarkoti,All-Rounder,Indian,24,4,25.33,137.18,181,1,0,7,8.87,29.49,21.47,1.0,1.1,1,Delhi Capitals,44.43,40.39
+2022,Mandeep Singh,All-Rounder,Indian,24,4,21.69,128.45,122,0,0,5,8.91,31.27,17.67,1.0,1.1,1,Delhi Capitals,39.29,35.72
+2022,Ajinkya Rahane,Batsman,Indian,23,4,26.84,130.28,250,1,0,1,9.83,39.51,29.61,1.0,1.0,1,Kolkata Knight Riders,54.82,54.82
+2022,Devon Conway,Batsman,Overseas,19,0,26.23,111.07,216,2,0,0,9.7,37.24,27.66,1.0,1.0,1,Chennai Super Kings,48.13,48.13
+2022,Mohammad Nabi,All-Rounder,Overseas,25,5,28.78,131.99,132,0,0,6,8.25,30.53,20.71,1.0,1.0,1,Kolkata Knight Riders,44.29,44.29
+2022,Rassie Van Der Dussen,Batsman,Overseas,19,0,22.63,97.27,67,0,0,0,9.14,41.24,27.67,1.0,1.0,1,Rajasthan Royals,39.57,39.57
+2022,Riley Meredith,Bowler,Overseas,21,1,15.23,112.29,52,0,0,16,8.35,23.55,17.85,1.0,1.0,1,Mumbai Indians,29.47,29.47
+2022,Sherfane Rutherford,All-Rounder,Overseas,23,3,22.84,124.85,133,1,0,11,8.78,31.67,19.1,1.0,1.0,1,Royal Challengers Bengaluru,46.32,46.32
+2022,Mahipal Lomror,All-Rounder,Indian,26,6,25.45,129.41,153,2,0,11,9.56,31.33,20.09,0.75,0.95,1,Royal Challengers Bengaluru,46.32,48.76
+2022,Krishnappa Gowtham,All-Rounder,Indian,25,5,34.39,147.94,322,2,0,12,7.92,26.21,20.37,0.75,0.9,1,Lucknow Super Giants,56.75,63.06
+2022,Finn Allen,Batsman,Overseas,19,0,22.52,102.87,88,0,0,0,9.67,36.67,26.18,0.75,0.8,1,Royal Challengers Bengaluru,41.63,52.04
+2022,Daryl Mitchell,All-Rounder,Overseas,20,0,27.38,121.95,240,1,0,14,7.57,22.34,14.79,0.75,0.75,1,Rajasthan Royals,52.89,70.52
+2022,Fabian Allen,All-Rounder,Unknown,22,2,19.64,117.29,88,0,0,8,8.83,31.46,23.86,0.75,0.75,1,Mumbai Indians,40.31,53.75
+2022,Jason Behrendorff,Bowler,Overseas,24,4,11.25,105.66,52,0,0,11,8.94,31.16,23.7,0.75,0.75,1,Royal Challengers Bengaluru,20.2,26.93
+2022,Nathan Ellis,Bowler,Overseas,20,0,7.94,100.16,57,0,0,8,7.8,30.34,22.61,0.75,0.75,1,Punjab Kings,19.17,25.56
+2022,Obed Mccoy,Bowler,Overseas,20,0,8.93,86.77,43,0,0,6,9.52,31.17,24.9,0.75,0.75,1,Rajasthan Royals,10.87,14.49
+2022,Shreyas Gopal,Bowler,Indian,29,8,10.89,89.44,30,0,0,15,8.58,34.26,20.46,0.75,0.75,1,Sunrisers Hyderabad,27.06,36.08
+2022,Siddharth Kaul,Bowler,Indian,20,0,11.72,103.48,36,0,0,5,9.27,31.52,22.87,0.75,0.75,1,Royal Challengers Bengaluru,10.05,13.4
+2022,Maheesh Theekshana,Bowler,Overseas,20,0,14.54,105.63,55,1,0,11,8.33,28.67,19.61,0.5,0.7,1,Chennai Super Kings,22.06,31.51
+2022,Lalit Yadav,All-Rounder,Indian,22,2,21.12,116.58,126,0,0,3,8.65,34.93,20.82,0.5,0.65,1,Delhi Capitals,34.9,53.69
+2022,Mayank Markande,Bowler,Indian,24,4,9.97,102.99,39,0,0,11,9.13,33.35,22.61,0.5,0.65,1,Mumbai Indians,19.5,30.0
+2022,Prabhsimran Singh,Batsman,Indian,22,3,26.9,136.6,293,2,1,1,9.44,39.37,28.2,0.5,0.6,1,Punjab Kings,57.6,96.0
+2022,Sheldon Jackson,Batsman,Indian,27,7,31.99,149.13,233,1,0,0,9.17,37.68,25.46,0.5,0.6,1,Kolkata Knight Riders,62.19,103.65
+2022,Ashok Sharma,Bowler,Indian,20,0,11.86,110.97,32,0,0,5,9.77,28.21,25.55,0.5,0.55,1,Kolkata Knight Riders,8.51,15.47
+2022,Rinku Singh,Batsman,Indian,24,5,31.54,131.03,288,2,0,0,9.0,39.14,24.93,0.5,0.55,1,Kolkata Knight Riders,57.68,104.87
+2022,Rishi Dhawan,All-Rounder,Indian,29,8,24.47,150.53,242,1,0,10,8.49,25.33,20.69,0.5,0.55,1,Punjab Kings,51.24,93.16
+2022,Ankit Singh Rajpoot,Bowler,Indian,26,6,11.64,107.91,32,0,0,10,9.08,25.11,20.38,0.5,0.5,1,Lucknow Super Giants,18.08,36.16
+2022,Bhanuka Rajapaksa,Batsman,Overseas,19,0,24.3,98.7,68,0,0,0,10.04,39.05,28.49,0.5,0.5,1,Punjab Kings,40.69,81.38
+2022,Chamika Karunaratne,All-Rounder,Overseas,20,0,19.93,111.74,75,0,0,5,8.57,30.51,19.1,0.5,0.5,1,Kolkata Knight Riders,36.19,72.38
+2022,Dwayne Pretorius,All-Rounder,Overseas,20,0,18.51,100.93,51,0,0,4,9.03,33.1,24.84,0.5,0.5,1,Chennai Super Kings,31.55,63.1
+2022,Fazalhaq Farooqi,Bowler,Overseas,20,0,13.67,92.4,51,0,0,8,10.05,27.72,24.51,0.5,0.5,1,Sunrisers Hyderabad,12.51,25.02
+2022,Gurkeerat Singh,All-Rounder,Indian,20,0,18.54,92.36,49,0,0,1,9.31,27.49,18.48,0.5,0.5,1,Gujarat Titans,25.69,51.38
+2022,Karn Sharma,Bowler,Indian,29,8,14.13,102.58,68,1,0,21,8.94,28.93,20.76,0.5,0.5,1,Royal Challengers Bengaluru,35.36,70.72
+2022,Kyle Mayers,All-Rounder,Overseas,20,0,19.04,107.3,106,0,0,4,8.69,31.93,24.68,0.5,0.5,1,Lucknow Super Giants,33.64,67.28
+2022,Lungi Ngidi,Bowler,Overseas,24,4,11.91,102.25,47,0,0,11,9.07,30.96,20.8,0.5,0.5,1,Delhi Capitals,19.76,39.52
+2022,Pravin Dubey,All-Rounder,Indian,20,0,19.03,94.8,41,1,0,5,9.02,29.86,21.24,0.5,0.5,1,Delhi Capitals,31.68,63.36
+2022,Sandeep Sharma,Bowler,Indian,29,8,11.98,113.92,47,0,0,14,9.1,28.68,22.58,0.5,0.5,1,Punjab Kings,24.17,48.34
+2022,Sanjay Yadav,All-Rounder,Indian,22,2,19.11,123.44,164,1,0,6,8.37,28.08,23.59,0.5,0.5,1,Mumbai Indians,39.93,79.86
+2022,Shahbaz Nadeem,Bowler,Indian,29,8,11.51,104.41,55,0,0,17,8.59,30.06,19.54,0.5,0.5,1,Lucknow Super Giants,30.28,60.56
+2022,Tim Seifert,Batsman,Overseas,19,0,25.29,104.88,162,1,0,0,9.36,36.74,29.9,0.5,0.5,1,Delhi Capitals,44.82,89.64
+2022,Varun Aaron,Bowler,Indian,29,8,11.46,96.99,82,0,0,11,9.14,31.54,17.3,0.5,0.5,1,Gujarat Titans,19.9,39.8
+2022,Vishnu Vinod,Batsman,Indian,20,1,25.19,110.32,115,0,0,0,8.82,39.29,28.97,0.5,0.5,1,Sunrisers Hyderabad,45.47,90.94
+2022,Yash Dhull,All-Rounder,Indian,20,0,18.06,91.59,86,1,0,1,9.84,28.56,22.51,0.5,0.5,1,Delhi Capitals,24.35,48.7
+2022,Abhijeet Tomar,Batsman,Indian,19,0,21.84,99.58,113,0,0,0,9.28,33.79,27.18,0.3,0.4,1,Kolkata Knight Riders,40.87,102.17
+2022,Benny Howell,All-Rounder,Overseas,20,0,18.67,108.57,104,0,0,4,7.81,32.98,20.98,0.3,0.4,1,Punjab Kings,35.56,88.9
+2022,Arjun Tendulkar,All-Rounder,Indian,21,1,18.01,102.78,68,0,0,2,8.31,30.98,21.07,0.3,0.3,1,Mumbai Indians,30.84,102.8
+2022,Basil Thampi,Bowler,Indian,25,5,11.51,98.07,33,0,0,7,8.94,31.94,19.2,0.3,0.3,1,Mumbai Indians,14.01,46.7
+2022,KC Cariappa,Bowler,Indian,28,7,14.3,109.02,61,0,0,14,8.34,29.59,21.55,0.3,0.3,1,Rajasthan Royals,26.59,88.63
+2022,Noor Ahmad,Bowler,Overseas,20,0,11.68,111.81,77,0,0,17,8.56,23.62,19.15,0.3,0.3,1,Gujarat Titans,30.59,101.97
+2022,Suyash Prabhudessai,All-Rounder,Indian,20,0,15.77,97.96,24,0,0,3,8.36,29.12,23.47,0.3,0.3,1,Royal Challengers Bengaluru,30.41,101.37
+2022,Chama Milind,Bowler,Indian,29,8,13.14,100.08,42,0,0,13,9.11,35.47,19.99,0.2,0.25,1,Royal Challengers Bengaluru,22.59,90.36
+2022,Ishan Porel,Bowler,Indian,22,2,10.42,103.05,48,0,0,7,9.43,34.67,23.47,0.2,0.25,1,Punjab Kings,12.69,50.76
+2022,Akash Deep,Bowler,Indian,20,0,13.91,109.66,83,0,0,16,9.01,20.64,18.96,0.2,0.2,1,Royal Challengers Bengaluru,27.8,139.0
+2022,Aman Khan,All-Rounder,Indian,20,0,11.72,94.0,73,0,0,3,8.64,30.89,22.49,0.3,0.2,1,Kolkata Knight Riders,28.05,140.25
+2022,Aneeshwar Gautam,All-Rounder,Indian,20,0,19.58,93.46,60,0,0,5,9.73,28.58,20.61,0.3,0.2,1,Royal Challengers Bengaluru,30.13,150.65
+2022,Anmolpreet Singh,Batsman,Indian,22,3,25.24,121.25,185,1,0,0,8.98,38.08,28.57,0.2,0.2,1,Mumbai Indians,50.17,250.85
+2022,Ansh Patel,All-Rounder,Indian,20,0,20.68,102.44,104,0,0,2,8.91,28.86,23.71,0.3,0.2,1,Punjab Kings,30.24,151.2
+2022,Anukul Roy,All-Rounder,Indian,24,4,20.97,113.76,103,0,0,8,9.26,30.92,21.3,0.3,0.2,1,Kolkata Knight Riders,39.07,195.35
+2022,Anunay Singh,All-Rounder,Indian,20,0,19.45,95.56,66,0,0,4,8.63,30.65,22.35,0.3,0.2,1,Rajasthan Royals,31.51,157.55
+2022,Arshad Khan,All-Rounder,Indian,20,0,17.44,101.01,104,1,0,3,8.61,28.13,19.98,0.3,0.2,1,Mumbai Indians,30.94,154.7
+2022,Aryan Juyal,Batsman,Indian,19,0,20.12,94.25,108,0,0,0,9.06,36.33,26.36,0.2,0.2,1,Mumbai Indians,38.48,192.4
+2022,Ashwin Hebbar,Batsman,Indian,19,0,25.35,90.0,98,0,0,0,9.71,37.77,26.63,0.2,0.2,1,Delhi Capitals,39.1,195.5
+2022,Atharva Taide,All-Rounder,Indian,20,0,16.97,101.22,38,0,0,2,8.91,30.02,22.38,0.3,0.2,1,Punjab Kings,29.07,145.35
+2022,Ayush Badoni,All-Rounder,Indian,20,0,15.07,105.98,121,0,0,0,9.3,29.88,19.47,0.3,0.2,1,Lucknow Super Giants,26.36,131.8
+2022,Baba Indrajith,Batsman,Indian,19,0,19.34,95.51,89,1,0,1,8.64,41.23,26.48,0.2,0.2,1,Kolkata Knight Riders,38.17,190.85
+2022,Baltej Dhanda,Bowler,Indian,20,0,11.05,99.22,30,0,0,6,10.05,35.44,22.3,0.2,0.2,1,Punjab Kings,9.3,46.5
+2022,Bhagath Varma,All-Rounder,Indian,21,1,22.05,96.41,111,0,0,1,9.28,32.23,24.64,0.3,0.2,1,Chennai Super Kings,27.43,137.15
+2022,C Hari Nishaanth,Batsman,Indian,20,1,21.19,106.41,109,0,0,1,9.74,37.22,27.55,0.2,0.2,1,Chennai Super Kings,42.58,212.9
+2022,Darshan Nalkande,All-Rounder,Indian,23,3,22.21,116.65,147,0,0,3,9.15,29.9,21.48,0.3,0.2,1,Gujarat Titans,34.18,170.9
+2022,Dhruv Jurel,Batsman,Indian,19,0,19.77,93.78,106,0,0,0,8.77,40.71,26.9,0.2,0.2,1,Rajasthan Royals,38.16,190.8
+2022,Hrithik Shokeen,All-Rounder,Indian,20,0,19.82,99.5,63,0,0,6,9.02,30.07,20.6,0.3,0.2,1,Mumbai Indians,34.02,170.1
+2022,Jagadeesha Suchith,Bowler,Indian,28,7,13.72,105.37,79,0,0,5,10.33,30.42,24.41,0.2,0.2,1,Sunrisers Hyderabad,8.29,41.45
+2022,Jitesh Sharma,Batsman,Indian,25,6,41.96,173.09,583,6,0,1,9.4,35.71,27.46,0.2,0.2,1,Punjab Kings,80.37,401.85
+2022,KM Asif,Bowler,Indian,20,0,10.45,104.27,36,0,0,6,9.66,33.1,20.81,0.2,0.2,1,Chennai Super Kings,10.38,51.9
+2022,Karan Sharma,All-Rounder,Indian,20,0,16.0,102.06,45,0,0,1,9.49,28.94,20.17,0.3,0.2,1,Lucknow Super Giants,26.63,133.15
+2022,Kuldeep Sen,Bowler,Indian,20,0,11.9,94.77,44,0,0,7,9.08,30.15,21.93,0.2,0.2,1,Rajasthan Royals,13.7,68.5
+2022,Luvnith Sisodia,Batsman,Indian,19,0,18.85,97.25,102,0,0,0,8.93,37.44,26.72,0.2,0.2,1,Royal Challengers Bengaluru,38.75,193.75
+2022,Manan Vohra,Batsman,Indian,23,4,24.51,132.57,227,4,0,1,9.22,40.67,30.55,0.2,0.2,1,Lucknow Super Giants,54.11,270.55
+2022,Mayank Yadav,Bowler,Indian,20,0,8.95,101.62,17,0,0,4,9.04,33.66,20.9,0.2,0.2,1,Lucknow Super Giants,9.05,45.25
+2022,Mohsin Khan,Bowler,Indian,24,4,9.97,110.27,65,0,0,5,8.27,34.59,22.68,0.2,0.2,1,Lucknow Super Giants,13.34,66.7
+2022,Mukesh Choudhary,Bowler,Indian,20,0,9.96,109.28,23,0,0,4,9.6,30.28,22.7,0.2,0.2,1,Chennai Super Kings,7.43,37.15
+2022,N Jagadeesan,Batsman,Indian,23,4,26.2,131.67,187,2,0,0,9.72,38.3,29.18,0.2,0.2,1,Chennai Super Kings,53.72,268.6
+2022,Pradeep Sangwan,All-Rounder,Indian,26,6,26.66,142.99,184,1,0,6,9.08,30.93,19.88,0.3,0.2,1,Gujarat Titans,44.3,221.5
+2022,Pratham Singh,All-Rounder,Indian,25,5,23.28,140.0,145,2,0,6,8.09,33.11,20.61,0.3,0.2,1,Kolkata Knight Riders,44.84,224.2
+2022,Prerak Mankad,All-Rounder,Indian,20,0,14.64,98.44,40,0,0,3,8.24,32.58,21.42,0.3,0.2,1,Punjab Kings,30.47,152.35
+2022,Priyam Garg,Batsman,Indian,21,2,23.44,117.9,180,0,1,0,9.26,37.19,29.77,0.2,0.2,1,Sunrisers Hyderabad,48.35,241.75
+2022,R Samarth,Batsman,Indian,19,0,15.92,95.89,83,1,0,1,9.63,37.18,28.36,0.2,0.2,1,Sunrisers Hyderabad,36.8,184.0
+2022,Rahul Buddhi,Batsman,Indian,19,0,19.2,101.47,49,0,0,1,8.2,40.75,27.79,0.2,0.2,1,Mumbai Indians,39.1,195.5
+2022,Ramandeep Singh,All-Rounder,Indian,20,0,14.96,102.22,93,1,0,5,8.74,32.19,20.51,0.3,0.2,1,Mumbai Indians,32.7,163.5
+2022,Ramesh Kumar,Batsman,Indian,19,0,19.48,90.0,90,1,0,1,8.72,36.87,26.64,0.2,0.2,1,Kolkata Knight Riders,36.59,182.95
+2022,Rasikh Dar,Bowler,Indian,23,3,11.65,112.99,87,0,0,14,8.07,30.02,21.68,0.2,0.2,1,Kolkata Knight Riders,27.66,138.3
+2022,Ripal Patel,All-Rounder,Indian,21,1,19.26,92.71,79,1,0,1,8.4,29.5,21.77,0.3,0.2,1,Delhi Capitals,27.76,138.8
+2022,Sai Sudharsan,All-Rounder,Indian,20,0,14.51,102.81,35,0,0,4,9.22,29.01,19.67,0.3,0.2,1,Gujarat Titans,30.55,152.75
+2022,Sarfaraz Khan,All-Rounder,Indian,20,0,18.21,98.13,77,0,0,2,9.4,32.54,22.28,0.3,0.2,1,Delhi Capitals,27.78,138.9
+2022,Saurabh Dubey,Bowler,Indian,20,0,11.64,93.18,44,0,0,6,9.94,37.48,20.37,0.2,0.2,1,Sunrisers Hyderabad,9.62,48.1
+2022,Shashank Singh,All-Rounder,Indian,25,5,20.78,137.45,141,2,0,7,9.52,29.78,20.06,0.3,0.2,1,Sunrisers Hyderabad,42.05,210.25
+2022,Shubham Garhwal,All-Rounder,Indian,20,0,16.98,107.16,53,1,0,1,9.09,30.89,19.89,0.3,0.2,1,Rajasthan Royals,28.7,143.5
+2022,Simarjeet Singh,Bowler,Indian,20,0,10.41,119.14,19,0,0,5,8.99,36.14,20.34,0.2,0.2,1,Chennai Super Kings,10.72,53.6
+2022,Subhranshu Senapati,Batsman,Indian,19,0,20.91,98.72,115,2,0,0,9.4,34.27,28.15,0.2,0.2,1,Chennai Super Kings,40.28,201.4
+2022,Tejas Baroka,Bowler,Indian,20,0,9.65,105.85,49,0,0,6,9.47,33.11,23.7,0.2,0.2,1,Rajasthan Royals,11.08,55.4
+2022,Tushar Deshpande,Bowler,Indian,22,2,12.92,120.04,51,0,0,15,9.2,28.21,23.6,0.2,0.2,1,Chennai Super Kings,25.41,127.05
+2022,Vicky Ostwal,All-Rounder,Indian,20,0,15.67,98.1,92,0,0,4,8.74,31.9,19.39,0.3,0.2,1,Delhi Capitals,30.86,154.3
+2022,Writtick Chatterjee,All-Rounder,Indian,20,0,18.65,109.45,100,0,0,0,8.78,29.51,20.13,0.3,0.2,1,Punjab Kings,28.99,144.95
+2023,Sam Curran,All-Rounder,Overseas,24,4,45.0,190.0,570,3,0,24,7.52,23.4,13.94,2.0,18.5,1,Punjab Kings,83.01,4.49
+2023,Cameron Green,All-Rounder,Overseas,20,0,45.0,179.19,482,3,1,24,7.28,21.63,11.99,2.0,17.5,1,Mumbai Indians,81.33,4.65
+2023,Ben Stokes,All-Rounder,Overseas,20,0,42.88,166.13,364,2,0,21,8.06,22.93,14.0,2.0,16.25,1,Chennai Super Kings,73.03,4.49
+2023,Nicholas Pooran,Batsman,Overseas,22,1,56.88,196.86,616,7,1,2,9.5,39.65,27.17,2.0,16.0,1,Lucknow Super Giants,94.13,5.88
+2023,Harry Brook,Batter,Overseas,20,0,38.3,154.71,323,1,0,13,6.85,26.65,20.61,2.0,13.25,1,Sunrisers Hyderabad,62.42,4.71
+2023,Mayank Agarwal,Batsman,Indian,29,9,50.3,203.84,591,7,0,0,9.3,38.19,28.61,2.0,8.25,1,Sunrisers Hyderabad,93.09,11.28
+2023,Shivam Mavi,All-Rounder,Indian,25,5,31.43,167.42,345,2,0,14,8.45,29.08,18.34,2.0,6.0,1,Gujarat Titans,61.24,10.21
+2023,Jason Holder,All-Rounder,Overseas,31,10,40.43,186.22,398,3,1,20,8.96,25.03,17.1,2.0,5.75,1,Rajasthan Royals,73.43,12.77
+2023,Mukesh Kumar,Bowler,Indian,20,0,15.04,102.19,61,0,0,17,8.22,28.02,21.06,2.0,5.5,1,Delhi Capitals,31.45,5.72
+2023,Heinrich Klaasen,Batsman,Overseas,25,4,41.13,164.23,358,4,0,1,9.29,36.86,27.21,2.0,5.25,1,Sunrisers Hyderabad,72.88,13.88
+2023,Rilee Rossouw,Batter,Overseas,20,0,24.49,124.12,186,2,0,10,9.5,26.66,16.34,2.0,4.6,1,Delhi Capitals,43.95,9.55
+2023,Joshua Little,Bowler,Overseas,20,0,11.83,111.66,58,0,0,11,8.98,31.66,20.94,2.0,4.4,1,Gujarat Titans,20.14,4.58
+2023,Will Jacks,Batter,Overseas,20,0,21.7,112.49,195,0,0,10,8.36,25.49,22.41,2.0,3.2,1,Royal Challengers Bengaluru,43.2,13.5
+2023,Vivrant Sharma,All-Rounder,Indian,20,0,21.83,114.35,136,1,0,6,9.53,31.91,21.42,2.0,2.6,1,Sunrisers Hyderabad,36.47,14.03
+2023,Manish Pandey,Batsman,Indian,29,9,50.8,186.56,631,7,2,3,9.7,38.07,28.31,2.0,2.4,1,Delhi Capitals,88.91,37.05
+2023,Adil Rashid,Bowler,Overseas,20,0,9.99,95.87,49,0,0,5,8.66,33.04,22.89,2.0,2.0,1,Sunrisers Hyderabad,12.01,6.0
+2023,Kane Williamson,All-Rounder,Overseas,29,8,34.18,165.9,246,2,0,13,9.12,26.54,24.07,2.0,2.0,1,Gujarat Titans,59.09,29.55
+2023,Phil Salt,Batsman,Overseas,19,0,34.67,132.7,291,4,0,2,9.41,39.32,28.38,2.0,2.0,1,Delhi Capitals,59.5,29.75
+2023,Reece Topley,Bowler,Overseas,20,0,12.6,104.01,65,0,0,7,9.08,25.02,21.66,1.5,1.9,1,Royal Challengers Bengaluru,13.91,7.32
+2023,Mayank Dagar,All-Rounder,Indian,25,5,24.9,137.07,176,1,0,7,8.83,34.87,20.52,1.5,1.8,1,Sunrisers Hyderabad,44.38,24.66
+2023,Adam Zampa,Bowler,Overseas,28,7,9.91,104.37,44,0,0,17,8.9,29.46,22.11,1.5,1.5,1,Rajasthan Royals,29.24,19.49
+2023,Jhye Richardson,Bowler,Overseas,22,2,13.78,120.15,89,0,0,27,7.99,20.34,14.0,1.5,1.5,1,Mumbai Indians,47.42,31.61
+2023,Shakib Al Hasan,All-Rounder,Overseas,30,9,32.18,157.64,244,1,0,13,8.47,30.19,21.16,1.5,1.5,1,Kolkata Knight Riders,58.23,38.82
+2023,K.S. Bharat,Batsman,Indian,20,1,24.98,110.58,170,3,0,0,9.41,36.6,27.74,1.0,1.2,1,Gujarat Titans,46.57,38.81
+2023,Akeal Hosein,Bowler,Overseas,20,0,9.79,111.45,45,0,0,6,9.08,30.04,24.07,1.0,1.0,1,Sunrisers Hyderabad,12.21,12.21
+2023,David Wiese,All-Rounder,Overseas,29,8,29.32,156.67,244,0,0,11,9.12,29.03,17.18,1.0,1.0,1,Kolkata Knight Riders,53.62,53.62
+2023,Joe Root,Batter,Overseas,20,0,21.53,102.89,104,1,0,2,9.25,29.79,22.84,1.0,1.0,1,Rajasthan Royals,29.86,29.86
+2023,Kyle Jamieson,All-Rounder,Overseas,22,2,33.03,133.57,307,3,0,17,7.95,25.0,16.62,1.0,1.0,1,Chennai Super Kings,59.47,59.47
+2023,N Jagadeesan,Batsman,Indian,24,5,27.03,132.06,267,0,0,0,9.51,34.39,28.05,0.75,0.9,1,Kolkata Knight Riders,55.77,61.97
+2023,Daniel Sams,All-Rounder,Overseas,21,1,23.05,104.81,135,0,0,3,8.85,31.29,19.14,0.75,0.75,1,Lucknow Super Giants,32.62,43.49
+2023,Rajan Kumar,Bowler,Indian,20,0,12.08,106.19,0,0,0,5,9.55,31.47,22.74,0.5,0.7,1,Royal Challengers Bengaluru,8.85,12.64
+2023,Avinash Singh,Bowler,Indian,20,0,11.84,119.0,46,0,0,8,9.19,30.28,22.26,0.5,0.6,1,Royal Challengers Bengaluru,14.89,24.82
+2023,Nishant Sindhu,All-Rounder,Indian,20,0,17.6,105.85,45,1,0,3,8.48,35.02,20.38,0.5,0.6,1,Chennai Super Kings,32.21,53.68
+2023,Vaibhav Arora,Bowler,Indian,22,2,12.62,106.12,42,0,0,9,9.44,28.4,22.21,0.5,0.6,1,Kolkata Knight Riders,15.6,26.0
+2023,Ajinkya Rahane,Batsman,Indian,24,5,32.76,145.25,321,3,0,0,9.15,37.15,28.35,0.5,0.5,1,Chennai Super Kings,63.1,126.2
+2023,Amit Mishra,Bowler,Indian,30,9,11.88,106.73,80,0,0,19,8.68,23.96,20.34,0.5,0.5,1,Lucknow Super Giants,33.26,66.52
+2023,Donovan Ferreira,Batsman,Overseas,19,0,23.82,99.29,135,1,0,0,9.73,35.62,31.37,0.5,0.5,1,Rajasthan Royals,42.02,84.04
+2023,Ishant Sharma,Bowler,Indian,30,9,13.33,94.29,61,1,0,21,7.79,28.02,22.58,0.5,0.5,1,Delhi Capitals,38.74,77.48
+2023,Jaydev Unadkat,Bowler,Indian,31,10,13.54,104.25,108,0,0,30,7.94,18.63,17.98,0.5,0.5,1,Lucknow Super Giants,52.26,104.52
+2023,Litton Das,Batsman,Overseas,19,0,18.49,102.29,190,0,0,0,9.35,38.39,29.71,0.5,0.5,1,Kolkata Knight Riders,41.88,83.76
+2023,Mandeep Singh,All-Rounder,Indian,25,5,24.92,142.9,162,1,0,3,9.03,34.27,21.83,0.5,0.5,1,Kolkata Knight Riders,40.35,80.7
+2023,Mayank Markande,Bowler,Indian,25,5,12.0,106.4,58,0,0,10,9.22,30.4,22.7,0.5,0.5,1,Sunrisers Hyderabad,17.92,35.84
+2023,Mohit Sharma,Bowler,Indian,30,9,11.9,120.29,80,0,0,23,8.46,25.13,20.59,0.5,0.5,1,Gujarat Titans,39.92,79.84
+2023,Naveen Ul Haq,Bowler,Overseas,20,0,13.58,112.44,9,0,0,6,8.89,29.93,22.6,0.5,0.5,1,Lucknow Super Giants,12.42,24.84
+2023,Odean Smith,All-Rounder,Overseas,21,1,27.31,115.25,183,0,0,7,7.93,27.03,21.92,0.5,0.5,1,Gujarat Titans,42.42,84.84
+2023,Piyush Chawla,Bowler,Indian,30,9,11.58,112.68,105,0,0,19,8.54,24.85,18.87,0.5,0.5,1,Mumbai Indians,33.93,67.86
+2023,Romario Shepherd,All-Rounder,Overseas,21,1,25.01,116.89,199,0,0,9,8.16,27.97,19.94,0.5,0.5,1,Lucknow Super Giants,44.11,88.22
+2023,Sikandar Raza,All-Rounder,Overseas,20,0,17.88,101.37,62,1,0,0,8.12,27.25,22.44,0.5,0.5,1,Punjab Kings,28.5,57.0
+2023,Yash Thakur,Bowler,Indian,20,0,12.09,100.99,24,0,0,10,9.2,34.63,23.62,0.3,0.45,1,Lucknow Super Giants,17.64,39.2
+2023,Harpreet Bhatia,Batter,Indian,20,0,17.42,93.15,57,0,0,0,9.11,29.07,18.79,0.3,0.4,1,Punjab Kings,24.77,61.92
+2023,KM Asif,Bowler,Indian,21,1,11.54,107.34,49,0,0,3,9.77,32.38,21.28,0.3,0.3,1,Rajasthan Royals,5.68,18.93
+2023,Upendra Singh Yadav,Batsman,Indian,19,0,19.63,96.24,148,3,0,0,9.48,38.97,27.22,0.2,0.25,1,Sunrisers Hyderabad,39.68,158.72
+2023,Abdul P A,All-Rounder,Indian,20,0,14.65,93.35,72,0,0,4,8.57,33.44,20.8,0.3,0.2,1,Rajasthan Royals,29.99,149.95
+2023,Ajay Mandal,All-Rounder,Indian,20,0,14.81,95.55,46,1,0,2,9.26,28.11,20.18,0.3,0.2,1,Chennai Super Kings,26.69,133.45
+2023,Akash Vashisht,All-Rounder,Indian,20,0,18.06,99.5,37,0,0,6,9.06,30.06,21.83,0.3,0.2,1,Rajasthan Royals,33.5,167.5
+2023,Anmolpreet Singh,Batsman,Indian,23,4,26.31,127.3,219,2,1,0,9.13,39.33,28.72,0.2,0.2,1,Sunrisers Hyderabad,53.09,265.45
+2023,Bhagath Varma,All-Rounder,Indian,22,2,21.09,108.54,113,0,0,3,9.07,32.09,19.86,0.3,0.2,1,Chennai Super Kings,32.44,162.2
+2023,Duan Jansen,All-Rounder,Overseas,20,0,23.0,108.38,106,0,0,3,8.21,33.89,23.46,0.3,0.2,1,Mumbai Indians,34.61,173.05
+2023,Himanshu Sharma,Bowler,Indian,20,0,11.49,96.3,42,0,0,4,9.43,35.86,22.66,0.2,0.2,1,Royal Challengers Bengaluru,8.13,40.65
+2023,Kulwant Khejroliya,Bowler,Indian,26,6,12.81,99.62,34,0,0,11,8.99,32.06,23.13,0.2,0.2,1,Kolkata Knight Riders,19.87,99.35
+2023,Kunal Rathore,Batsman,Indian,19,0,18.83,92.77,119,0,0,0,9.17,39.43,28.91,0.2,0.2,1,Rajasthan Royals,37.74,188.7
+2023,Manoj Bhandage,All-Rounder,Indian,20,0,15.81,91.41,40,0,0,0,8.96,30.18,19.28,0.3,0.2,1,Royal Challengers Bengaluru,24.31,121.55
+2023,Mohit Rathee,All-Rounder,Indian,20,0,21.37,104.7,80,1,0,2,9.45,33.79,20.01,0.3,0.2,1,Punjab Kings,29.78,148.9
+2023,Murugan Ashwin,Bowler,Indian,21,1,10.73,104.55,25,0,0,5,9.23,31.48,20.73,0.2,0.2,1,Rajasthan Royals,10.06,50.3
+2023,Nehal Wadhera,All-Rounder,Indian,20,0,22.77,106.98,98,1,0,5,8.25,28.64,19.66,0.3,0.2,1,Mumbai Indians,36.59,182.95
+2023,Nitish Kumar Reddy,Batsman,Indian,19,0,18.87,95.94,106,0,0,0,9.33,38.04,29.56,0.2,0.2,1,Sunrisers Hyderabad,38.45,192.25
+2023,Prerak Mankad,All-Rounder,Indian,21,1,19.49,102.77,77,0,0,3,8.37,28.49,21.68,0.3,0.2,1,Lucknow Super Giants,32.29,161.45
+2023,Raghav Goyal,Bowler,Indian,20,0,9.36,92.79,45,0,0,6,9.21,33.47,23.19,0.2,0.2,1,Mumbai Indians,11.82,59.1
+2023,Samarth Vyas,All-Rounder,Indian,20,0,16.29,97.43,86,0,0,0,8.7,33.23,21.59,0.3,0.2,1,Sunrisers Hyderabad,26.16,130.8
+2023,Sanvir Singh,All-Rounder,Indian,20,0,15.76,104.69,54,1,0,3,8.23,35.46,22.13,0.3,0.2,1,Sunrisers Hyderabad,32.02,160.1
+2023,Shaik Rasheed,Batter,Indian,20,0,16.67,103.43,91,1,0,4,8.38,32.15,21.35,0.2,0.2,1,Chennai Super Kings,32.89,164.45
+2023,Shams Mulani,All-Rounder,Indian,20,0,17.25,90.88,34,0,0,6,9.17,30.82,17.49,0.3,0.2,1,Mumbai Indians,31.35,156.75
+2023,Shivam Singh,All-Rounder,Indian,20,0,15.86,105.6,72,1,0,6,9.12,31.75,21.67,0.3,0.2,1,Punjab Kings,34.05,170.25
+2023,Sonu Yadav,All-Rounder,Indian,20,0,14.94,100.01,74,0,0,3,7.63,30.23,22.2,0.3,0.2,1,Royal Challengers Bengaluru,32.08,160.4
+2023,Suyash Sharma,Bowler,Indian,20,0,14.11,114.2,24,0,0,7,8.38,34.0,23.35,0.2,0.2,1,Kolkata Knight Riders,15.6,78.0
+2023,Swapnil Singh,All-Rounder,Indian,28,7,25.57,141.65,214,2,0,7,8.79,32.23,22.79,0.3,0.2,1,Lucknow Super Giants,45.54,227.7
+2023,Urvil Patel,Batsman,Indian,19,0,24.12,99.51,123,3,0,0,8.67,37.66,25.77,0.2,0.2,1,Gujarat Titans,41.96,209.8
+2023,Vidwath Kaverappa,Bowler,Indian,20,0,12.1,91.47,46,0,0,1,9.32,30.26,25.06,0.2,0.2,1,Punjab Kings,4.0,20.0
+2023,Vishnu Vinod,Batsman,Indian,21,2,21.02,105.15,173,1,0,0,8.3,35.93,27.14,0.2,0.2,1,Mumbai Indians,43.41,217.05
+2023,Yudhvir Charak,All-Rounder,Indian,22,2,18.65,109.46,142,2,0,5,8.91,28.72,21.85,0.3,0.2,1,Lucknow Super Giants,34.73,173.65
+2024,Mitchell Starc,Bowler,Overseas,31,10,17.33,116.92,147,0,0,32,6.22,17.65,13.84,2.0,24.75,1,Kolkata Knight Riders,60.81,2.46
+2024,Pat Cummins,All-Rounder,Overseas,31,10,45.0,190.0,650,5,1,24,6.38,18.4,14.52,2.0,20.5,1,Sunrisers Hyderabad,85.29,4.16
+2024,Daryl Mitchell,All-Rounder,Overseas,22,2,38.97,179.29,419,3,1,19,7.08,25.47,16.78,2.0,14.0,1,Chennai Super Kings,74.24,5.3
+2024,Harshal Patel,All-Rounder,Indian,31,10,45.0,190.0,481,4,0,24,9.78,24.79,16.06,2.0,11.75,1,Punjab Kings,78.49,6.68
+2024,Alzarri Joseph,Bowler,Overseas,22,2,14.75,118.82,98,0,0,28,7.57,26.99,15.33,2.0,11.5,1,Royal Challengers Bengaluru,50.27,4.37
+2024,Spencer Johnson,Bowler,Overseas,20,0,14.64,118.02,64,0,0,23,8.11,23.43,18.77,2.0,10.0,1,Gujarat Titans,40.81,4.08
+2024,Sameer Rizvi,Batter,Indian,20,0,28.2,131.12,179,1,0,14,8.24,24.03,15.52,2.0,8.4,1,Chennai Super Kings,53.59,6.38
+2024,Rilee Rossouw,Batter,Overseas,21,1,32.85,144.76,214,1,0,13,7.42,27.75,18.66,2.0,8.0,1,Punjab Kings,57.92,7.24
+2024,Rovman Powell,All-Rounder,Overseas,28,7,38.53,178.43,331,3,0,15,8.69,26.64,21.46,2.0,7.4,1,Rajasthan Royals,65.94,8.91
+2024,Shahrukh Khan,All-Rounder,Indian,23,3,35.65,157.1,260,2,0,11,7.72,26.3,18.34,2.0,7.4,1,Gujarat Titans,58.09,7.85
+2024,Kumar Kushagra,Batsman,Indian,19,0,28.13,124.07,276,3,0,0,8.62,37.47,29.61,2.0,7.2,1,Delhi Capitals,53.99,7.5
+2024,Travis Head,Batsman,Overseas,29,9,48.24,194.82,540,6,1,0,8.58,35.71,26.08,2.0,6.8,1,Sunrisers Hyderabad,88.54,13.02
+2024,Shivam Mavi,All-Rounder,Indian,26,6,36.64,172.23,289,2,0,14,8.42,26.09,17.86,2.0,6.4,1,Lucknow Super Giants,63.57,9.93
+2024,Shubham Dubey,Batter,Indian,20,0,22.05,122.89,142,0,0,14,8.2,23.38,16.59,2.0,5.8,1,Rajasthan Royals,50.49,8.71
+2024,Umesh Yadav,Bowler,Indian,31,10,14.33,114.5,88,0,0,25,8.25,29.87,20.0,2.0,5.8,1,Gujarat Titans,43.63,7.52
+2024,Gerald Coetzee,All-Rounder,Overseas,20,0,24.05,119.89,125,0,0,8,9.67,28.88,21.82,2.0,5.0,1,Mumbai Indians,40.25,8.05
+2024,Jhye Richardson,Bowler,Overseas,23,3,15.88,118.63,119,0,0,30,8.0,14.12,17.14,2.0,5.0,1,Delhi Capitals,52.19,10.44
+2024,Yash Dayal,Bowler,Indian,22,2,13.42,104.41,49,0,0,15,8.8,27.28,21.35,2.0,5.0,1,Royal Challengers Bengaluru,26.59,5.32
+2024,Nuwan Thushara,Bowler,Overseas,20,0,11.65,111.88,29,0,0,11,9.3,32.13,19.68,2.0,4.8,1,Mumbai Indians,18.89,3.94
+2024,Dilshan Madushanka,Bowler,Overseas,20,0,9.62,115.01,37,0,0,11,9.14,32.12,20.63,2.0,4.6,1,Mumbai Indians,19.45,4.23
+2024,Chris Woakes,All-Rounder,Overseas,28,7,33.34,173.3,325,3,0,11,7.91,24.37,20.24,2.0,4.2,1,Punjab Kings,60.38,14.38
+2024,Harry Brook,Batter,Overseas,21,1,36.18,143.68,296,3,0,18,7.44,21.92,17.87,2.0,4.0,1,Delhi Capitals,64.5,16.12
+2024,Shardul Thakur,Bowler,Indian,31,10,13.49,109.68,91,0,0,32,7.45,19.58,16.8,2.0,4.0,1,Chennai Super Kings,56.56,14.14
+2024,Robin Minz,Batsman,Indian,19,0,24.24,111.5,171,3,1,2,9.02,39.26,29.01,2.0,3.6,1,Gujarat Titans,46.57,12.94
+2024,M Siddharth,Bowler,Indian,24,4,12.37,95.72,55,0,0,13,9.37,31.29,21.07,2.0,2.4,1,Lucknow Super Giants,21.94,9.14
+2024,Sushant Mishra,Bowler,Indian,20,0,11.71,109.14,54,0,0,8,8.82,31.87,21.91,2.0,2.2,1,Gujarat Titans,16.08,7.31
+2024,David Willey,All-Rounder,Overseas,22,2,23.81,116.15,132,0,0,11,9.08,28.53,16.24,2.0,2.0,1,Lucknow Super Giants,44.22,22.11
+2024,Lockie Ferguson,Bowler,Overseas,28,7,12.83,109.71,110,0,0,27,8.06,21.13,18.43,2.0,2.0,1,Royal Challengers Bengaluru,47.42,23.71
+2024,Mujeeb Rahman,Bowler,Overseas,20,0,10.08,104.09,46,0,0,8,9.08,28.82,22.73,2.0,2.0,1,Kolkata Knight Riders,15.22,7.61
+2024,Mustafizur Rahman,Bowler,Overseas,29,8,14.01,110.56,89,0,0,27,8.63,21.91,19.72,2.0,2.0,1,Chennai Super Kings,45.5,22.75
+2024,Rachin Ravindra,All-Rounder,Overseas,20,0,20.37,108.06,171,1,0,5,9.25,22.07,19.3,1.5,1.8,1,Chennai Super Kings,34.2,19.0
+2024,Jaydev Unadkat,Bowler,Indian,32,11,11.93,109.25,88,0,0,32,7.48,25.37,15.62,1.5,1.6,1,Sunrisers Hyderabad,56.44,35.27
+2024,Mohammad Nabi,All-Rounder,Overseas,28,7,26.67,140.63,211,2,0,8,9.42,31.29,20.22,1.5,1.5,1,Mumbai Indians,45.55,30.37
+2024,Sherfane Rutherford,All-Rounder,Overseas,25,5,27.42,155.41,235,2,0,4,8.87,28.34,19.12,1.5,1.5,1,Kolkata Knight Riders,45.0,30.0
+2024,Tom Curran,All-Rounder,Unknown,24,4,27.45,142.64,225,1,0,10,8.95,25.51,23.3,1.5,1.5,1,Royal Challengers Bengaluru,49.49,32.99
+2024,Wanindu Hasaranga,All-Rounder,Overseas,22,2,32.51,129.11,255,3,0,13,7.49,23.77,22.37,1.5,1.5,1,Sunrisers Hyderabad,54.57,36.38
+2024,Ashton Turner,All-Rounder,Indian,25,5,27.33,131.57,90,0,0,10,8.48,33.9,17.14,1.0,1.0,1,Lucknow Super Giants,48.19,48.19
+2024,Gus Atkinson,Bowler,Overseas,20,0,9.64,105.95,28,0,0,7,9.59,32.21,26.16,1.0,1.0,1,Kolkata Knight Riders,12.01,12.01
+2024,Sumit Kumar,All-Rounder,Indian,20,0,19.96,103.57,62,0,0,4,9.35,31.48,21.64,1.0,1.0,1,Delhi Capitals,31.8,31.8
+2024,Shai Hope,Batsman,Overseas,19,0,24.78,98.32,137,1,0,0,9.27,36.74,28.06,0.75,0.75,1,Delhi Capitals,42.15,56.2
+2024,Kartik Tyagi,Bowler,Indian,24,4,11.58,116.44,53,0,0,15,8.54,27.5,18.24,0.5,0.6,1,Gujarat Titans,27.41,45.68
+2024,Azmatullah Omarzai,All-Rounder,Overseas,20,0,22.37,102.32,89,1,0,5,8.14,29.42,18.56,0.5,0.5,1,Gujarat Titans,35.78,71.56
+2024,Chetan Sakariya,Bowler,Indian,23,3,10.37,115.23,58,0,0,9,8.54,29.78,21.1,0.5,0.5,1,Kolkata Knight Riders,18.46,36.92
+2024,K.S. Bharat,Batsman,Indian,21,2,27.27,113.01,173,0,0,0,8.96,36.52,27.59,0.5,0.5,1,Kolkata Knight Riders,48.27,96.54
+2024,Manish Pandey,Batsman,Indian,30,10,42.74,177.06,656,5,1,1,9.28,39.19,29.43,0.5,0.5,1,Kolkata Knight Riders,83.33,166.66
+2024,Nandre Burger,Bowler,Overseas,20,0,10.92,103.62,29,0,0,10,9.45,32.41,24.56,0.5,0.5,1,Rajasthan Royals,16.94,33.88
+2024,Tristan Stubbs,Batsman,Overseas,19,0,24.96,103.76,74,0,0,0,9.53,37.42,31.12,0.5,0.5,1,Delhi Capitals,42.59,85.18
+2024,Tom Kohler-Cadmore,Batsman,Overseas,19,0,20.26,100.9,60,0,0,0,9.09,36.04,29.04,0.3,0.4,1,Rajasthan Royals,39.57,98.92
+2024,Abid Mushtaq,All-Rounder,Indian,20,0,14.54,96.18,48,0,0,1,9.77,31.87,24.66,0.3,0.2,1,Rajasthan Royals,24.53,122.65
+2024,Akash Singh,Bowler,Indian,24,4,10.83,98.95,70,0,0,7,9.57,29.41,23.53,0.2,0.2,1,Sunrisers Hyderabad,12.49,62.45
+2024,Angkrish Raghuvanshi,Batter,Indian,20,0,16.54,105.16,149,1,0,1,8.51,25.45,21.85,0.2,0.2,1,Kolkata Knight Riders,29.35,146.75
+2024,Anshul Kamboj,All-Rounder,Indian,20,0,16.6,96.5,123,1,0,7,9.0,28.53,18.34,0.3,0.2,1,Mumbai Indians,33.85,169.25
+2024,Arshad Khan,All-Rounder,Indian,22,2,21.65,116.57,140,1,0,6,8.9,29.25,20.51,0.3,0.2,1,Lucknow Super Giants,38.13,190.65
+2024,Arshin Kulkarni,All-Rounder,Indian,20,0,15.94,103.09,32,0,0,6,9.5,27.54,23.83,0.3,0.2,1,Lucknow Super Giants,32.8,164.0
+2024,Ashutosh Sharma,All-Rounder,Indian,20,0,19.27,101.35,146,2,0,3,9.13,29.74,17.16,0.3,0.2,1,Punjab Kings,30.43,152.15
+2024,Avanish Rao Aravelly,Batsman,Indian,19,0,15.43,102.28,95,0,0,0,9.26,34.9,30.83,0.2,0.2,1,Chennai Super Kings,38.76,193.8
+2024,Jhathavedh Subramanyan,Bowler,Indian,20,0,10.87,105.99,49,0,0,7,9.57,35.13,21.91,0.2,0.2,1,Sunrisers Hyderabad,12.28,61.4
+2024,Manav Suthar,Bowler,Indian,20,0,12.47,97.0,16,0,0,0,9.33,30.92,23.46,0.2,0.2,1,Gujarat Titans,2.17,10.85
+2024,Naman Dhir,All-Rounder,Indian,20,0,23.59,103.95,177,1,0,6,9.15,29.7,17.76,0.3,0.2,1,Mumbai Indians,35.59,177.95
+2024,Prince Choudhary,Bowler,Indian,20,0,8.25,100.38,14,0,0,8,10.35,30.49,23.3,0.2,0.2,1,Punjab Kings,12.14,60.7
+2024,Ramandeep Singh,All-Rounder,Indian,22,2,19.47,108.49,124,1,0,8,8.27,33.46,21.7,0.3,0.2,1,Kolkata Knight Riders,39.63,198.15
+2024,Rasikh Dar,Bowler,Indian,25,5,11.74,104.34,68,0,0,16,8.42,25.15,17.98,0.2,0.2,1,Delhi Capitals,29.42,147.1
+2024,Ricky Bhui,Batsman,Overseas,30,10,31.17,147.38,319,3,0,1,8.19,38.94,28.01,0.2,0.2,1,Delhi Capitals,63.06,315.3
+2024,Sakib Hussain,Bowler,Indian,20,0,8.96,116.35,13,0,0,1,9.34,30.23,22.81,0.2,0.2,1,Kolkata Knight Riders,3.61,18.05
+2024,Saurav Chuahan,Batter,Indian,20,0,16.89,92.17,32,0,0,6,9.06,30.79,19.57,0.2,0.2,1,Royal Challengers Bengaluru,31.74,158.7
+2024,Shashank Singh,All-Rounder,Indian,28,7,26.12,141.36,157,0,0,1,9.37,27.07,18.85,0.3,0.2,1,Punjab Kings,37.26,186.3
+2024,Shivalik Sharma,All-Rounder,Indian,20,0,17.55,96.16,95,0,0,1,8.78,31.49,19.42,0.3,0.2,1,Mumbai Indians,27.26,136.3
+2024,Shreyas Gopal,Bowler,Indian,31,10,13.57,105.09,52,0,0,12,8.55,29.86,21.18,0.2,0.2,1,Mumbai Indians,22.87,114.35
+2024,Swapnil Singh,All-Rounder,Indian,29,8,24.87,157.7,145,1,0,6,10.24,28.78,20.02,0.3,0.2,1,Royal Challengers Bengaluru,44.96,224.8
+2024,Swastik Chhikara,Batter,Indian,20,0,17.28,94.41,96,0,0,0,8.07,30.36,18.57,0.2,0.2,1,Delhi Capitals,27.06,135.3
+2024,Tanay Thyagarajann,All-Rounder,Indian,20,0,20.28,90.86,41,0,0,0,10.0,28.88,21.08,0.3,0.2,1,Punjab Kings,23.24,116.2
+2024,Vishwanath Pratap Singh,All-Rounder,Indian,20,0,17.76,99.15,119,0,0,3,8.28,29.38,18.46,0.3,0.2,1,Punjab Kings,31.31,156.55
+2025,Rishabh Pant,Batsman,Indian,31,9,62.0,205.0,973,9,1,2,9.72,37.25,27.61,2.0,27.0,1,Lucknow Super Giants,105.76,3.92
+2025,Shreyas Iyer,Batsman,Indian,32,10,62.0,205.0,973,9,2,4,9.38,39.86,27.26,2.0,26.75,1,Punjab Kings,105.76,3.95
+2025,Venkatesh Iyer,All-Rounder,Indian,24,4,45.0,190.0,623,4,1,24,6.94,19.98,15.39,2.0,23.75,1,Kolkata Knight Riders,84.17,3.54
+2025,Arshdeep Singh,Bowler,Indian,26,6,13.81,106.2,118,0,0,32,6.81,20.03,15.49,2.0,18.0,1,Punjab Kings,58.75,3.26
+2025,Yuzvendra Chahal,Bowler,Indian,23,3,15.28,116.37,116,0,0,32,6.52,18.31,14.95,2.0,18.0,1,Punjab Kings,59.6,3.31
+2025,Jos Buttler,Batsman,Overseas,31,9,62.0,205.0,970,9,2,1,9.29,40.01,28.03,2.0,15.75,1,Gujarat Titans,105.7,6.71
+2025,KL Rahul,Batsman,Indian,33,11,60.87,205.0,776,9,2,3,9.37,34.9,27.67,2.0,14.0,1,Delhi Capitals,101.37,7.24
+2025,Jofra Archer,All-Rounder,Overseas,28,7,45.0,190.0,510,5,1,24,7.82,20.23,19.02,2.0,12.5,1,Rajasthan Royals,82.41,6.59
+2025,Josh Hazlewood,Bowler,Overseas,32,11,12.88,104.51,94,0,0,32,7.21,15.24,16.91,2.0,12.5,1,Royal Challengers Bengaluru,57.31,4.58
+2025,Trent Boult,Bowler,Overseas,31,10,13.1,119.14,135,0,0,32,6.3,21.72,13.57,2.0,12.5,1,Mumbai Indians,60.45,4.84
+2025,Mohammed Siraj,Bowler,Indian,29,8,15.25,117.26,97,0,0,32,7.93,19.66,17.38,2.0,12.25,1,Gujarat Titans,55.18,4.5
+2025,Mitchell Starc,Bowler,Overseas,32,11,15.36,131.89,156,0,0,32,6.26,19.23,12.77,2.0,11.75,1,Delhi Capitals,60.78,5.17
+2025,Phil Salt,Batsman,Overseas,21,2,47.42,185.21,410,4,0,1,9.16,39.33,29.09,2.0,11.5,1,Royal Challengers Bengaluru,82.73,7.19
+2025,Ishan Kishan,Batsman,Indian,29,9,62.0,205.0,941,9,2,0,9.23,36.48,27.81,2.0,11.25,1,Sunrisers Hyderabad,105.12,9.34
+2025,Jitesh Sharma,Batsman,Indian,29,9,60.42,205.0,762,8,2,1,8.49,35.9,26.94,1.0,11.0,1,Royal Challengers Bengaluru,100.91,9.17
+2025,Marcus Stoinis,All-Rounder,Overseas,31,10,45.0,190.0,496,5,1,21,8.77,23.68,16.29,2.0,11.0,1,Punjab Kings,76.91,6.99
+2025,Bhuvneshwar Kumar,Bowler,Indian,32,11,12.48,121.03,130,0,0,32,6.39,21.25,18.72,2.0,10.75,1,Royal Challengers Bengaluru,60.13,5.59
+2025,Kagiso Rabada,Bowler,Overseas,29,8,16.38,111.39,85,0,0,32,7.84,18.26,15.98,2.0,10.75,1,Gujarat Titans,55.33,5.15
+2025,T. Natarajan,Bowler,Indian,29,8,11.99,101.71,98,0,0,32,8.34,27.4,17.25,2.0,10.75,1,Delhi Capitals,53.96,5.02
+2025,Mohammed Shami,Bowler,Indian,32,11,12.66,121.73,125,0,0,32,7.13,22.52,17.64,2.0,10.0,1,Sunrisers Hyderabad,57.86,5.79
+2025,Noor Ahmad,Bowler,Overseas,23,3,13.32,105.27,66,0,0,28,8.62,26.6,17.58,2.0,10.0,1,Chennai Super Kings,46.8,4.68
+2025,Avesh Khan,Bowler,Indian,28,7,12.24,110.52,70,1,0,32,7.32,29.17,17.06,2.0,9.75,1,Lucknow Super Giants,56.74,5.82
+2025,R Ashwin,All-Rounder,Indian,23,3,33.57,163.58,334,2,0,12,7.94,24.81,21.22,2.0,9.75,1,Chennai Super Kings,59.63,6.12
+2025,Prasidh Krishna,Bowler,Indian,23,3,13.78,116.56,100,0,0,26,8.33,24.65,16.98,2.0,9.5,1,Gujarat Titans,45.01,4.74
+2025,Deepak Chahar,All-Rounder,Indian,30,9,45.0,190.0,464,3,0,24,7.89,23.76,14.36,2.0,9.25,1,Mumbai Indians,82.27,8.89
+2025,Jake Fraser-Mcgurk,,Overseas,20,0,29.57,144.92,212,1,0,12,8.37,27.4,15.7,2.0,9.0,1,Delhi Capitals,54.04,6.0
+2025,Liam Livingstone,All-Rounder,Overseas,26,6,45.0,186.11,486,3,0,24,7.89,22.87,14.74,2.0,8.75,1,Royal Challengers Bengaluru,81.49,9.31
+2025,Akash Deep,Bowler,Indian,23,3,12.79,105.91,33,0,0,23,8.27,28.15,19.11,1.0,8.0,1,Lucknow Super Giants,40.02,5.0
+2025,Harshal Patel,All-Rounder,Indian,32,11,44.16,190.0,488,4,0,24,8.38,28.87,15.98,2.0,8.0,1,Sunrisers Hyderabad,81.08,10.13
+2025,Mukesh Kumar,Bowler,Indian,22,2,12.05,101.74,86,0,0,19,8.04,25.75,20.13,2.0,8.0,1,Delhi Capitals,35.24,4.41
+2025,David Miller,Batsman,Overseas,27,7,50.89,194.65,610,6,1,2,9.8,39.15,28.66,1.5,7.5,1,Lucknow Super Giants,90.95,12.13
+2025,Marco Jansen,All-Rounder,Overseas,24,4,34.18,162.35,298,1,0,16,8.48,28.14,19.77,1.25,7.0,1,Punjab Kings,63.26,9.04
+2025,Anrich Nortje,Bowler,Overseas,26,6,12.97,98.89,77,0,0,24,8.46,27.29,19.33,2.0,6.5,1,Kolkata Knight Riders,41.39,6.37
+2025,Tushar Deshpande,Bowler,Indian,25,5,10.86,104.37,94,0,0,21,8.35,25.88,18.77,1.0,6.5,1,Rajasthan Royals,37.39,5.75
+2025,Devon Conway,Batsman,Overseas,22,3,37.82,149.71,331,2,0,1,9.24,44.13,25.98,2.0,6.25,1,Chennai Super Kings,66.66,10.67
+2025,Harry Brook,Batter,Overseas,22,2,35.66,147.52,287,2,0,13,7.75,25.39,16.05,2.0,6.25,1,Delhi Capitals,58.52,9.36
+2025,Rasikh Dar,Bowler,Indian,26,6,13.21,98.05,67,0,0,22,8.17,24.48,22.36,0.3,6.0,1,Royal Challengers Bengaluru,39.16,6.53
+2025,Krunal Pandya,All-Rounder,Indian,30,9,40.31,182.33,383,2,0,24,8.39,26.62,17.15,2.0,5.75,1,Royal Challengers Bengaluru,78.56,13.66
+2025,Naman Dhir,All-Rounder,Indian,21,1,23.43,124.22,184,2,0,6,8.18,29.38,19.29,0.3,5.25,1,Mumbai Indians,41.54,7.91
+2025,Wanindu Hasaranga,All-Rounder,Overseas,23,3,34.13,164.74,349,2,0,14,8.46,28.07,14.98,2.0,5.25,1,Rajasthan Royals,61.36,11.69
+2025,Will Jacks,Batter,Overseas,22,2,29.16,140.19,193,0,0,9,8.16,28.48,20.42,2.0,5.25,1,Mumbai Indians,49.81,9.49
+2025,Allah Ghazanfar,,Overseas,20,0,22.42,122.46,98,1,0,9,8.59,28.23,20.74,0.75,4.8,1,Mumbai Indians,43.72,9.11
+2025,Khaleel Ahmed,Bowler,Indian,30,9,9.55,108.82,58,0,0,22,8.61,28.99,20.99,2.0,4.8,1,Chennai Super Kings,37.75,7.86
+2025,Maheesh Theekshana,Bowler,Overseas,23,3,12.95,105.18,37,0,0,16,8.66,29.76,21.38,2.0,4.4,1,Rajasthan Royals,28.39,6.45
+2025,Abdul Samad,All-Rounder,Indian,25,5,31.61,153.43,278,3,0,7,8.29,26.04,23.32,0.3,4.2,1,Lucknow Super Giants,50.41,12.0
+2025,Glenn Maxwell,All-Rounder,Overseas,33,12,45.0,176.28,461,3,0,23,7.9,23.67,20.04,2.0,4.2,1,Punjab Kings,78.31,18.65
+2025,Nehal Wadhera,All-Rounder,Indian,22,2,24.32,134.36,174,2,0,9,8.41,30.56,20.87,0.3,4.2,1,Punjab Kings,46.93,11.17
+2025,Nitish Rana,All-Rounder,Indian,31,10,38.19,174.21,356,1,1,16,8.84,26.75,19.25,1.5,4.2,1,Rajasthan Royals,65.91,15.69
+2025,Rachin Ravindra,All-Rounder,Overseas,21,1,22.69,126.39,175,0,0,8,7.94,27.69,22.4,1.5,4.0,1,Chennai Super Kings,44.67,11.17
+2025,Ashutosh Sharma,All-Rounder,Indian,21,1,23.18,122.89,149,1,0,5,8.53,25.35,21.69,0.3,3.8,1,Delhi Capitals,39.31,10.34
+2025,Priyansh Arya,,Indian,20,0,25.25,102.07,127,2,0,6,8.49,27.35,20.61,0.3,3.8,1,Punjab Kings,36.95,9.72
+2025,Quinton de Kock,Batsman,Overseas,32,12,42.97,182.0,581,6,1,0,9.76,36.89,28.28,2.0,3.6,1,Kolkata Knight Riders,83.41,23.17
+2025,Anshul Kamboj,All-Rounder,Indian,21,1,24.55,104.83,140,2,0,8,9.57,29.3,20.32,0.3,3.4,1,Chennai Super Kings,37.56,11.05
+2025,Mitchell Marsh,All-Rounder,Overseas,30,9,35.14,170.35,371,3,0,11,7.62,26.03,18.08,2.0,3.4,1,Lucknow Super Giants,60.82,17.89
+2025,Rahul Tripathi,Batsman,Indian,27,7,43.41,175.89,541,5,1,2,9.85,35.74,28.33,0.75,3.4,1,Chennai Super Kings,80.95,23.81
+2025,Abhinav Manohar,,Indian,20,0,20.42,107.99,35,0,0,6,8.54,27.93,19.71,0.3,3.2,1,Sunrisers Hyderabad,36.82,11.51
+2025,Rahul Chahar,Bowler,Indian,29,8,11.05,100.08,67,0,0,17,8.75,29.91,20.7,1.0,3.2,1,Sunrisers Hyderabad,29.92,9.35
+2025,Washington Sundar,All-Rounder,Indian,28,7,37.35,171.27,349,4,1,16,8.64,25.92,17.3,2.0,3.2,1,Gujarat Titans,65.51,20.47
+2025,Angkrish Raghuvanshi,Batter,Indian,21,1,18.7,116.52,147,1,0,8,9.13,31.43,22.22,0.3,3.0,1,Kolkata Knight Riders,39.32,13.11
+2025,Tim David,All-Rounder,Overseas,23,3,31.34,136.91,264,2,0,10,8.52,26.46,18.86,2.0,3.0,1,Royal Challengers Bengaluru,50.18,16.73
+2025,Spencer Johnson,Bowler,Overseas,21,1,12.72,106.62,69,0,0,20,8.01,22.18,18.63,2.0,2.8,1,Kolkata Knight Riders,36.66,13.09
+2025,Jacob Bethell,,Overseas,20,0,23.41,113.65,113,1,0,6,7.87,28.38,21.84,1.25,2.6,1,Royal Challengers Bengaluru,40.04,15.4
+2025,Josh Inglis,,Overseas,20,0,24.67,121.82,160,0,0,15,8.69,26.11,19.14,2.0,2.6,1,Punjab Kings,51.15,19.67
+2025,Sherfane Rutherford,All-Rounder,Overseas,26,6,26.22,151.95,171,2,0,10,9.34,27.53,20.73,1.5,2.6,1,Gujarat Titans,50.27,19.33
+2025,Suyash Sharma,Bowler,Indian,22,2,11.05,105.52,79,0,0,12,9.26,29.07,23.22,0.3,2.6,1,Royal Challengers Bengaluru,21.01,8.08
+2025,Adam Zampa,Bowler,Overseas,30,9,12.29,107.75,59,0,0,15,8.62,29.93,18.98,2.0,2.4,1,Sunrisers Hyderabad,27.23,11.35
+2025,Azmatullah Omarzai,All-Rounder,Overseas,21,1,21.74,120.95,169,2,0,6,7.87,31.36,17.72,1.5,2.4,1,Punjab Kings,41.09,17.12
+2025,Gerald Coetzee,All-Rounder,Overseas,21,1,23.19,127.64,211,1,0,7,8.84,24.87,18.72,1.25,2.4,1,Gujarat Titans,42.05,17.52
+2025,Sam Curran,All-Rounder,Overseas,26,6,43.45,179.99,499,4,1,24,8.03,21.69,16.08,2.0,2.4,1,Chennai Super Kings,79.6,33.17
+2025,Shahbaz Ahamad,All-Rounder,Indian,25,5,25.39,142.69,193,1,0,6,7.76,23.32,20.42,1.0,2.4,1,Lucknow Super Giants,46.57,19.4
+2025,Gurjapneet Singh,,Indian,20,0,16.81,105.99,133,0,0,4,8.48,30.18,21.53,0.3,2.2,1,Chennai Super Kings,33.24,15.11
+2025,Mohit Sharma,Bowler,Indian,32,11,14.59,108.06,98,0,0,22,8.35,27.1,20.77,0.5,2.2,1,Delhi Capitals,38.93,17.7
+2025,Aiden Markram,Batsman,Overseas,22,3,30.84,125.04,197,0,0,2,9.24,39.29,31.53,2.0,2.0,1,Lucknow Super Giants,53.79,26.89
+2025,Devdutt Padikkal,Batsman,Indian,25,6,37.64,164.3,407,2,1,2,9.52,39.21,27.98,2.0,2.0,1,Royal Challengers Bengaluru,72.49,36.24
+2025,Faf du Plessis,Batsman,Overseas,31,11,40.99,179.39,578,6,1,0,9.94,38.82,26.2,2.0,2.0,1,Delhi Capitals,81.77,40.88
+2025,Fazalhaq Farooqi,Bowler,Overseas,23,3,10.32,104.99,59,0,0,12,8.26,28.46,18.7,2.0,2.0,1,Rajasthan Royals,23.81,11.9
+2025,Glenn Phillips,Batsman,Overseas,22,3,29.3,130.42,285,2,0,0,9.84,38.72,27.85,2.0,2.0,1,Gujarat Titans,56.55,28.27
+2025,Lockie Ferguson,Bowler,Overseas,29,8,16.46,110.04,76,0,0,29,8.16,22.86,15.81,2.0,2.0,1,Punjab Kings,49.78,24.89
+2025,Mitchell Santner,All-Rounder,Overseas,28,7,29.15,141.35,204,2,0,5,8.44,28.09,21.06,2.0,2.0,1,Mumbai Indians,44.68,22.34
+2025,Moeen Ali,All-Rounder,Overseas,28,7,32.58,159.83,357,3,0,12,8.9,24.08,16.23,2.0,2.0,1,Kolkata Knight Riders,56.71,28.36
+2025,Nathan Ellis,Bowler,Overseas,23,3,10.41,107.9,63,0,0,8,9.19,30.24,21.44,1.25,2.0,1,Chennai Super Kings,15.06,7.53
+2025,Rahmanullah Gurbaz,,Overseas,20,0,21.84,106.49,99,1,0,4,9.61,32.43,22.02,2.0,2.0,1,Kolkata Knight Riders,32.34,16.17
+2025,Sai Kishore,Bowler,Indian,25,5,14.51,100.58,42,0,0,11,9.34,32.03,20.34,0.75,2.0,1,Gujarat Titans,18.9,9.45
+2025,Vaibhav Arora,Bowler,Indian,24,4,10.6,102.04,51,0,0,9,8.95,32.55,20.5,0.3,1.8,1,Kolkata Knight Riders,17.16,9.53
+2025,Vyshak Vijaykumar,,Indian,20,0,21.28,110.71,94,0,0,6,8.79,29.56,19.13,0.3,1.8,1,Punjab Kings,37.08,20.6
+2025,Deepak Hooda,All-Rounder,Indian,32,11,31.8,150.29,323,1,0,10,8.35,29.34,19.9,0.75,1.7,1,Chennai Super Kings,53.31,31.36
+2025,Mahipal Lomror,All-Rounder,Indian,30,9,26.84,156.57,211,1,0,11,8.72,32.72,24.12,0.5,1.7,1,Gujarat Titans,53.78,31.64
+2025,Nuwan Thushara,Bowler,Overseas,21,1,12.84,106.11,38,0,0,12,9.06,27.43,20.25,0.75,1.6,1,Royal Challengers Bengaluru,21.2,13.25
+2025,Yash Thakur,Bowler,Indian,22,2,13.07,103.44,32,0,0,12,9.53,30.26,24.22,0.3,1.6,1,Punjab Kings,19.73,12.33
+2025,Ajinkya Rahane,Batsman,Indian,27,7,34.35,157.09,411,5,2,0,9.09,39.18,26.98,1.5,1.5,1,Kolkata Knight Riders,69.09,46.06
+2025,Harpreet Brar,All-Rounder,Indian,26,6,28.15,150.56,229,2,0,11,8.6,25.81,21.19,0.3,1.5,1,Punjab Kings,53.15,35.43
+2025,Jamie Overton,,Overseas,20,0,19.58,109.44,90,1,0,1,9.26,31.83,20.63,1.5,1.5,1,Chennai Super Kings,29.46,19.64
+2025,Kwena Maphaka,,Overseas,20,0,21.05,101.46,103,1,0,4,8.43,27.81,22.84,0.75,1.5,1,Rajasthan Royals,33.49,22.33
+2025,Romario Shepherd,All-Rounder,Overseas,23,3,25.38,134.62,231,1,0,15,8.93,24.98,17.94,1.5,1.5,1,Royal Challengers Bengaluru,53.41,35.61
+2025,Rovman Powell,All-Rounder,Overseas,29,8,33.67,169.28,309,1,0,16,8.89,26.41,18.24,1.5,1.5,1,Kolkata Knight Riders,63.69,42.46
+2025,Simarjeet Singh,Bowler,Indian,23,3,9.52,100.91,33,0,0,7,9.64,31.26,21.19,0.3,1.5,1,Sunrisers Hyderabad,11.91,7.94
+2025,Arshad Khan,All-Rounder,Indian,23,3,22.66,122.49,119,0,0,4,9.37,31.53,23.02,0.3,1.3,1,Gujarat Titans,36.22,27.86
+2025,Gurnoor Singh Brar,,Indian,20,0,19.44,97.87,40,0,0,8,9.84,34.2,19.35,0.3,1.3,1,Gujarat Titans,34.35,26.42
+2025,Aaron Hardie,,Overseas,20,0,17.93,99.52,95,0,0,4,7.99,30.47,18.03,1.25,1.25,1,Punjab Kings,33.21,26.57
+2025,Akash Madhwal,,Indian,20,0,15.95,101.07,26,0,0,3,9.37,26.35,20.64,0.3,1.2,1,Rajasthan Royals,29.06,24.22
+2025,Eshan Malinga,,Overseas,20,0,18.64,106.93,98,0,0,5,8.52,30.71,21.35,0.3,1.2,1,Sunrisers Hyderabad,35.01,29.18
+2025,Vijay Shankar,All-Rounder,Indian,32,11,24.7,150.38,289,2,0,13,8.42,32.27,20.46,0.3,1.2,1,Chennai Super Kings,55.01,45.84
+2025,Vaibhav Suryavanshi,,Indian,20,0,18.33,105.52,60,1,0,4,7.91,29.59,21.78,0.3,1.1,1,Rajasthan Royals,34.67,31.52
+2025,Brydon Carse,,Overseas,20,0,21.37,97.23,73,0,0,0,9.49,32.77,20.3,1.0,1.0,1,Sunrisers Hyderabad,25.81,25.81
+2025,Jaydev Unadkat,Bowler,Indian,33,12,14.5,111.15,96,0,0,30,7.53,17.35,15.55,1.0,1.0,1,Sunrisers Hyderabad,53.37,53.37
+2025,Lungi Ngidi,Bowler,Overseas,28,7,9.05,105.18,77,0,0,14,9.41,30.74,20.18,1.0,1.0,1,Royal Challengers Bengaluru,23.54,23.54
+2025,Ryan Rickelton,,Overseas,20,0,23.49,103.36,102,0,0,1,8.69,27.98,20.06,1.0,1.0,1,Mumbai Indians,30.36,30.36
+2025,Sameer Rizvi,Batter,Indian,21,1,25.89,121.8,206,0,0,12,8.91,26.79,16.82,0.3,0.95,1,Delhi Capitals,47.41,49.91
+2025,Vishnu Vinod,Batsman,Indian,23,4,26.57,124.9,197,4,0,0,9.82,41.0,30.49,0.3,0.95,1,Punjab Kings,52.04,54.78
+2025,Kuldeep Sen,Bowler,Indian,23,3,12.73,107.2,55,0,0,10,9.79,32.45,22.17,0.75,0.8,1,Punjab Kings,16.18,20.22
+2025,Shubham Dubey,Batter,Indian,21,1,22.52,124.1,149,1,0,5,8.57,27.65,22.82,0.3,0.8,1,Rajasthan Royals,39.31,49.14
+2025,Xavier Bartlett,,Overseas,20,0,21.22,98.26,62,1,0,4,8.85,32.79,23.33,0.75,0.8,1,Punjab Kings,32.06,40.08
+2025,Donovan Ferreira,Batsman,Overseas,21,2,24.13,114.83,168,2,0,0,8.44,39.08,26.96,0.75,0.75,1,Delhi Capitals,47.46,63.28
+2025,Dushmantha Chameera,Bowler,Overseas,28,7,12.62,111.5,54,0,0,11,8.94,30.92,20.93,0.75,0.75,1,Delhi Capitals,20.22,26.96
+2025,Ishant Sharma,Bowler,Indian,32,11,10.94,104.92,56,0,0,20,8.18,27.93,21.62,0.75,0.75,1,Gujarat Titans,36.02,48.03
+2025,Jayant Yadav,All-Rounder,Indian,32,11,27.4,149.14,215,1,0,11,8.28,29.58,20.47,0.75,0.75,1,Gujarat Titans,53.32,71.09
+2025,Kamindu Mendis,,Overseas,20,0,16.65,101.7,84,0,0,4,9.47,29.84,26.72,0.75,0.75,1,Sunrisers Hyderabad,30.36,40.48
+2025,Karim Janat,,Overseas,20,0,18.44,105.38,142,0,0,2,8.51,29.12,22.72,0.75,0.75,1,Gujarat Titans,31.07,41.43
+2025,Lizaad Williams,,Overseas,20,0,15.93,101.52,88,0,0,4,8.02,31.47,21.53,0.75,0.75,1,Mumbai Indians,33.05,44.07
+2025,M Siddharth,Bowler,Indian,25,5,8.08,104.1,53,0,0,10,9.26,28.5,20.88,0.3,0.75,1,Lucknow Super Giants,17.75,23.67
+2025,Manish Pandey,Batsman,Indian,31,11,50.23,181.8,710,7,1,1,9.58,39.64,29.5,0.75,0.75,1,Kolkata Knight Riders,88.83,118.44
+2025,Matthew Breetzke,,Overseas,20,0,18.86,106.51,93,0,0,4,8.65,29.13,21.98,0.75,0.75,1,Lucknow Super Giants,33.52,44.69
+2025,Reece Topley,Bowler,Overseas,22,2,12.75,111.96,50,0,0,11,8.73,31.35,22.38,0.75,0.75,1,Mumbai Indians,20.81,27.75
+2025,Shamar Joseph,,Overseas,20,0,19.71,105.67,68,0,0,1,8.19,31.85,20.63,0.75,0.75,1,Lucknow Super Giants,30.88,41.17
+2025,Umran Malik,,Indian,20,0,14.48,97.23,117,0,0,4,10.05,30.57,23.21,0.75,0.75,1,Kolkata Knight Riders,27.87,37.16
+2025,Kumar Kushagra,Batsman,Indian,20,1,24.41,118.16,246,3,0,0,9.25,40.14,28.5,0.3,0.65,1,Gujarat Titans,50.13,77.12
+2025,Robin Minz,Batsman,Indian,20,1,27.03,118.32,216,4,0,1,9.42,35.43,29.43,0.3,0.65,1,Mumbai Indians,50.63,77.89
+2025,Vansh Bedi,,Indian,20,0,21.15,102.69,107,0,0,5,8.51,32.6,22.63,0.3,0.55,1,Chennai Super Kings,34.81,63.29
+2025,Karn Sharma,Bowler,Indian,32,11,11.52,119.5,83,0,0,19,8.11,28.61,17.19,0.5,0.5,1,Mumbai Indians,35.0,70.0
+2025,Karun Nair,Batsman,Indian,31,11,35.93,162.27,533,6,1,1,9.26,39.59,26.28,0.3,0.5,1,Delhi Capitals,73.71,147.42
+2025,Swapnil Singh,All-Rounder,Indian,30,9,24.18,153.26,183,1,0,5,8.75,25.84,20.91,0.3,0.5,1,Royal Challengers Bengaluru,45.2,90.4
+2025,Vipraj Nigam,,Indian,20,0,17.7,100.16,76,0,0,0,9.77,33.87,22.86,0.3,0.5,1,Delhi Capitals,24.92,49.84
+2025,Anukul Roy,All-Rounder,Indian,28,7,25.89,145.23,142,0,0,3,9.24,33.99,24.27,0.3,0.4,1,Kolkata Knight Riders,40.64,101.6
+2025,Madhav Tiwari,,Indian,20,0,21.18,104.33,89,1,0,7,9.37,29.26,18.84,0.3,0.4,1,Delhi Capitals,35.82,89.55
+2025,Zeeshan Ansari,,Indian,20,0,19.73,105.77,123,1,0,0,9.18,28.61,21.25,0.3,0.4,1,Sunrisers Hyderabad,27.73,69.33
+2025,Yudhvir Charak,All-Rounder,Indian,24,4,21.19,133.7,174,0,0,6,10.28,29.31,23.96,0.3,0.35,1,Rajasthan Royals,39.24,112.11
+2025,Abhinandan Singh,,Indian,20,0,17.34,103.56,64,0,0,5,9.13,28.71,24.32,0.3,0.3,1,Royal Challengers Bengaluru,32.79,109.3
+2025,Ajay Mandal,All-Rounder,Indian,22,2,20.51,108.4,84,0,0,3,9.47,32.87,18.43,0.3,0.3,1,Delhi Capitals,31.47,104.9
+2025,Akash Singh,Bowler,Indian,25,5,10.36,107.98,56,1,0,11,9.05,34.92,20.8,0.3,0.3,1,Lucknow Super Giants,19.91,66.37
+2025,Andre Siddarth,,Indian,20,0,16.03,95.36,85,0,0,3,9.77,29.93,20.55,0.3,0.3,1,Chennai Super Kings,27.14,90.47
+2025,Aniket Verma,,Indian,20,0,20.5,98.05,34,0,0,6,9.62,34.71,22.51,0.3,0.3,1,Sunrisers Hyderabad,32.7,109.0
+2025,Anuj Rawat,Batsman,Indian,24,5,32.72,141.01,277,2,0,1,9.31,37.28,27.15,0.3,0.3,1,Gujarat Titans,60.93,203.1
+2025,Arjun Tendulkar,All-Rounder,Indian,24,4,23.66,129.94,195,0,0,6,8.81,33.3,21.32,0.3,0.3,1,Mumbai Indians,41.48,138.27
+2025,Arshin Kulkarni,All-Rounder,Indian,21,1,15.77,112.3,82,0,0,6,8.6,27.41,21.98,0.3,0.3,1,Lucknow Super Giants,36.4,121.33
+2025,Aryan Juyal,Batsman,Indian,22,3,19.85,117.23,227,2,0,0,10.51,36.82,28.6,0.3,0.3,1,Lucknow Super Giants,47.65,158.83
+2025,Ashok Sharma,Bowler,Indian,23,3,10.57,108.46,43,0,0,11,8.96,34.84,23.18,0.3,0.3,1,Rajasthan Royals,20.05,66.83
+2025,Ashwani Kumar,,Indian,20,0,14.89,97.81,90,1,0,3,9.21,30.92,23.81,0.3,0.3,1,Mumbai Indians,28.46,94.87
+2025,Atharva Taide,All-Rounder,Indian,23,3,19.28,108.96,139,0,0,4,9.59,28.29,25.6,0.3,0.3,1,Sunrisers Hyderabad,32.23,107.43
+2025,Bevan John Jacobs,,Overseas,20,0,17.04,100.59,84,0,0,4,9.3,28.36,24.45,0.3,0.3,1,Mumbai Indians,30.58,101.93
+2025,Darshan Nalkande,All-Rounder,Indian,26,6,25.14,136.2,166,0,0,2,8.06,30.58,21.01,0.3,0.3,1,Delhi Capitals,39.8,132.67
+2025,Digvesh Singh,,Indian,20,0,17.11,91.78,61,0,0,2,8.88,29.96,18.87,0.3,0.3,1,Lucknow Super Giants,27.27,90.9
+2025,Harnoor Pannu,,Indian,20,0,18.5,103.25,93,0,0,3,9.04,27.74,22.56,0.3,0.3,1,Punjab Kings,30.8,102.67
+2025,Himmat Singh,Batsman,Indian,25,6,25.58,142.02,256,3,1,0,9.18,39.05,27.62,0.3,0.3,1,Lucknow Super Giants,57.96,193.2
+2025,Kamlesh Nagarkoti,All-Rounder,Indian,28,7,26.76,141.92,193,1,0,10,7.79,29.4,17.95,0.3,0.3,1,Chennai Super Kings,51.49,171.63
+2025,Kulwant Khejroliya,Bowler,Indian,29,8,12.55,97.26,43,0,0,11,8.27,32.86,20.37,0.3,0.3,1,Gujarat Titans,22.12,73.73
+2025,Kumar Kartikeya Singh,,Indian,20,0,16.42,97.83,73,0,0,3,8.75,29.27,23.34,0.3,0.3,1,Rajasthan Royals,29.77,99.23
+2025,Kunal Rathore,Batsman,Indian,21,2,20.29,109.32,190,0,0,0,9.11,43.39,27.38,0.3,0.3,1,Rajasthan Royals,44.71,149.03
+2025,Luvnith Sisodia,Batsman,Indian,22,3,24.77,124.01,201,2,0,0,9.24,37.9,29.75,0.3,0.3,1,Kolkata Knight Riders,51.13,170.43
+2025,Manav Suthar,Bowler,Indian,21,1,9.97,84.71,53,0,0,5,8.94,31.28,22.14,0.3,0.3,1,Gujarat Titans,11.21,37.37
+2025,Manoj Bhandage,All-Rounder,Indian,22,2,19.18,113.1,118,0,0,2,8.86,32.14,23.66,0.3,0.3,1,Royal Challengers Bengaluru,32.09,106.97
+2025,Manvanth Kumar L,,Indian,20,0,14.65,95.91,62,1,0,2,8.27,31.79,21.1,0.3,0.3,1,Delhi Capitals,28.7,95.67
+2025,Mayank Markande,Bowler,Indian,28,7,11.04,94.27,64,0,0,13,8.48,30.97,20.96,0.3,0.3,1,Kolkata Knight Riders,24.7,82.33
+2025,Mohit Rathee,All-Rounder,Indian,22,2,20.46,112.57,124,0,0,3,8.25,30.01,20.72,0.3,0.3,1,Royal Challengers Bengaluru,34.73,115.77
+2025,Mukesh Choudhary,Bowler,Indian,23,3,10.88,92.35,16,0,0,6,8.22,36.23,23.46,0.3,0.3,1,Chennai Super Kings,14.5,48.33
+2025,Musheer Khan,,Indian,20,0,19.74,104.12,72,1,0,0,8.64,29.21,20.26,0.3,0.3,1,Punjab Kings,28.48,94.93
+2025,Nishant Sindhu,All-Rounder,Indian,22,2,25.17,114.24,125,1,0,4,9.1,31.68,23.37,0.3,0.3,1,Gujarat Titans,35.74,119.13
+2025,Pravin Dubey,All-Rounder,Indian,23,3,17.97,109.42,121,1,0,6,9.04,33.4,21.99,0.3,0.3,1,Punjab Kings,35.5,118.33
+2025,Prince Yadav,,Indian,20,0,15.23,101.19,90,0,0,3,8.48,33.06,20.66,0.3,0.3,1,Lucknow Super Giants,30.69,102.3
+2025,Pyla Avinash,,Indian,20,0,14.77,98.34,86,0,0,5,9.34,28.74,19.07,0.3,0.3,1,Punjab Kings,30.68,102.27
+2025,Raj Angad Bawa,All-Rounder,Indian,23,3,21.78,121.52,165,2,0,7,8.78,29.29,17.68,0.3,0.3,1,Mumbai Indians,40.59,135.3
+2025,Rajvardhan Hangargekar,All-Rounder,Indian,23,3,24.72,119.58,148,1,0,3,9.65,30.68,19.93,0.3,0.3,1,Lucknow Super Giants,34.4,114.67
+2025,Ramakrishna Ghosh,,Indian,20,0,17.11,104.33,98,0,0,5,8.9,28.44,23.29,0.3,0.3,1,Chennai Super Kings,33.34,111.13
+2025,Sachin Baby,Batsman,Indian,29,9,33.43,146.68,350,5,0,0,9.57,38.23,29.13,0.3,0.3,1,Sunrisers Hyderabad,64.38,214.6
+2025,Shaik Rasheed,Batter,Indian,22,2,24.34,121.21,74,0,0,1,8.38,30.37,21.07,0.3,0.3,1,Chennai Super Kings,34.77,115.9
+2025,Shreyas Gopal,Bowler,Indian,32,11,12.02,103.29,65,0,0,12,8.76,31.44,22.94,0.3,0.3,1,Chennai Super Kings,22.37,74.57
+2025,Shrijith Krishnan,,Indian,20,0,14.69,101.36,66,0,0,6,8.16,32.86,16.83,0.3,0.3,1,Mumbai Indians,34.82,116.07
+2025,Suryansh Shedge,,Indian,20,0,17.84,96.11,68,2,0,1,8.52,28.7,23.3,0.3,0.3,1,Punjab Kings,27.84,92.8
+2025,Swastik Chhikara,Batter,Indian,21,1,17.49,109.41,98,0,0,3,9.72,29.18,20.1,0.3,0.3,1,Royal Challengers Bengaluru,30.41,101.37
+2025,Tripurana Vijay,,Indian,20,0,16.31,92.33,66,1,0,2,8.72,33.98,22.17,0.3,0.3,1,Delhi Capitals,27.5,91.67
+2025,Venkata Satyanarayana Penmetsa,,Indian,20,0,17.91,97.25,44,1,0,4,8.77,30.9,21.69,0.3,0.3,1,Mumbai Indians,31.19,103.97
+2025,Vignesh Puthur,,Indian,20,0,21.32,89.17,135,0,0,0,9.47,30.9,21.28,0.3,0.3,1,Mumbai Indians,24.22,80.73
+2025,Yuvraj Chaudhary,,Indian,20,0,17.39,92.69,68,0,0,4,9.45,31.3,20.42,0.3,0.3,1,Lucknow Super Giants,28.79,95.97
+2026,Cameron Green,All-Rounder,Overseas,23,3,45.0,190.0,637,5,1,24,7.28,19.87,13.11,2.0,25.2,1,Kolkata Knight Riders,83.49,3.31
+2026,Matheesha Pathirana,,Overseas,20,0,40.31,166.14,348,2,0,20,7.23,19.13,12.83,2.0,18.0,1,Kolkata Knight Riders,72.85,4.05
+2026,Kartik Sharma,,Indian,20,0,40.47,149.89,373,1,0,18,8.52,22.93,16.09,0.3,14.2,1,Chennai Super Kings,64.66,4.55
+2026,Prashant Veer,,Indian,20,0,33.52,152.54,294,2,0,18,7.78,23.5,16.1,0.3,14.2,1,Chennai Super Kings,64.93,4.57
+2026,Liam Livingstone,All-Rounder,Overseas,28,7,45.0,190.0,514,4,0,23,7.47,25.6,16.57,2.0,13.0,1,Sunrisers Hyderabad,81.91,6.3
+2026,Mustafizur Rahman,Bowler,Overseas,31,10,10.35,104.33,93,0,0,32,7.62,26.58,15.83,2.0,9.2,1,Kolkata Knight Riders,56.07,6.09
+2026,Josh Inglis,,Overseas,21,1,33.55,148.49,211,1,0,16,9.16,27.43,19.09,2.0,8.6,1,Lucknow Super Giants,58.97,6.86
+2026,Auqib Dar,,Indian,20,0,25.59,132.62,163,0,0,14,8.07,26.75,15.67,0.3,8.4,1,Delhi Capitals,53.58,6.38
+2026,Ravi Bishnoi,Bowler,Indian,26,6,11.55,116.69,103,0,0,28,8.9,26.85,19.65,2.0,7.2,1,Rajasthan Royals,46.33,6.43
+2026,Jason Holder,All-Rounder,Overseas,34,13,40.32,180.74,409,3,0,18,8.19,28.2,17.53,2.0,7.0,1,Gujarat Titans,71.45,10.21
+2026,Venkatesh Iyer,All-Rounder,Indian,25,5,45.0,190.0,586,4,1,24,6.89,21.2,13.95,2.0,7.0,1,Royal Challengers Bengaluru,84.27,12.04
+2026,Mangesh Yadav,,Indian,20,0,25.01,121.99,132,0,0,7,8.85,25.72,19.85,0.3,5.2,1,Royal Challengers Bengaluru,41.35,7.95
+2026,Rahul Chahar,Bowler,Indian,30,9,11.69,110.94,62,0,0,24,9.07,27.75,19.01,1.0,5.2,1,Chennai Super Kings,39.41,7.58
+2026,Ben Dwarshuis,Bowler,Overseas,29,8,9.8,104.06,48,0,0,20,8.66,27.16,21.86,1.0,4.4,1,Punjab Kings,34.5,7.84
+2026,Pathum Nissanka,,Overseas,20,0,21.5,122.3,91,1,0,6,7.68,27.46,23.84,0.75,4.0,1,Delhi Capitals,41.67,10.42
+2026,Cooper Connolly,,Overseas,20,0,22.98,96.17,94,0,0,5,8.48,29.1,19.38,2.0,3.0,1,Punjab Kings,34.02,11.34
+2026,Jack Edwards,,Overseas,20,0,21.38,109.78,96,0,0,6,8.61,26.45,20.56,0.5,3.0,1,Sunrisers Hyderabad,37.28,12.43
+2026,Tejasvi Singh,,Indian,20,0,17.86,110.35,144,1,0,2,9.12,29.49,21.21,0.3,3.0,1,Kolkata Knight Riders,30.7,10.23
+2026,Mukul Choudhary,,Indian,20,0,18.1,113.16,107,0,0,4,8.35,27.15,22.39,0.3,2.6,1,Lucknow Super Giants,35.26,13.56
+2026,Adam Milne,Bowler,Overseas,32,11,16.34,106.38,56,0,0,16,8.25,33.1,22.06,2.0,2.4,1,Rajasthan Royals,29.81,12.42
+2026,Akshat Raghuwanshi,,Indian,20,0,18.41,102.64,133,0,0,4,8.79,26.53,19.76,0.3,2.2,1,Lucknow Super Giants,32.35,14.7
+2026,Akeal Hosein,Bowler,Overseas,23,3,12.02,110.12,55,0,0,9,8.52,31.37,23.95,2.0,2.0,1,Chennai Super Kings,18.49,9.24
+2026,Anrich Nortje,Bowler,Overseas,28,7,12.16,102.86,75,0,0,20,8.3,27.13,18.23,2.0,2.0,1,Lucknow Super Giants,35.85,17.93
+2026,Ben Duckett,,Overseas,20,0,21.06,101.26,84,2,0,5,10.44,27.97,22.9,2.0,2.0,1,Delhi Capitals,31.52,15.76
+2026,David Miller,Batsman,Overseas,28,8,49.43,186.98,478,4,1,3,8.66,34.07,31.25,2.0,2.0,1,Delhi Capitals,85.43,42.72
+2026,Finn Allen,Batsman,Overseas,23,4,32.08,140.67,245,3,0,0,9.35,33.46,27.55,2.0,2.0,1,Kolkata Knight Riders,59.93,29.96
+2026,Jacob Duffy,,Overseas,20,0,20.21,104.97,35,0,0,5,8.44,29.02,22.87,2.0,2.0,1,Royal Challengers Bengaluru,35.17,17.59
+2026,Kyle Jamieson,All-Rounder,Overseas,25,5,39.78,171.34,449,3,1,22,7.54,22.16,15.07,2.0,2.0,1,Delhi Capitals,75.53,37.77
+2026,Lungi Ngidi,Bowler,Overseas,29,8,12.31,102.33,54,0,0,17,8.49,32.38,19.57,2.0,2.0,1,Delhi Capitals,30.57,15.29
+2026,Matt Henry,Bowler,Overseas,33,12,13.12,101.44,33,0,0,13,9.21,27.73,23.15,2.0,2.0,1,Chennai Super Kings,22.2,11.1
+2026,Rachin Ravindra,All-Rounder,Overseas,22,2,24.37,125.93,154,1,0,9,8.89,31.17,20.08,2.0,2.0,1,Kolkata Knight Riders,44.3,22.15
+2026,Tom Banton,Batsman,Overseas,25,6,32.45,157.71,294,2,0,0,9.32,38.4,28.27,2.0,2.0,1,Gujarat Titans,66.17,33.09
+2026,Wanindu Hasaranga,All-Rounder,Overseas,24,4,36.61,145.19,279,1,0,16,8.1,21.63,21.92,2.0,2.0,1,Lucknow Super Giants,61.19,30.59
+2026,Matthew Short,,Overseas,20,0,18.44,107.81,118,1,0,2,9.47,28.49,22.73,1.5,1.5,1,Chennai Super Kings,29.63,19.75
+2026,Salil Arora,,Indian,20,0,19.73,98.6,160,1,0,5,8.67,30.12,20.97,0.3,1.5,1,Sunrisers Hyderabad,33.31,22.21
+2026,Tim Seifert,Batsman,Overseas,23,4,34.62,132.06,124,0,0,0,8.69,35.16,27.47,1.5,1.5,1,Kolkata Knight Riders,55.95,37.3
+2026,Akash Deep,Bowler,Indian,24,4,13.52,106.05,70,0,0,21,6.93,30.53,19.27,1.0,1.0,1,Kolkata Knight Riders,41.41,41.41
+2026,Naman Tiwari,,Indian,20,0,18.74,104.03,57,1,0,5,8.0,31.07,20.41,0.3,1.0,1,Lucknow Super Giants,35.49,35.49
+2026,Quinton de Kock,Batsman,Overseas,33,13,39.26,165.32,555,7,1,0,9.66,38.62,29.96,1.0,1.0,1,Mumbai Indians,76.4,76.4
+2026,Ravi Singh,,Indian,20,0,19.23,105.07,60,1,0,3,8.77,31.38,20.0,0.3,0.95,1,Rajasthan Royals,31.88,33.56
+2026,Ashok Sharma,Bowler,Indian,24,4,8.74,93.5,40,0,0,6,9.02,35.25,20.13,0.3,0.9,1,Gujarat Titans,12.34,13.71
+2026,Sushant Mishra,Bowler,Indian,22,2,9.98,101.96,44,0,0,7,8.24,29.24,21.28,0.3,0.9,1,Rajasthan Royals,16.22,18.02
+2026,Jordan Cox,,Overseas,20,0,19.73,103.48,110,0,0,0,8.13,25.98,22.65,0.75,0.75,1,Royal Challengers Bengaluru,29.37,39.16
+2026,Kuldeep Sen,Bowler,Indian,24,4,9.19,101.86,8,0,0,5,9.04,36.91,19.54,0.75,0.75,1,Rajasthan Royals,10.46,13.95
+2026,Luke Wood,,Overseas,20,0,19.76,97.96,77,0,0,5,9.1,28.74,20.62,0.75,0.75,1,Gujarat Titans,32.33,43.11
+2026,Prithvi Shaw,Batsman,Indian,28,8,29.11,147.41,342,4,1,0,9.49,38.34,27.24,0.75,0.75,1,Delhi Capitals,62.71,83.61
+2026,Rahul Tripathi,Batsman,Indian,28,8,43.44,174.4,509,6,1,1,10.24,38.19,26.36,0.75,0.75,1,Kolkata Knight Riders,79.88,106.51
+2026,Sarfaraz Khan,All-Rounder,Indian,24,4,21.05,130.8,93,2,0,7,8.07,28.96,23.74,0.75,0.75,1,Chennai Super Kings,43.68,58.24
+2026,Shivam Mavi,All-Rounder,Indian,29,8,31.35,162.82,327,1,0,19,7.93,27.5,19.15,0.75,0.75,1,Sunrisers Hyderabad,67.34,89.79
+2026,Zak Foulkes,,Overseas,20,0,17.93,97.42,79,0,0,4,8.26,33.58,20.17,0.75,0.75,1,Chennai Super Kings,32.25,43.0
+2026,Aman Khan,All-Rounder,Indian,24,4,22.8,128.0,166,2,0,7,8.89,29.51,21.39,0.3,0.4,1,Chennai Super Kings,41.92,104.8
+2026,Aman Rao Perala,,Indian,20,0,18.53,103.0,89,0,0,5,9.42,30.76,19.89,0.3,0.3,1,Rajasthan Royals,32.39,107.97
+2026,Amit Kumar,,Indian,20,0,15.64,95.49,79,1,0,2,9.1,29.02,22.18,0.3,0.3,1,Sunrisers Hyderabad,27.21,90.7
+2026,Atharva Ankolekar,,Indian,20,0,16.79,109.56,83,0,0,4,9.82,29.76,20.03,0.3,0.3,1,Mumbai Indians,31.27,104.23
+2026,Brijesh Sharma,,Indian,20,0,16.22,100.53,95,0,0,3,9.29,33.66,21.01,0.3,0.3,1,Rajasthan Royals,29.18,97.27
+2026,Daksh Kamra,,Indian,20,0,16.55,99.38,60,0,0,1,9.01,31.43,18.82,0.3,0.3,1,Kolkata Knight Riders,27.19,90.63
+2026,Danish Malewar,,Indian,20,0,18.88,102.71,99,1,0,7,8.83,28.73,18.63,0.3,0.3,1,Mumbai Indians,36.0,120.0
+2026,Kanishk Chouhan,,Indian,20,0,20.03,97.61,61,0,0,3,8.42,32.87,22.37,0.3,0.3,1,Royal Challengers Bengaluru,31.29,104.3
+2026,Kartik Tyagi,Bowler,Indian,26,6,10.81,96.94,79,0,0,18,8.92,22.69,18.73,0.3,0.3,1,Kolkata Knight Riders,31.03,103.43
+2026,Krains Fuletra,,Indian,20,0,18.29,97.05,56,0,0,4,9.23,29.55,21.71,0.3,0.3,1,Sunrisers Hyderabad,30.32,101.07
+2026,Mayank Rawat,,Indian,20,0,16.5,99.6,33,0,0,3,9.02,31.75,20.51,0.3,0.3,1,Mumbai Indians,29.61,98.7
+2026,Mohammad Izhar,,Indian,20,0,15.5,99.81,43,1,0,2,9.21,30.67,18.41,0.3,0.3,1,Mumbai Indians,27.82,92.73
+2026,Onkar Tarmale,,Indian,20,0,19.66,98.67,107,1,0,5,9.37,31.76,17.27,0.3,0.3,1,Sunrisers Hyderabad,31.91,106.37
+2026,Praful Hinge,,Indian,20,0,15.63,94.92,44,1,0,2,9.68,31.98,19.74,0.3,0.3,1,Sunrisers Hyderabad,25.93,86.43
+2026,Prashant Solanki,Bowler,Indian,24,4,9.46,109.91,48,0,0,6,8.33,28.86,20.2,0.3,0.3,1,Kolkata Knight Riders,14.49,48.3
+2026,Pravin Dubey,All-Rounder,Indian,24,4,23.18,128.15,138,3,0,3,9.15,29.12,22.13,0.3,0.3,1,Punjab Kings,36.73,122.43
+2026,Prithviraj Yarra,,Indian,20,0,18.98,104.02,70,0,0,3,9.01,31.79,21.22,0.3,0.3,1,Gujarat Titans,31.13,103.77
+2026,Sahil Parakh,,Indian,20,0,14.73,104.63,59,0,0,5,9.4,30.34,19.27,0.3,0.3,1,Delhi Capitals,31.81,106.03
+2026,Sakib Hussain,Bowler,Indian,22,2,10.55,105.66,43,0,0,6,9.4,34.1,22.6,0.3,0.3,1,Sunrisers Hyderabad,11.23,37.43
+2026,Sarthak Ranjan,,Indian,20,0,25.66,104.87,101,1,0,5,8.43,28.4,19.1,0.3,0.3,1,Kolkata Knight Riders,36.53,121.77
+2026,Satvik Deswal,,Indian,20,0,19.31,98.61,74,0,0,2,8.67,28.01,20.49,0.3,0.3,1,Royal Challengers Bengaluru,29.61,98.7
+2026,Shivang Kumar,,Indian,20,0,19.54,100.37,60,0,0,3,8.32,33.31,23.31,0.3,0.3,1,Sunrisers Hyderabad,31.92,106.4
+2026,Vicky Ostwal,All-Rounder,Indian,24,4,24.33,124.86,125,1,0,7,8.91,30.72,21.48,0.3,0.3,1,Royal Challengers Bengaluru,41.63,138.77
+2026,Vignesh Puthur,,Indian,21,1,18.8,101.22,113,1,0,1,9.01,27.03,20.35,0.3,0.3,1,Rajasthan Royals,28.12,93.73
+2026,Vihaan Malhotra,,Indian,20,0,16.23,100.33,124,1,0,4,9.54,34.53,20.08,0.3,0.3,1,Royal Challengers Bengaluru,29.84,99.47
+2026,Vishal Nishad,,Indian,20,0,15.76,102.24,72,0,0,2,9.79,28.62,22.63,0.3,0.3,1,Punjab Kings,27.21,90.7
+2026,Yash Raj Punja,,Indian,20,0,17.5,101.39,56,0,0,0,9.12,28.4,20.67,0.3,0.3,1,Rajasthan Royals,26.41,88.03

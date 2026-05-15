@@ -1,0 +1,10 @@
+{
+  "r2": 0.6427,
+  "rmse": 1.7249,
+  "mae": 0.8665,
+  "best_params": {
+    "max_depth": null,
+    "min_samples_leaf": 2,
+    "n_estimators": 200
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "total_records": 1379,
+  "total_sold": 1379,
+  "total_unsold": 0,
+  "avg_price_overall": 2.39,
+  "max_price": 27.0,
+  "min_price": 0.1,
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "franchises": [
+    "Chennai Super Kings",
+    "Delhi Capitals",
+    "Gujarat Lions",
+    "Gujarat Titans",
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants",
+    "Mumbai Indians",
+    "Pune Warriors India",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Rising Pune Supergiant",
+    "Royal Challengers Bengaluru",
+    "Sunrisers Hyderabad"
+  ],
+  "roles": [
+    "All-Rounder",
+    "Batsman",
+    "Batter",
+    "Bowler"
+  ]
+}
