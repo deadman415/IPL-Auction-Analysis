@@ -73,11 +73,11 @@ ipl_auction_analysis/
 
 | Page | What it does |
 |------|-------------|
-| 📊 Overview Dashboard | KPIs, trends, role distribution, franchise spend |
-| 🔍 Player Analysis | Filterable scatter plots with nationality colors, role symbols, heatmaps, data table |
-| 💡 Value Finder | Undervalued player finder + budget optimizer |
-| 🤖 Price Predictor | Enter stats → get predicted price + SHAP explanation |
-| 🏢 Franchise Insights | Spend efficiency, rankings, strategy recommendations |
+|  Overview Dashboard | KPIs, trends, role distribution, franchise spend |
+|  Player Analysis | Filterable scatter plots with nationality colors, role symbols, heatmaps, data table |
+|  Value Finder | Undervalued player finder + budget optimizer |
+|  Price Predictor | Enter stats → get predicted price + SHAP explanation |
+|  Franchise Insights | Spend efficiency, rankings, strategy recommendations |
 
 ---
 
